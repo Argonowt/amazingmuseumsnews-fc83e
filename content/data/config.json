@@ -23,7 +23,7 @@
             },
             {
                 "type": "Link",
-                "label": "Adventures",
+                "label": "Author",
                 "url": "/blog",
                 "altText": ""
             }
