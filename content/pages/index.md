@@ -19,7 +19,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
+    title: The essential guides to discover and admire the best museums in the world
     subtitle: ''
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
