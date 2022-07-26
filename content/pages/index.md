@@ -22,7 +22,7 @@ sections:
     title: The essential guides to discover and admire the best museums in the world
     subtitle: ''
     text: |
-      Autor y director de la colección: Carlos Taranilla
+      Author and book series director: Carlos Taranilla
     actions:
       - type: Button
         label: Join adventure
