@@ -15,45 +15,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeatureHighlightSection
-    colors: colors-c
-    elementId: ''
-    backgroundSize: full
-    title: The essential guides to discover and admire the best museums in the world
-    subtitle: ''
-    text: |
-      Author and book series director: Carlos Taranilla
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: secondary
-        url: /
-    backgroundImage:
-      type: ImageBlock
-      url: /images/hero-3.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-72
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
