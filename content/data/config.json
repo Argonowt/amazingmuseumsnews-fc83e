@@ -17,7 +17,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Books",
                 "url": "/about",
                 "altText": ""
             },
