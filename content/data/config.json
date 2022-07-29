@@ -128,7 +128,7 @@
                 "label": "Contact us",
                 "altText": "",
                 "url": "/",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "mail",
                 "iconPosition": "left",
                 "style": "secondary",
