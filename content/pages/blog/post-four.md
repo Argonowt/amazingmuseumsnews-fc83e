@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 date: '2021-12-01'
-colors: colors-c
+colors: colors-d
 excerpt: >-
   The spanish painter, in addition to becoming the official painter of the
   Spanish royal family, held several positions for his king. One of them took
