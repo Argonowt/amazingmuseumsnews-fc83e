@@ -99,7 +99,7 @@ sections:
     quote: |
       "Museums are places where time is transformed into space."
     name: Orhan Pamuk
-    title: Head chef at Parks
+    title: Nobel Prize in Literature in 2006
     styles:
       self:
         height: auto
