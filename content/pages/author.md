@@ -29,7 +29,7 @@ sections:
         altText: twitter
     media:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/FOTO TARANILLA 20181021_144720.jpg
       altText: Image alt text
     styles:
       self:
