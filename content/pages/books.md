@@ -80,7 +80,10 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: |
+      ### The Louvre Art Guide
+
+      Available soon.
     actions: []
     media:
       type: ImageBlock
