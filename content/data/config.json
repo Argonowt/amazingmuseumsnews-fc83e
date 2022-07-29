@@ -72,7 +72,7 @@
             "emailAltText": "Our email",
             "addressAltText": "Our address"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "Copyright © 2022 Argonowta; all rights reserved.\n",
         "primaryLinks": [
             {
                 "type": "Link",
