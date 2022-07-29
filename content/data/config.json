@@ -41,7 +41,7 @@
             {
                 "type": "Button",
                 "label": "Buy the books",
-                "url": "mailto:info@lorem.mail",
+                "url": "https://www.amazingmuseums.com",
                 "altText": "Contact us",
                 "style": "primary",
                 "showIcon": true,
