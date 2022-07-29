@@ -86,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: 'Read the latest articles, curiosities and news'
     subtitle: ''
     posts:
       - content/pages/blog/post-five.md
