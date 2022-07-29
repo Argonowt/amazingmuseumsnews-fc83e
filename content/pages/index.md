@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeatureHighlightSection
-    colors: colors-c
+    colors: colors-d
     elementId: ''
     backgroundSize: full
     title: Time to leave your desk. Let’s go flying
