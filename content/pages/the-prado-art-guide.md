@@ -41,6 +41,15 @@ sections:
         icon: cart
         style: primary
         url: 'https://www.amazingmuseums.com'
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1.png
