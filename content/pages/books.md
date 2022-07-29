@@ -28,7 +28,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: /the-prado-art-guide
     media:
       type: ImageBlock
       url: /images/1659095223.png
