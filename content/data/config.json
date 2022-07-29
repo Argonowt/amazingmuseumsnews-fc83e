@@ -130,7 +130,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "Contact us",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
