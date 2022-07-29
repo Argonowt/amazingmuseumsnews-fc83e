@@ -65,7 +65,7 @@ sections:
     variant: variant-c
     actions:
       - type: Link
-        label: 'Read all the '
+        label: Read all the articles
         altText: See all adventures
         url: /blog
         showIcon: true
