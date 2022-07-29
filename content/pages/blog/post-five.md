@@ -4,8 +4,9 @@ layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+  The first book to open the collection will see the light next September with
+  El Prado, an essential guide to discover the history and all that this museum
+  has to offer its visitors.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
