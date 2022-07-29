@@ -42,7 +42,7 @@ sections:
         style: primary
         url: 'https://www.amazingmuseums.com'
       - type: Button
-        label: Learn more
+        label: Buy the e-book
         altText: ''
         url: 'https://www.amazingmuseums.com'
         showIcon: false
