@@ -63,7 +63,7 @@ sections:
     elementId: ''
     variant: variant-b
     title: Carlos Javier Taranilla de la Varga
-    subtitle: Author and book series director
+    subtitle: Author and book series director.
     text: >
       Carlos Javier Taranilla de la Varga, born in León (1956), holds a degree
       in Geography and History and specialized in Art History from the
