@@ -1,5 +1,5 @@
 ---
-title: Deep Sea Fishing
+title: What are the main art galleries in Spain?
 layout: PostLayout
 date: '2021-06-28'
 excerpt: >-
