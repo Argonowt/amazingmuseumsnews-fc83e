@@ -44,7 +44,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.amazingmuseums.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
