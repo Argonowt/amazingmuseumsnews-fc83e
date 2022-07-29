@@ -2,7 +2,6 @@
 title: Fishing from the coast
 layout: PostLayout
 date: '2021-11-04'
-author: content/data/team/desmond-eagle.json
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
