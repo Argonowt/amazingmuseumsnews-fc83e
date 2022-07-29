@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Instagram
-        url: /
+        url: 'https://www.instagram.com/carlos_taranilla/?hl=es'
         style: secondary
         elementId: hero-main-button
         showIcon: true
