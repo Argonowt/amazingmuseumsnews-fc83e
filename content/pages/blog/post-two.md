@@ -1,5 +1,5 @@
 ---
-title: 5 datos curiosos sobre el Museo del Prado
+title: 5 curious facts about the Prado Museum
 layout: PostLayout
 date: '2021-11-03'
 excerpt: >-
