@@ -160,7 +160,7 @@ sections:
       text:
         textAlign: center
   - type: TextSection
-    colors: colors-e
+    colors: colors-a
     elementId: ''
     variant: variant-a
     title: The Section Title
