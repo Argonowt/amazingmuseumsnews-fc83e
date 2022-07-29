@@ -40,7 +40,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: 'https://www.amazingmuseums.com'
     media:
       type: ImageBlock
       url: /images/1.png
