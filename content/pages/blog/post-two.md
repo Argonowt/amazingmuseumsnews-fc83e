@@ -7,7 +7,7 @@ excerpt: >-
   galleries in Spain in its two hundred years of existence.
 featuredImage:
   type: ImageBlock
-  url: /images/post-2.jpg
+  url: /images/gfe7q2gfutsnf2ycwrd4lypzmm_2000.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
