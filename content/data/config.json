@@ -43,7 +43,7 @@
                 "label": "Buy the books",
                 "url": "mailto:info@lorem.mail",
                 "altText": "Contact us",
-                "style": "secondary",
+                "style": "primary",
                 "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right"
