@@ -24,6 +24,7 @@ sections:
         url: /
         style: secondary
         showIcon: true
+        icon: twitter
     media:
       type: ImageBlock
       url: /images/hero.webp
