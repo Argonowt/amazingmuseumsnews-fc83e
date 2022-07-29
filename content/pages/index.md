@@ -98,7 +98,7 @@ sections:
     colors: colors-d
     quote: |
       "Museums are places where time is transformed into space."
-    name: Isabelle Parks
+    name: Orhan Pamuk
     title: Head chef at Parks
     styles:
       self:
