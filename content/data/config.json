@@ -84,7 +84,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Libros",
                 "url": "/about",
                 "altText": ""
             },
