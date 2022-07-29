@@ -12,7 +12,7 @@ sections:
     elementId: ''
     backgroundSize: full
     text: >
-      ### The Prado, Art Guide
+      ### The Prado. Art Guide
 
 
       Discover one of the greatest art galleries in the world, from its
