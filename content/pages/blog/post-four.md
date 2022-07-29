@@ -4,8 +4,9 @@ layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
 excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
+  The spanish painter, in addition to becoming the official painter of the
+  Spanish royal court, held several positions for his king. One of them took him
+  to Italy on several occasions, and inspired some of his works.
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
