@@ -13,7 +13,14 @@ sections:
     backgroundSize: full
     title: We do fishing differently
     subtitle: Fresh. Better. Faster.
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: >
+      Discover one of the greatest art galleries in the world, from its
+      beginnings to its transformation into a Museum of Paintings and its latest
+      extensions. Admire and understand the great works of art it houses, as
+      well as the masters who created them: El Greco, Velázquez, Goya,
+      Botticelli, Raphael, the Venetians, Rubens, Rembrandt, Lorraine, Poussin,
+      19th century Spanish painting and the sculptural and decorative works it
+      treasures in its collections.
     actions:
       - type: Button
         label: Join adventure
