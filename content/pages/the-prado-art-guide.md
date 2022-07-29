@@ -108,13 +108,17 @@ sections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Discover one of the greatest art galleries in the world, from its
+      beginnings to its transformation into a Museum of Paintings and its latest
+      extensions. Admire and understand the great works of art it houses, as
+      well as the masters who created them: El Greco, Velázquez, Goya,
+      Botticelli, Raphael, the Venetians, Rubens, Rembrandt, Lorraine, Poussin,
+      19th century Spanish painting and the sculptural and decorative works it
+      treasures in its collections. An essential art guide to fully admire the
+      main national art museum in Spain, which houses one of the best
+      collections of European art in the world and the most complete collection
+      of Spanish painting.
     styles:
       self:
         height: auto
