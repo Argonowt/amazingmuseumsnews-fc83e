@@ -38,7 +38,7 @@ sections:
       - type: Button
         label: Buy the paperback book
         showIcon: true
-        icon: arrowRight
+        icon: cart
         style: primary
         url: 'https://www.amazingmuseums.com'
     media:
