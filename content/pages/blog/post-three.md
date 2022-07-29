@@ -7,7 +7,7 @@ excerpt: >-
   to its transformation into a Museum of Paintings and its latest extensions.
 featuredImage:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/1659095223.png
   altText: Post Image
 media:
   type: ImageBlock
