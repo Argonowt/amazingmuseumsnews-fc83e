@@ -79,6 +79,7 @@ The collection of the Joan Miró Foundation is located in Montjuic and includes 
 ### Guggenheim Museum (Bilbao)
 
 The Guggenheim in Bilbao, which has been open since 2007, is a work of art starting with its building, designed by Frank Gehry Architects. As for the exhibits at the museum, they tend to change frequently and focus on 20th and 21st century works. If you are one of those people who don't understand the term "art installation" or have never been there (or just to see the building from the outside), or if you love contemporary art, the Guggenheim Bilbao is a must-see.
+
 ### Thyssen-Bornemisza Museum (Madrid)
 
 The Prado, Reina Sofia and Thyssen-Bornemisza museums are known as Madrid's "art triangle. And what's in that third corner? A little bit of everything for all tastes. Their collections range from Italian and German Renaissance, through Flemish painting (Rubens, Spain's only Van Eyck or Rembrandt), Impressionism (Manet, Monet, etc.), Expressionism (Van Gogh, Munch, etc.) and several examples of 20th century avant-garde fine art.
@@ -89,16 +90,15 @@ And we continue with the next edge of the "Art Triangle". For those of you who e
 
 ![](https://www.inoutviajes.com/fotos/20/12318\_Teatro-Museo.jpg)
 
-*Teatro-Museo Dalí, en Figueres.*
+*Dalí Theater-Museum, Figueres.*
 
-#### Teatro-Museo Dalí (Figueres)
+### Dalí Theater-Museum (Figueres)
+Which brings us to the Dalí Theatre-Museum in Figueres. If you like Salvador Dalí, you must travel to his birthplace, Figueres, and visit this museum whose project was created by the artist himself. The enclosure includes his last room and his tomb, which are located inside the museum itself. As its name suggests, the building housing this large collection of Salvador Dalí's works was formerly a theater, where the painter exhibited for the first time in 1918. Along with the Reina Sofía, the Dalí Theater-Museum in Figueres is one of the places with the largest collection of the artist's works.
 
-Lo que nos lleva al Teatro-Museo Dalí de Figueres. Si te gusta Salvador Dalí, debes viajar a su lugar natal, Figueres, y visitar este museo cuyo proyecto fue creado por el propio artista. El recinto incluye su última habitación y su tumba, que se encuentran dentro del propio museo. Como su nombre indica, el edificio en el que se alberga esta gran colección de obras de Salvador Dalí fue antes un teatro, lugar en el que el pintor expuso por primera vez en 1918. Junto con el Reina Sofía, el Teatro-Museo Dalí de Figueres es uno de los lugares con una mayor colección de obras del artista.
+### National Museum of Roman Art (Mérida)
 
-#### Museo Nacional de Arte Romano (Mérida)
+Inaugurated in 1986, the construction of this Museum and Research Center of Roman Art was one of the first great works of the architect Rafael Moneo and also the work that led him to begin to gain recognition outside Spain. The museum itself is for any lover of Roman culture: more than 36,000 exhibits, archaeological remains from the city of Emerita Augusta, as well as lectures, courses, temporary exhibitions and other activities.
 
-Inaugurado en 1986, la construcción de este Museo y Centro de Investigación de Arte Romano fue una de las primeras grandes obras del arquitecto Rafael Moneo y también la obra que le llevó a empezar a ganar reconocimiento fuera de España. El museo en sí es para cualquier amante de la cultura romana: más de 36.000 objetos expuestos, restos arqueológicos de la ciudad de Emerita Augusta, además de conferencias, cursos, exposiciones temporales y otro tipo de actividades.
+### Valencian Institute of Modern Art (Valencia)
 
-#### Instituto Valenciano de Arte Moderno (Valencia)
-
-El Instituto Valenciano de Arte Moderno (IVAM) está especializado en el arte de vanguardia del siglo XX, haciendo un recorrido bastante completo por movimientos como la abstracción o el pop-art. Además de las exposiciones permanentes, a menudo ofrece exposiciones temporales. Entre las pinturas que podemos visitar se encuentran obras de artistas internacionales como Paul Klee, Robert Delaunay y Frantisek Kupka.
+The Valencian Institute of Modern Art (IVAM) specializes in the avant-garde art of the 20th century, making a fairly complete tour of movements such as abstraction or pop-art. In addition to permanent exhibitions, it often offers temporary exhibitions. Among the paintings we can visit are works by international artists such as Paul Klee, Robert Delaunay and Frantisek Kupka.
