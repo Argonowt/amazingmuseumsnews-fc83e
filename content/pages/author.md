@@ -64,13 +64,19 @@ sections:
     variant: variant-b
     title: Carlos Javier Taranilla de la Varga
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Carlos Javier Taranilla de la Varga, born in León (1956), holds a degree
+      in Geography and History and specialized in Art History from the
+      University of Oviedo (1978).
+
+
+      An expert in art and history, for thirty-five years he has worked as a
+      professor of this discipline in different schools. He has published more
+      than twenty books on art and history characterized by a didactic and
+      informative tone, combined with the necessary rigor to make his works
+      essential titles. Among all his work, it is worth mentioning the
+      collection Breve historia del Arte, consisting of 12 volumes and published
+      by Ediciones Nowtilus.
     styles:
       self:
         height: auto
