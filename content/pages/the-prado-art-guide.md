@@ -36,7 +36,7 @@ sections:
 
     actions:
       - type: Button
-        label: Join adventure
+        label: Buy the paperback book
         showIcon: true
         icon: arrowRight
         style: primary
