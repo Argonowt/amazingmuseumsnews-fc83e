@@ -69,8 +69,6 @@ This September will see the light this essential artistic guide to discover and 
 
 Discover one of the greatest art galleries in the world, from its beginnings to its transformation into the Museum of Paintings and its latest extensions. Admire and understand the great works of art it houses, as well as the masters who created them: El Greco, Velázquez, Goya, Botticelli, Raphael, the Venetians, Rubens, Rembrandt, Lorraine, Poussin, 19th century Spanish painting and the sculptural and decorative works it treasures in its collections. An essential art guide to fully admire the main national art museum in Spain, which houses one of the best collections of European art in the world and the most complete collection of Spanish painting.
 
-
-
 ### What makes this guide different from other guides to the Prado?
 
 *   To learn about the history and collections of one of the most important museums in the world: 96 essential masterpieces arranged by school, style and author.
@@ -83,5 +81,7 @@ Discover one of the greatest art galleries in the world, from its beginnings to 
 
 *   Glossary of artistic terms necessary to understand the less known concepts of the text and to establish relationships between the different stages of the history of art.
 
-*   For more information, visit the other sections of our website.
+For more information, visit the other sections of our website.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D5RBmxS7IZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
