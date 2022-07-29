@@ -135,7 +135,7 @@
                 "url": "/",
                 "showIcon": false,
                 "icon": "mail",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
             }
