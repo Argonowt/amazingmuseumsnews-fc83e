@@ -98,7 +98,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: The Prado Art Guide
-    subtitle: The section subtitle
+    subtitle: A book by Carlos Taranilla
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
