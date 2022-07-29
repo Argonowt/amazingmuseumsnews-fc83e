@@ -89,7 +89,7 @@
             {
                 "type": "Link",
                 "label": "Author",
-                "url": "/blog",
+                "url": "/author",
                 "altText": ""
             },
             {
