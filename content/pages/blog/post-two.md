@@ -3,8 +3,8 @@ title: Fishing from the coast
 layout: PostLayout
 date: '2021-11-03'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  We review facts and anecdotes that have surrounded one of the largest
+  galleries in Spain in its two hundred years of existence.
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg
