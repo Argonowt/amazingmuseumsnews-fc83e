@@ -106,7 +106,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-b
-    title: The Section Title
+    title: The Prado Art Guide
     subtitle: The section subtitle
     text: >
       Discover one of the greatest art galleries in the world, from its
