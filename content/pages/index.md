@@ -66,7 +66,7 @@ sections:
     actions:
       - type: Link
         label: Read all the articles
-        altText: See all adventures
+        altText: Read all the articles
         url: /blog
         showIcon: true
         icon: arrowRight
