@@ -121,13 +121,7 @@ sections:
     variant: variant-a
     title: Bibliography
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "Within his extensive bibliography, titles such as: \n\n*   Brief history of Art, Ediciones Nowtilus:\n\n*\r\r    Brief history of the Renaissance, Ediciones Nowtilus. Madrid, 2017\n\n*\r    Brief history of the Baroque, Ediciones Nowtilus. Madrid, 2018\n\n*\r    Brief history of the Neoclassical Art, Ediciones Nowtilus. Madrid, 2019\n\n*\r    Brief history of Paleochristian and Byzantine art, Ediciones Nowtilus. Madrid, 2022\n\n*\r    Brief history of Pre-Columbian art, Ediciones Nowtilus. Madrid, 2022\n\n"
     styles:
       self:
         height: auto
