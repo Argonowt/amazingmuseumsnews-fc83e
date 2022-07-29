@@ -13,7 +13,7 @@ sections:
     title: Meet Carlos Taranilla
     actions:
       - type: Button
-        label: Get Started
+        label: Instagram
         url: /
         style: primary
         elementId: hero-main-button
