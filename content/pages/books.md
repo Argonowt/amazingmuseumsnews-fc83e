@@ -112,13 +112,7 @@ sections:
     elementId: ''
     backgroundSize: full
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
+    actions: []
     media:
       type: ImageBlock
       url: /images/1658496518.png
