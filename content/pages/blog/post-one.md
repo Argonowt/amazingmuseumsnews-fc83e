@@ -7,7 +7,7 @@ excerpt: >-
   exhibition of pictorial collections in the world.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/sala-expo_defd243e_1300x867.jpg
   altText: Post thumbnail image
 media:
   type: ImageBlock
