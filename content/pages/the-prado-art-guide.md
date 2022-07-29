@@ -164,7 +164,6 @@ sections:
     elementId: ''
     variant: variant-a
     title: What makes this guide different from other Prado guides?
-    subtitle: The section subtitle
     text: >+
       *   Learn about the history and holdings of one of the most important
       museums in the world: 96 essential masterpieces arranged by school, style
