@@ -11,7 +11,7 @@ featuredImage:
   altText: Post thumbnail image
 media:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/gfe7q2gfutsnf2ycwrd4lypzmm_2000.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
