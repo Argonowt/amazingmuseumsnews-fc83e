@@ -3,8 +3,8 @@ title: Deep Sea Fishing
 layout: PostLayout
 date: '2021-06-28'
 excerpt: >-
-  Deep sea fishing, also called offshore fishing. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+  Spain is a country with some of the best museums for the conservation and
+  exhibition of pictorial collections in the world.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpg
