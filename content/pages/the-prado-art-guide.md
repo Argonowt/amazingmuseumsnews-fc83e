@@ -141,7 +141,6 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-a
-    title: The Section Title
     subtitle: The section subtitle
     text: |
       ![](/images/1659105482.png)
