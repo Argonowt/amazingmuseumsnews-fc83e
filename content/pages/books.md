@@ -58,7 +58,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Nuevos títulos próximamente
+    title: New books coming soon
     subtitle: ''
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
