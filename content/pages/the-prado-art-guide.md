@@ -107,7 +107,9 @@ sections:
     elementId: ''
     variant: variant-b
     title: The Prado Art Guide
-    subtitle: The section subtitle
+    subtitle: >-
+      The essential art guide to discover and learn the essentials of the
+      greatest works, artists and styles in the Prado Museum.
     text: >
       Discover one of the greatest art galleries in the world, from its
       beginnings to its transformation into a Museum of Paintings and its latest
