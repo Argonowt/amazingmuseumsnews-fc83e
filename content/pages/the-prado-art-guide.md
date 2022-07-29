@@ -24,7 +24,7 @@ sections:
 
       *   Edition: 1st edition
 
-      *   Release date: May 2022
+      *   Release date: September 2022
 
       *   ISBN: 9788418943218
 
