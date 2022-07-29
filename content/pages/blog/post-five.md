@@ -8,7 +8,7 @@ excerpt: >-
   has to offer its visitors.
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/1659105482.png
   altText: Post Image
 media:
   type: ImageBlock
