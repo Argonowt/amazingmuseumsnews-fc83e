@@ -23,6 +23,7 @@ sections:
         label: Twitter
         url: /
         style: secondary
+        showIcon: true
     media:
       type: ImageBlock
       url: /images/hero.webp
