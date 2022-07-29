@@ -24,7 +24,7 @@ sections:
       treasures in its collections.
     actions:
       - type: Button
-        label: Join adventure
+        label: Read more
         showIcon: true
         icon: arrowRight
         style: primary
