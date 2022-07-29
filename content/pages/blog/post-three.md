@@ -1,5 +1,5 @@
 ---
-title: Fishing from the coast
+title: 'El Prado, Art Guide available in September'
 layout: PostLayout
 date: '2021-11-04'
 excerpt: >-
