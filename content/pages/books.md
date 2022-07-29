@@ -83,7 +83,7 @@ sections:
     text: |
       ### The Louvre Art Guide
 
-      Available soon.
+      Available soon
     actions: []
     media:
       type: ImageBlock
