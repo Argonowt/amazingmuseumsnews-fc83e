@@ -114,11 +114,10 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    text: |+
+    text: |
       ### The Orsay Museum Art Guide
 
-      Available soon.
-
+      Available soon
     actions: []
     media:
       type: ImageBlock
