@@ -28,7 +28,7 @@ sections:
         label: Buy the books
         showIcon: true
         icon: arrowRight
-        style: secondary
+        style: primary
         url: /
     backgroundImage:
       type: ImageBlock
