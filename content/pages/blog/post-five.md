@@ -1,5 +1,5 @@
 ---
-title: Sunset fishnet
+title: The first Great Museums titles will be available in the coming months.
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
