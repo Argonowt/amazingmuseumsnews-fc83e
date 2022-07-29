@@ -25,7 +25,7 @@ sections:
       Author and director of the book series: Carlos Taranilla
     actions:
       - type: Button
-        label: Join adventure
+        label: Buy the books
         showIcon: true
         icon: arrowRight
         style: secondary
