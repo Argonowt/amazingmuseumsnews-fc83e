@@ -70,11 +70,15 @@ Among other things, he was in charge of decorating the rooms of the Real Alcáza
 
 As Mercedes Gómez tells us, Velázquez's first trip to Italy is illustrated with ten Holy Martyrs of the Apostles, attributed to Tintoretto. In the exhibition we mentioned at the beginning of the article, next to this work we see Velázquez's only surviving copy of \*The Last Supper \*by Tintoretto (1629), in addition to the pencil drawing, The Portrait of Cardinal Borgia, whom Velázquez met in Rome.
 
+![](https://www.grandesmuseos.news/images/img\_3738.jpeg)
+
 "Philip IV. Diego Rodríguez de Silva y Velázquez (workshop), (ca. 1656).
 
 Some of the sculptures brought by Velázquez from Italy, including 35 plaster casts obtained on a second trip in the mid-17th century, were lost in the fire at the Alcazar on Christmas Eve 1734, while seven of the paintings are preserved at the Royal Academy of Fine Arts.
 
 On display in this one-of-a-kind exhibition are Flora and Hercules, which returned to their place in the museum's entrance hall after crossing the courtyard, and five other works. The details of the contracts signed by Velázquez himself, the representative of Juan de Córdoba, who accompanied the painter and sculptor Giuliano Fenelli, are known to all.
+
+![](https://www.grandesmuseos.news/images/img\_3745.jpeg)
 
 "Ariadne asleep".
 
@@ -84,4 +88,4 @@ The guest star illustrating this second trip is a portrait of Juan de Córdoba, 
 
 The painting, from the Capitoline Gallery in Rome, is the only Velázquez painting in the Italian public collection and it is the first time it has been shown in Spain.
 
-*Information extracted from the article *Velázquez in Italy* written by Mercedes Gómez for ArtedeMadrid.*
+*Information extracted from the article Velázquez in Italy written by Mercedes Gómez for ArtedeMadrid.*
