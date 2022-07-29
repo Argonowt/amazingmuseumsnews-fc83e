@@ -46,7 +46,7 @@ sections:
         altText: ''
         url: 'https://www.amazingmuseums.com'
         showIcon: false
-        icon: arrowRight
+        icon: cart
         iconPosition: right
         style: secondary
         elementId: ''
