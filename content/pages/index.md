@@ -96,9 +96,8 @@ sections:
       - content/pages/blog/post-one.md
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      "Museums are places where time is transformed into space."
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
