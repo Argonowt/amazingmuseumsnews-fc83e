@@ -21,7 +21,7 @@ sections:
         icon: instagram
       - type: Button
         label: Twitter
-        url: /
+        url: 'https://twitter.com/carlosjtv1956'
         style: secondary
         showIcon: true
         icon: twitter
