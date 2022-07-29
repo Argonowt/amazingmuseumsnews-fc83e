@@ -111,7 +111,6 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
     subtitle: Fresh. Better. Faster.
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
