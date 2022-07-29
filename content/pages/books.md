@@ -11,7 +11,6 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
     subtitle: Fresh. Better. Faster.
     text: >
       Discover one of the greatest art galleries in the world, from its
