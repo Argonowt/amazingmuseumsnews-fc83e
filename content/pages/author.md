@@ -19,6 +19,7 @@ sections:
         elementId: hero-main-button
         showIcon: true
         icon: instagram
+        altText: Instagram
       - type: Button
         label: Twitter
         url: 'https://twitter.com/carlosjtv1956'
