@@ -15,7 +15,7 @@ sections:
       - type: Button
         label: Instagram
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
       - type: Button
         label: Learn More
