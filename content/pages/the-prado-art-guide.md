@@ -45,7 +45,7 @@ sections:
         label: Buy the e-book
         altText: ''
         url: 'https://www.amazingmuseums.com'
-        showIcon: false
+        showIcon: true
         icon: cart
         iconPosition: right
         style: primary
