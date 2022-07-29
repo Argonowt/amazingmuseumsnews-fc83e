@@ -62,7 +62,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-b
-    title: The Section Title
+    title: Carlos Javier Taranilla de la Varga
     subtitle: The section subtitle
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
