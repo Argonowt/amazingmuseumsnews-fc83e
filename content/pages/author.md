@@ -128,6 +128,12 @@ sections:
       *   Brief history of Art, Ediciones Nowtilus. Madrid, 2014
 
 
+      *   Brief history of the Romanesque, Ediciones Nowtilus. Madrid, 2016
+
+
+      *   Brief history of the Gothic, Ediciones Nowtilus. Madrid, 2017
+
+
       *   Brief history of the Renaissance, Ediciones Nowtilus. Madrid, 2017
 
 
