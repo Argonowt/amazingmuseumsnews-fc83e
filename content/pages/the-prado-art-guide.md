@@ -165,13 +165,31 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      *   Learn about the history and holdings of one of the most important
+      museums in the world: 96 essential masterpieces arranged by school, style
+      and author.
+
+
+      *   Clear, complete and rigorous information on masters, works, periods,
+      collections and funds in general that the museum treasures in its
+      headquarters.
+
+
+      *   Written in a didactic way both for the non-specialized reader and for
+      students and the general public who wish to learn about the Prado's
+      artistic treasures.
+
+
+      *   The rigor of its exposition and the practical approach it provides,
+      make it a useful work, both to prepare and to remember the visit to the
+      museum.
+
+
+      *   Glossary of artistic terms necessary to understand the less known
+      concepts of the text and to establish relationships between the different
+      stages of the history of art.
+
     styles:
       self:
         height: auto
