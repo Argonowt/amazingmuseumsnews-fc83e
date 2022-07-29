@@ -31,7 +31,7 @@ sections:
         url: /
     backgroundImage:
       type: ImageBlock
-      url: /images/hero-3.png
+      url: /images/prado vector.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
