@@ -74,19 +74,18 @@ The collection of the Joan Miró Foundation is located in Montjuic and includes 
 
 ![](https://www.metropoliabierta.com/uploads/s1/33/72/65/home-edifici-1920x990px-1487751929-1920.jpeg)
 
-*Fundación Joan Miró, en Barcelona*
+*Joan Miro Foundation, Barcelona*
 
-#### Museo Guggenheim (Bilbao)
+### Guggenheim Museum (Bilbao)
 
-El Guggenheim de Bilbao, que lleva abierto desde 2007, supone obra de arte empezando con su edificio, diseñado por Frank Gehry Architects. En cuanto a las exhibiciones en el museo, tienden a cambiar con frecuencia y se enfocan en obras de los siglos XX y XXI. Si eres una de esas personas que no entiende el término "instalación de arte" o nunca ha estado allí (o solo para ver el edificio por fuera), o si te encanta el arte contemporáneo, el Guggenheim de Bilbao es una visita obligada.
+The Guggenheim in Bilbao, which has been open since 2007, is a work of art starting with its building, designed by Frank Gehry Architects. As for the exhibits at the museum, they tend to change frequently and focus on 20th and 21st century works. If you are one of those people who don't understand the term "art installation" or have never been there (or just to see the building from the outside), or if you love contemporary art, the Guggenheim Bilbao is a must-see.
+### Thyssen-Bornemisza Museum (Madrid)
 
-#### Museo Thyssen-Bornemisza (Madrid)
+The Prado, Reina Sofia and Thyssen-Bornemisza museums are known as Madrid's "art triangle. And what's in that third corner? A little bit of everything for all tastes. Their collections range from Italian and German Renaissance, through Flemish painting (Rubens, Spain's only Van Eyck or Rembrandt), Impressionism (Manet, Monet, etc.), Expressionism (Van Gogh, Munch, etc.) and several examples of 20th century avant-garde fine art.
 
-Los museos del Prado, Reina Sofía y Thyssen-Bornemisza son conocidos como el "triángulo del arte" de Madrid. ¿Y qué hay en ese tercer ángulo? Un poco de todo para todos los gustos. Sus colecciones van desde el Renacimiento italiano y alemán, pasando por la pintura flamenca (Rubens, el único Van Eyck de España o Rembrandt), el impresionismo (Manet, Monet, etc.), el expresionismo (Van Gogh, Munch, etc.) y varios ejemplos de las bellas artes de vanguardia del siglo XX.
+### Reina Sofia National Museum and Art Center (Madrid)
 
-#### Museo Nacional Centro de Arte Reina Sofía (Madrid)
-
-Y seguimos con la siguiente arista del "Triángulo del Arte". Para los que disfrutáis del arte de los dos últimos siglos, el Reina Sofía es vuestro lugar. En un antiguo edificio hospitalario, este museo alberga pinturas de artistas como Pablo Picasso, Joan Miró o Salvador Dalí, con una gran colección de obras de cada uno de ellos, así como muchos ejemplos de nombres de grandes movimientos artísticos como el surrealismo y el cubismo. Este es el lugar al que debes acudir para ver el Guernica (Picasso) o La chica de la ventana (Dalí).
+And we continue with the next edge of the "Art Triangle". For those of you who enjoy the art of the last two centuries, the Reina Sofia is your place. In a former hospital building, this museum houses paintings by artists such as Pablo Picasso, Joan Miró or Salvador Dalí, with a large collection of works by each of them, as well as many examples of names from great artistic movements such as surrealism and cubism. This is the place to go to see Guernica (Picasso) or The Girl in the Window (Dalí).
 
 ![](https://www.inoutviajes.com/fotos/20/12318\_Teatro-Museo.jpg)
 
