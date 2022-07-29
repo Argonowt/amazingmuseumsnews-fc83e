@@ -76,5 +76,5 @@ Discover one of the greatest art galleries in the world, from its beginnings to 
 
 *   Glossary of artistic terms necessary to understand the less known concepts of the text and to establish relationships between the different stages of the history of art.
 
-*   For more information, visit the other sections of our website.
+For more information, visit the other sections of our website.
 
