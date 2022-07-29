@@ -21,7 +21,8 @@ sections:
     backgroundSize: full
     title: The essential guides to discover and admire the best museums in the world
     subtitle: ''
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: |
+      Author and director of the book series: Carlos Taranilla
     actions:
       - type: Button
         label: Join adventure
