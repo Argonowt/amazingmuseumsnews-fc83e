@@ -114,7 +114,11 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: |+
+      ### The Orsay Museum Art Guide
+
+      Available soon.
+
     actions: []
     media:
       type: ImageBlock
