@@ -3,8 +3,8 @@ title: Fishing from the coast
 layout: PostLayout
 date: '2021-11-04'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Discover one of the greatest art galleries in the world, from its beginnings
+  to its transformation into a Museum of Paintings and its latest extensions.
 featuredImage:
   type: ImageBlock
   url: /images/bg.webp
