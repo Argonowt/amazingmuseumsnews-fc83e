@@ -29,7 +29,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: 'https://amazingmuseums.com'
     backgroundImage:
       type: ImageBlock
       url: /images/prado vector.png
