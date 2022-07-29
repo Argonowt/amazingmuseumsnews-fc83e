@@ -12,7 +12,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: The Prado Art Guide
-    subtitle: Fresh. Better. Faster.
+    subtitle: Carlos Javier Taranilla de la Varga
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button
