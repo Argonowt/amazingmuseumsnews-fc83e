@@ -12,6 +12,9 @@ sections:
     elementId: ''
     backgroundSize: full
     text: >
+      ### The Prado Art Guide
+
+
       Discover one of the greatest art galleries in the world, from its
       beginnings to its transformation into a Museum of Paintings and its latest
       extensions. Admire and understand the great works of art it houses, as
