@@ -56,7 +56,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/AMAZING NEWS.png",
+            "url": "/images/AMAZING_NEWS-removebg-preview.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
