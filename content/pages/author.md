@@ -18,6 +18,7 @@ sections:
         style: secondary
         elementId: hero-main-button
         showIcon: true
+        icon: instagram
       - type: Button
         label: Learn More
         url: /
