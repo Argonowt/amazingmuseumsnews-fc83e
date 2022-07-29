@@ -1,8 +1,5 @@
 ---
-title: >-
-  The first book to open the collection will see the light next September with
-  El Prado, an essential guide to discover the history and all that this museum
-  has to offer its visitors.
+title: The first Great Museums books will be available in the next months
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
