@@ -20,7 +20,7 @@ sections:
         showIcon: true
         icon: instagram
       - type: Button
-        label: Learn More
+        label: Twitter
         url: /
         style: secondary
     media:
