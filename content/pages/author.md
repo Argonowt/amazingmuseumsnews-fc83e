@@ -94,7 +94,7 @@ sections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-e
+    colors: colors-d
     elementId: ''
     variant: variant-a
     title: The Prado Art Guide
