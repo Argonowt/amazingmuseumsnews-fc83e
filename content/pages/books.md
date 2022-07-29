@@ -11,7 +11,6 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    subtitle: Fresh. Better. Faster.
     text: >
       Discover one of the greatest art galleries in the world, from its
       beginnings to its transformation into a Museum of Paintings and its latest
