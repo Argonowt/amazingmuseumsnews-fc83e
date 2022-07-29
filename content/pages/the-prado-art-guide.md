@@ -13,7 +13,27 @@ sections:
     backgroundSize: full
     title: The Prado Art Guide
     subtitle: Carlos Javier Taranilla de la Varga
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: |+
+      *   Collection: Great museums
+
+      *   Size: 14 x 21 cm
+
+      *   Pages: 384
+
+      *   Format: Paperback with color illustrations
+
+      *   Edition: 1st edition
+
+      *   Release date: May 2022
+
+      *   ISBN: 9788418943218
+
+      *   ISBN POD: 9788418943225
+
+      *   ISBN ebook: 9788418943232
+
+      *   RRP: 19,95€.
+
     actions:
       - type: Button
         label: Join adventure
