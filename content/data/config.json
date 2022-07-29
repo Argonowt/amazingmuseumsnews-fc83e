@@ -65,7 +65,6 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-d",
-        "title": "Say hello",
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
