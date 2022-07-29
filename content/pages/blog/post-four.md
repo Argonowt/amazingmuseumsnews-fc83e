@@ -8,7 +8,7 @@ excerpt: >-
   him to Italy on several occasions, and inspired some of his works.
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/diego-velazquez-autorretrato.png
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
