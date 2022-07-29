@@ -121,11 +121,11 @@ sections:
     variant: variant-a
     title: Bibliography
     subtitle: ''
-    text: >
+    text: >+
       Within his extensive bibliography, titles such as:
 
 
-      *   Brief history of Art, Ediciones Nowtilus:
+      *   Brief history of Art, Ediciones Nowtilus. Madrid, 2014
 
 
       *   Brief history of the Renaissance, Ediciones Nowtilus. Madrid, 2017
@@ -143,6 +143,7 @@ sections:
 
 
       *   Brief history of Pre-Columbian art, Ediciones Nowtilus. Madrid, 2022
+
     styles:
       self:
         height: auto
