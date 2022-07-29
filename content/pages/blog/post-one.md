@@ -60,23 +60,21 @@ bottomSections:
 addTitleSuffix: true
 author: content/data/team/person-nqo4ss20y.json
 ---
-#### Museo del Prado (Madrid)
+### Prado Museum (Madrid)
 
-El Museo del Prado es quizás el museo más importante de España, con una colección de obras de los siglos XVI y XIX y todo eso significa: Velázquez, Goya, El Greco y Murillo están todos aquí. Pero no sólo de pintores españoles, Prado también cuenta con obras de Rubens, Tintoretto y Tiziano. Un lugar obligado para los amantes del arte clásico, y sobre el que, desde GrandesMuseos.news, publicaremos este septiembre de 2022 una guía.
+The Prado Museum is perhaps the most important museum in Spain, with a collection of works from the sixteenth and nineteenth centuries and all that means: Velázquez, Goya, El Greco and Murillo are all here. But not only Spanish painters, the Prado also has works by Rubens, Tintoretto and Titian. A must for lovers of classical art, and about which, from GrandesMuseos.news, we will publish a guide this September 2022.
 
-#### Museo Picasso (Málaga)
+### Picasso Museum (Malaga)
 
-Picasso procede de Málaga, por lo que en la ciudad no hay uno sino dos museos dedicados al artista. El Museo Picasso, con 285 obras, es el lugar perfecto para profundizar en su carrera y todas las áreas del arte que tocó. Además, en el museo suele haber exposiciones temporales de Picasso y otros artistas.
+Picasso comes from Malaga, so in the city there are not one but two museums dedicated to the artist. The Picasso Museum, with 285 works, is the perfect place to delve into his career and all the areas of art he touched. In addition, the museum often hosts temporary exhibitions of Picasso and other artists.
 
-#### Fundación Joan Miró (Barcelona)
+### Joan Miró Foundation (Barcelona)
 
-La colección de la Fundación Joan Miró se encuentra en Montjuic e incluye algunas de las obras más famosas y conocidas del pintor catalán. En total, más de 10.000 obras (pinturas, esculturas, textiles y dibujos) sirven de guía para descubrir y comprender la profesión del artista, desde sus primeros dibujos hasta su juventud y los grandes retratos que finalmente pintó. La idea de este museo surgió del propio Miró, para garantizar que su obra esté siempre disponible para el público.
+The collection of the Joan Miró Foundation is located in Montjuic and includes some of the most famous and well-known works of the Catalan painter. In total, more than 10,000 works (paintings, sculptures, textiles and drawings) serve as a guide to discover and understand the artist's profession, from his early drawings to his youth and the great portraits he eventually painted. The idea for this museum came from Miró himself, to ensure that his work is always available to the public.
 
 ![](https://www.metropoliabierta.com/uploads/s1/33/72/65/home-edifici-1920x990px-1487751929-1920.jpeg)
 
 *Fundación Joan Miró, en Barcelona*
-
-
 
 #### Museo Guggenheim (Bilbao)
 
@@ -105,4 +103,3 @@ Inaugurado en 1986, la construcción de este Museo y Centro de Investigación de
 #### Instituto Valenciano de Arte Moderno (Valencia)
 
 El Instituto Valenciano de Arte Moderno (IVAM) está especializado en el arte de vanguardia del siglo XX, haciendo un recorrido bastante completo por movimientos como la abstracción o el pop-art. Además de las exposiciones permanentes, a menudo ofrece exposiciones temporales. Entre las pinturas que podemos visitar se encuentran obras de artistas internacionales como Paul Klee, Robert Delaunay y Frantisek Kupka.
-
