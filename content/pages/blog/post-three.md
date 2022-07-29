@@ -1,5 +1,5 @@
 ---
-title: 'El Prado, Art Guide available in September'
+title: 'The Prado, Art Guide available in September'
 layout: PostLayout
 date: '2021-11-04'
 excerpt: >-
