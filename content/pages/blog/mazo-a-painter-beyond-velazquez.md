@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/La_familia_del_pintor_Juan_Bautista_Martínez_del_Mazo.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
