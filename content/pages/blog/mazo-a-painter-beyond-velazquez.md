@@ -7,8 +7,9 @@ title: 'Mazo, a painter beyond Velazquez'
 colors: colors-d
 date: '2022-09-29'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Many know Juan Bautista Martínez del Mazo for his family relationship with the
+  master Diego Velázquez. But his work and legacy stand on their own authority,
+  join us to discover why.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
