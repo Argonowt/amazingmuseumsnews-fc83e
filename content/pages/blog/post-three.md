@@ -58,6 +58,7 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 author: content/data/team/person-nqo4ss20y.json
+date: '2022-08-09'
 ---
 This September will see the light this essential artistic guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum.
 
