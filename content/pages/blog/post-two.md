@@ -54,7 +54,6 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 author: content/data/team/person-nqo4ss20y.json
-date: '2022-12-12'
 ---
 ### 1.Why is it called the Prado if there is no meadow?
 
