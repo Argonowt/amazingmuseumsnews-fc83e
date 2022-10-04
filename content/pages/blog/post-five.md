@@ -1,7 +1,7 @@
 ---
 title: The first Great Museums books will be available in the next months
 layout: PostLayout
-date: '2022-01-02'
+date: '2022-03-02'
 excerpt: >-
   The first book to open the collection will see the light next September with
   El Prado, an essential guide to discover the history and all that this museum
