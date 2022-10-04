@@ -1,7 +1,6 @@
 ---
 title: 'The Prado, Art Guide available in October'
 layout: PostLayout
-date: '2021-11-04'
 excerpt: >-
   Discover one of the greatest art galleries in the world, from its beginnings
   to its transformation into a Museum of Paintings and its latest extensions.
