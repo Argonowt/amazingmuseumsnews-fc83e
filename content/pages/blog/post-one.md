@@ -1,7 +1,7 @@
 ---
 title: What are the main art galleries in Spain?
 layout: PostLayout
-date: '2021-09-21'
+date: '0002-09-21'
 excerpt: >-
   Spain is a country with some of the best museums for the conservation and
   exhibition of pictorial collections in the world.
