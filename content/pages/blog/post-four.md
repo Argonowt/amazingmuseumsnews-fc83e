@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-date: '2022-09-01'
+date: '2022-09-28'
 colors: colors-d
 excerpt: >-
   The spanish painter, in addition to becoming the official painter of the
