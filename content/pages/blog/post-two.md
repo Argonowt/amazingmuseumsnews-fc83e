@@ -1,7 +1,7 @@
 ---
 title: 5 curious facts about the Prado Museum
 layout: PostLayout
-date: '2021-11-03'
+date: '0002-11-03'
 excerpt: >-
   We review facts and anecdotes that have surrounded one of the largest
   galleries in Spain in its two hundred years of existence.
