@@ -229,7 +229,7 @@ sections:
       - type: FeaturedItem
         title: Smarter
         text: |
-          Consult our catalog at GrandesMuseos.com
+          Consult our catalog at AmazingMuseums.com
         actions:
           - type: Button
             label: Learn more
