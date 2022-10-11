@@ -217,7 +217,7 @@ sections:
           has to offer.
         actions:
           - type: Button
-            label: Learn more
+            label: Download
             showIcon: true
             icon: arrowRight
             url: /
