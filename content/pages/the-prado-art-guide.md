@@ -239,8 +239,7 @@ sections:
             label: Buy the book
             showIcon: true
             icon: arrowRight
-            url: >-
-              https://www.amazon.es/PRADO-GUIDE-Carlos-Javier-Taranilla/dp/8418943394/
+            url: 'https://www.amazon.es/dp/8418943394/'
             style: secondary
         styles:
           self:
