@@ -233,7 +233,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         text: |
-          Buy the book 
+          Buy the book on Amazon or AmazingMuseums.com
         actions:
           - type: Button
             label: Learn more
