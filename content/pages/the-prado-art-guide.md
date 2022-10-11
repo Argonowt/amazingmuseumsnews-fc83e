@@ -256,7 +256,7 @@ sections:
           Want to know more about the book? Download the product sheet.
         actions:
           - type: Button
-            label: Learn more
+            label: Download
             showIcon: true
             icon: arrowRight
             url: >-
