@@ -208,7 +208,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Links of interest
     subtitle: ''
     items:
       - type: FeaturedItem
