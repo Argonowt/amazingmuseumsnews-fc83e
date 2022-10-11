@@ -213,10 +213,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Download the first chapter and start discovering all that this museum
+          has to offer.
         actions:
           - type: Button
             label: Learn more
