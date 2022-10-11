@@ -233,7 +233,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         text: |
-          Compra el libro en este enlace
+          Buy the book 
         actions:
           - type: Button
             label: Learn more
