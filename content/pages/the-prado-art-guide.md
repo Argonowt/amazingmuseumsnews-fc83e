@@ -233,7 +233,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         text: |
-          Consult our catalog at AmazingMuseums.com
+          Compra el libro en este enlace
         actions:
           - type: Button
             label: Learn more
