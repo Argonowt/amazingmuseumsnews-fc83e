@@ -259,7 +259,8 @@ sections:
             label: Learn more
             showIcon: true
             icon: arrowRight
-            url: /
+            url: >-
+              https://drive.google.com/file/d/1FHQTgSHr6PB1x0x5KTMidzaFYR_0BHF7/view?usp=sharing
             style: secondary
         styles:
           self:
