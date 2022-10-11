@@ -239,7 +239,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
         text: |
           Want to know more about the book? Download the product sheet.
         actions:
