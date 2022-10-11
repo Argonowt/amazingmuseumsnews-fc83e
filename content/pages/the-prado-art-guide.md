@@ -240,7 +240,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: >-
-              /https://www.amazon.es/PRADO-GUIDE-Carlos-Javier-Taranilla/dp/8418943394/
+              https://www.amazon.es/PRADO-GUIDE-Carlos-Javier-Taranilla/dp/8418943394/
             style: secondary
         styles:
           self:
