@@ -220,7 +220,8 @@ sections:
             label: Download
             showIcon: true
             icon: arrowRight
-            url: /
+            url: >-
+              https://drive.google.com/file/d/1l9g36EHGJF-m8zCG9fgr3BdfRG1KD2fM/view?usp=sharing
             style: secondary
         styles:
           self:
