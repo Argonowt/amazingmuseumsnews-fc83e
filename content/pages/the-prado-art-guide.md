@@ -226,7 +226,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Smarter
         text: |
           Consult our catalog at AmazingMuseums.com
         actions:
