@@ -212,7 +212,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
         text: >
           Download the first chapter and start discovering all that this museum
           has to offer.
