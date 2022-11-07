@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 
 Johannes Bosch, better known as Hieronymus Bosch, is one of the most enigmatic painters in the history of art. His artworks capture the quiet mysteries of plant and animal life, and the both the intrigue and the symmetry of everyday objects. Let's See a more in depth look at his life.
