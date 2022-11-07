@@ -46,7 +46,7 @@ Titian was an innovative painter. One of his favorite techniques was the use of 
 
 ### Titian beyond portraiture
 
-Around 1551, Titian and Philip II, in Augsburg, studied the Poetry, six works of mythological sensation that the painter delivered to the monarch between 1553 and 1562, as well as fundamental aspects of Venetian art theory (There was to speak of the precedence of color, etc.). figure. Great works belong to this current, in particular Venus of Urbino and Danae receiving a golden shower, which show Titian's important contribution to the treatment of the reclining female nude.
+Around 1551, Titian and Philip II, in Augsburg, studied the Poetry, six works of mythological sensation that the painter delivered to the monarch between 1553 and 1562, as well as fundamental aspects of Venetian art theory (There was to speak of the precedence of color, etc.). figure. Great works belong to this current, in particular *Venus of Urbino* and *Danae receiving a golden shower*, which show Titian's important contribution to the treatment of the reclining female nude that can be found in the Prado Museum.
 
 As we shall see, his status as a portraitist did not prevent him from developing a body of work that reflected his wide interest in mythology.
 
@@ -54,3 +54,6 @@ As we shall see, his status as a portraitist did not prevent him from developing
 
 *Titian, Danaë and the Shower of Gold, 1544 - 1546*
 
+This marvelous work can be enjoyed, as we mentioned, in the Prado Museum in Madrid. If you are interested in discovering more about Titian, [we recommend *Prado Art Guide*](https://amzn.to/3E5BiZo), an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including Titian, that is now  available on Amazon.
+
+Buy it here: <https://amzn.to/3E5BiZo>
