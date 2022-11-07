@@ -19,7 +19,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: Tiziano tres caras
 bottomSections: []
 metaDescription: null
 socialImage: null
