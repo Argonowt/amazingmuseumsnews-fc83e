@@ -41,3 +41,7 @@ Discover one of the greatest art galleries in the world, from its beginnings to 
 
 *   Glossary of artistic terms necessary to understand the less known concepts of the text and to establish relationships between the different stages of the history of art.
 
+The book  [is now available on Amazon,](https://amzn.to/3E5BiZo) and you can buy it on the following link: <https://amzn.to/3E5BiZo>
+
+
+
