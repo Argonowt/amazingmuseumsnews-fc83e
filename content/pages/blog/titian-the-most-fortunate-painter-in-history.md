@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Titian, the most fortunate painter in history'
+title: 'Titian, a life of art and good fortune'
 colors: colors-d
 date: '2022-11-02'
 excerpt: >-
