@@ -12,7 +12,7 @@ excerpt: >-
   now available.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/1659095223.png
   altText: Post thumbnail image
   caption: ''
 media:
