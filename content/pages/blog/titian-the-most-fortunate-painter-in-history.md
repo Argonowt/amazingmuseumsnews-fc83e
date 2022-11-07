@@ -13,7 +13,7 @@ excerpt: >-
   in which he always had enough work, fame or income.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/tiziano-prudencia-k0LC--1248x698@abc.jpg
   altText: Post thumbnail image
   caption: ''
 media:
