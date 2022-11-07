@@ -8,7 +8,8 @@ colors: colors-d
 date: '2022-10-16'
 excerpt: >-
   The Prado Art Guide, an essential artistic guide to discover and learn the
-  essentials of the greatest works, artists and styles in the Prado Museum.
+  essentials of the greatest works, artists and styles in the Prado Museum, is
+  now available.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
