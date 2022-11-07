@@ -13,7 +13,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/1659095223.png
-  altText: Post thumbnail image
+  altText: 'The Prado Art Guide, Carlos Taranilla'
   caption: ''
 media:
   type: ImageBlock
