@@ -94,6 +94,8 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/mazo-a-painter-beyond-velazquez.md
       - content/pages/blog/post-one.md
+      - >-
+        content/pages/blog/the-prado-art-guide-by-carlos-taranilla-now-available.md
   - type: QuoteSection
     colors: colors-d
     quote: |
