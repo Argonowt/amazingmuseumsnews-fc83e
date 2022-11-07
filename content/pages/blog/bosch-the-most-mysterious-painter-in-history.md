@@ -16,7 +16,7 @@ featuredImage:
   caption: Bosch Head
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/1608632936_410592_1608637403_noticia_normal.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
