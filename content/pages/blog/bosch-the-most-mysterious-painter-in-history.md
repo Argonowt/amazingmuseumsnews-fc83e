@@ -18,6 +18,7 @@ media:
   type: ImageBlock
   url: /images/1608632936_410592_1608637403_noticia_normal.jpg
   altText: Bosch Head
+  caption: Bosch Head
 bottomSections: []
 metaDescription: null
 socialImage: null
