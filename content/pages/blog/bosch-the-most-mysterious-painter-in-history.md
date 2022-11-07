@@ -24,15 +24,13 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-nqo4ss20y.json
 ---
-
 Johannes Bosch, better known as Hieronymus Bosch, is one of the most enigmatic painters in the history of art. His artworks capture the quiet mysteries of plant and animal life, and the both the intrigue and the symmetry of everyday objects. Let's See a more in depth look at his life.
 
+## What do we know about Bosch?
 
 According to historians, Bosch was a "distant and inaccessible artist" within classical art pattern. He achieved his masterpieces in painting, a rara species among well-known painters in the history of art.
 
-
 One notable work that Bosch did not sign is the painting The Ascension, but the limited information available indicates that his family were members of the Confraternity of Our Lady and that he was a member.
-
 
 One of the reasons that no work can be attributed to him with certainty is that his style has only been confirmed by taking into account a small number or works mentioned by literary sources.Moreover, it is difficult to distinguish between the real Bosch and the many imitators or followers of his work that he had.
 
@@ -46,7 +44,7 @@ This, for some, was a way of painting that lacked any technique, compared to oth
 
 In short, Bosch's painting could be inscribed in the Flemish tradition, but, at the same time, it separates itself from it, both in imagery and technique, as we have just commented.
 
-What works by Bosch can be seen in Spain?
+## What works by Bosch can be seen in Spain?
 
 Philip II was one of Bosch's admirers and collected many of his works. For this reason, Spain is the place where most of them can be admired.
 
