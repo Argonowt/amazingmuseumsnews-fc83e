@@ -18,7 +18,7 @@ featuredImage:
   caption: Tiziano tres caras
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/tiziano-prudencia-k0LC--1248x698@abc.jpg
   altText: Tiziano tres caras
   caption: Tiziano tres caras
 bottomSections: []
