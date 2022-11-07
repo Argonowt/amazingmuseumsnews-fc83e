@@ -16,7 +16,7 @@ featuredImage:
   caption: Bosch Head
 media:
   type: ImageBlock
-  url: /images/1608632936_410592_1608637403_noticia_normal.jpg
+  url: /images/el-bosco-e1527062194245.png
   altText: Bosch Head
   caption: Bosch Head
 bottomSections: []
