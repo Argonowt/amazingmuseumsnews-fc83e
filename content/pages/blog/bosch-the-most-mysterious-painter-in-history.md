@@ -54,7 +54,7 @@ Philip II was one of Bosch's admirers and collected many of his works. For this 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg)
 
-*Hieronymus Bosch,ElJardín de las Delicias, 1505*
+*Hieronymus Bosch, El Jardín de las Delicias, 1505*
 
 The Prado Museum in Madrid houses 35 of the painter's most important works. Highlights include the triptych of The Garden of Earthly Delights, The Lamentation over the Body of Christ and The Extraction of the Stone of Madness.
 
