@@ -66,6 +66,6 @@ This marvelous work can be enjoyed, as we mentioned, in the Prado Museum in Madr
 
 If you are interested in the subject [we recommend *Prado Art Guide*](https://amzn.to/3E5BiZo), an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum,  available on Amazon.
 
-Buy it: <https://amzn.to/3E5BiZo>
+Buy it here: <https://amzn.to/3E5BiZo>
 
 ![](/images/1659105482.png)
