@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: 'The Prado Art Guide, by Carlos Taranilla, now available'
 colors: colors-d
-date: '2022-10-16'
+date: '2022-10-24'
 excerpt: >-
   The Prado Art Guide, an essential artistic guide to discover and learn the
   essentials of the greatest works, artists and styles in the Prado Museum, is
