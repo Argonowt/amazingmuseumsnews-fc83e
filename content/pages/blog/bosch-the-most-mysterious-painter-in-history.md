@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/1608632936_410592_1608637403_noticia_normal.jpg
-  altText: Post thumbnail image
+  altText: Bosch-head
   caption: ''
 media:
   type: ImageBlock
