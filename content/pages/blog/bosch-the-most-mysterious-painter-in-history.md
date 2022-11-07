@@ -32,6 +32,10 @@ According to historians, Bosch was a "distant and inaccessible artist" within cl
 
 One notable work that Bosch did not sign is the painting The Ascension, but the limited information available indicates that his family were members of the Confraternity of Our Lady and that he was a member.
 
+![](https://arthive.net/res/media/img/oy800/work/79f/314550@2x.jpg)
+
+*Hieronymus Bosch, Cielo e infierno (cuatro visiones del inframundo), 1516*
+
 One of the reasons that no work can be attributed to him with certainty is that his style has only been confirmed by taking into account a small number or works mentioned by literary sources.Moreover, it is difficult to distinguish between the real Bosch and the many imitators or followers of his work that he had.
 
 One of the main characteristics of Bosch's painting is the satirical vein he exhibits, especially when dealing with the more traditional doctrine of the Catholic Church. His allusions to sin, the transience of life or the folly of man are very frequent.
@@ -43,6 +47,8 @@ Another peculiarity of Bosch is that he used very thin layers of paint, sometime
 This, for some, was a way of painting that lacked any technique, compared to other Dutch artists of the time. For others it was a stroke of genius, which allowed him to work faster, as the layers of color dried faster, and at a much lower cost.
 
 In short, Bosch's painting could be inscribed in the Flemish tradition, but, at the same time, it separates itself from it, both in imagery and technique, as we have just commented.
+
+
 
 ### What works by Bosch can be seen in Spain?
 
