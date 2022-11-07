@@ -11,7 +11,7 @@ excerpt: >-
   of the most mysterious. We take a closer look at his particular work.
 featuredImage:
   type: ImageBlock
-  url: /images/1608632936_410592_1608637403_noticia_normal.jpg
+  url: /images/el-bosco-e1527062194245.png
   altText: Bosch-head
   caption: Bosch Head
 media:
