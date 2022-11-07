@@ -56,8 +56,6 @@ Philip II was one of Bosch's admirers and collected many of his works. For this 
 
 *Hieronymus Bosch,ElJardín de las Delicias, 1505*
 
-
-
 The Prado Museum in Madrid houses 35 of the painter's most important works. Highlights include the triptych of The Garden of Earthly Delights, The Lamentation over the Body of Christ and The Extraction of the Stone of Madness.
 
 The Garden of Earthly Delights, however, is Bosch's masterpiece and most characteristic work. In addition, it has been considered one of the most attractive and mysterious works (like everything around the painter) in the history of art.
@@ -65,3 +63,9 @@ The Garden of Earthly Delights, however, is Bosch's masterpiece and most charact
 It is a work of two meters high and almost four meters wide, consisting of a central panel and two side panels. A work full of symbolic content, about which there are many different interpretations. It obeys a moralizing as well as satirical intention, and it quickly found copyists and imitators.
 
 This marvelous work can be enjoyed, as we mentioned, in the Prado Museum in Madrid, where it has been kept since 1939.
+
+If you are interested in the subject [we recommend *Prado Art Guide*](https://amzn.to/3E5BiZo), an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum,  available on Amazon.
+
+Buy it: <https://amzn.to/3E5BiZo>
+
+![](/images/1659105482.png)
