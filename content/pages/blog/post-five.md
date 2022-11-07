@@ -7,7 +7,7 @@ excerpt: >-
   has to offer its visitors.
 featuredImage:
   type: ImageBlock
-  url: /images/1659105482.png
+  url: /images/1658496518.png
   altText: Post Image
 media:
   type: ImageBlock
