@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/tiziano-prudencia-k0LC--1248x698@abc.jpg
-  altText: Post thumbnail image
+  altText: Tiziano tres caras
   caption: ''
 media:
   type: ImageBlock
