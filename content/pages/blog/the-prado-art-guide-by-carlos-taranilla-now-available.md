@@ -7,8 +7,9 @@ title: 'The Prado Art Guide, by Carlos Taranilla, now available'
 colors: colors-d
 date: '2022-10-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  This September will see the light this essential artistic guide to discover
+  and learn the essentials of the greatest works, artists and styles in the
+  Prado Museum.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
