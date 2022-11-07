@@ -60,7 +60,7 @@ addTitleSuffix: true
 author: content/data/team/person-nqo4ss20y.json
 date: '2022-09-08'
 ---
-This September will see the light this essential artistic guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum.
+This October will see the light this essential artistic guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum.
 
 Discover one of the greatest art galleries in the world, from its beginnings to its transformation into the Museum of Paintings and its latest extensions. Admire and understand the great works of art it houses, as well as the masters who created them: El Greco, Velázquez, Goya, Botticelli, Raphael, the Venetians, Rubens, Rembrandt, Lorraine, Poussin, 19th century Spanish painting and the sculptural and decorative works it treasures in its collections. An essential art guide to fully admire the main national art museum in Spain, which houses one of the best collections of European art in the world and the most complete collection of Spanish painting.
 
@@ -78,5 +78,5 @@ Discover one of the greatest art galleries in the world, from its beginnings to 
 
 For more information, visit the other sections of our website.
 
-
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/D5RBmxS7IZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
