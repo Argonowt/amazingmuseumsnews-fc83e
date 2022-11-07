@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/1659105482.png
-  altText: Post image
+  altText: 'The Prado Art Guide, Carlos Taranilla'
 bottomSections: []
 metaDescription: null
 socialImage: null
