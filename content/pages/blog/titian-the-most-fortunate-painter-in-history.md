@@ -7,8 +7,10 @@ title: 'Titian, the most fortunate painter in history'
 colors: colors-d
 date: '2022-11-02'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Titian is regarded as an exceptional man in many respects, such as the calibre
+  of his paintings, the quality of several inventions, and the fact that he
+  stood out from other like-minded artists because he enjoyed a comfortable life
+  in which he always had enough work, fame or income.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
