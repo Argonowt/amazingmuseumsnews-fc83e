@@ -33,6 +33,9 @@ Titian is regarded as an exceptional man in many respects, such as the calibre o
 Tiziano Vecellio was born in Pieve di Cadora in the Veneto region around 1487. At the age of nine he was sent to a workshop in Venice to begin his apprenticeship in the art of mosaic. The young artist progressed to become a pupil of the painter Giovanni Bellini (c. 1430-1516) in his Venetian workshop. A contemporary of his, Giorgione da Castelfranco (1475-1510) who was still an apprentice, became another future star. Both Titian and Giorgione's influences were strong, especially around 1504 when they collaborated on the façade of the Palazzo Fondaco dei Tedeschi. When Giorgione died at the age of 30, Titian reached the first class of art with works such as the cycle of frescoes he created around 1511 for the School of the Saints in Padua and the Baptism of Jesus, now in the Capitoline Museums.
 His first major public commission was the altarpiece of the Assumption of 1518, used for the main apse of the Venetian church of dei Frari (monks). In this work, action and movement draw the viewer's gaze from darkness to light.
 
+![](http://www.sigecweb.beniculturali.it/images/fullsize/ICCD50007134/ICCD5463684\_CdO13872.jpg)
+
+*Titian, La Giustizia in veste di Giuditta giustizia dipinto, 1508 - 1509*
 
 Titian's fame quickly spread throughout the Veneto region and he became the undisputed master of painting in Venice, especially as artists of his generation migrated to other cities such as Florence and Rome in search of wealth. In addition to private fees, he received substantial public fees from the government of the Republic, which earned him a generous annual income and many tax benefits. As he matured, he began to diversify his paintings, exploring religious, historical and mythological subjects. His talent for portraiture was reflected in large-scale paintings, and his wealthy clients also began to commission many such works, especially mythological subjects.
 Despite invitations to other cities, Titian refused to leave Venice, as there was no one in the city of canals who could replace him. Things changed when his wife Cecilia died in 1530, leaving him with two daughters and two sons. This tragedy marked the beginning of a change in his style that took on more dramatic overtones towards the end of his life.
@@ -45,5 +48,9 @@ Titian was an innovative painter. One of his favorite techniques was the use of 
 
 Around 1551, Titian and Philip II, in Augsburg, studied the Poetry, six works of mythological sensation that the painter delivered to the monarch between 1553 and 1562, as well as fundamental aspects of Venetian art theory (There was to speak of the precedence of color, etc.). figure. Great works belong to this current, in particular Venus of Urbino and Danae receiving a golden shower, which show Titian's important contribution to the treatment of the reclining female nude.
 
-
 As we shall see, his status as a portraitist did not prevent him from developing a body of work that reflected his wide interest in mythology.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tizian\_-\_Danae_receiving_the_Golden_Rain\_-\_Prado.jpg/1200px-Tizian\_-\_Danae_receiving_the_Golden_Rain\_-\_Prado.jpg)
+
+*Titian, Danaë and the Shower of Gold, 1544 - 1546*
+
