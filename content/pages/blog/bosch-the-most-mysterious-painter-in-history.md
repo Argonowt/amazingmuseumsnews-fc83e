@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: /images/1608632936_410592_1608637403_noticia_normal.jpg
   altText: Bosch-head
-  caption: ''
+  caption: Bosch Head
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
