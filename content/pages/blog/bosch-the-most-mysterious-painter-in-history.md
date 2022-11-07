@@ -7,8 +7,8 @@ title: 'Bosch: the most mysterious painter in history'
 colors: colors-d
 date: '2022-10-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  With a peculiar style, Bosch is one of the most admired painters and also one
+  of the most mysterious. We take a closer look at his particular work.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
