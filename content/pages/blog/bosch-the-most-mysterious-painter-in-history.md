@@ -48,11 +48,15 @@ This, for some, was a way of painting that lacked any technique, compared to oth
 
 In short, Bosch's painting could be inscribed in the Flemish tradition, but, at the same time, it separates itself from it, both in imagery and technique, as we have just commented.
 
-
-
 ### What works by Bosch can be seen in Spain?
 
 Philip II was one of Bosch's admirers and collected many of his works. For this reason, Spain is the place where most of them can be admired.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg)
+
+*Hieronymus Bosch,ElJardín de las Delicias, 1505*
+
+
 
 The Prado Museum in Madrid houses 35 of the painter's most important works. Highlights include the triptych of The Garden of Earthly Delights, The Lamentation over the Body of Christ and The Extraction of the Stone of Madness.
 
