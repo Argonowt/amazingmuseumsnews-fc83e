@@ -7,8 +7,10 @@ title: Raphael the painter of... sex?
 colors: colors-d
 date: '2022-12-12'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Raphael, besides being a great painter, had the reputation of being a
+  courteous, charming man with a great sense of humor. However, he also had the
+  reputation of being a seducer, a condition that, according to historical
+  tradition, would eventually lead him to his grave.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
