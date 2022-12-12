@@ -23,12 +23,26 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+The Mona Lisa is perhaps the most reproduced and exploited work of art. It has had more media exploitation than any other painting, and serves as a primary cultural reference for many people. But do we know who this enigmatic woman was?
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+## Who was the Mona Lisa?
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+The most widespread version about the identity of the model used by Leonardo da Vinci belongs to the documents written by Giorgio Vasari, who states that Francesco di Bartolommeo commissioned him to paint La Gioconda in 1495. When it was first exhibited, some believed that this new perspective on painting would change the way we see reality.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+According to Vasari, "The mouth, joined to the fleshy tones of the face by the red of the lips, seemed living flesh rather than paint.... Fixing one's gaze on the throat, one could swear that her pulse was beating...".
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## Why is the Mona Lisa so famous?
+
+The model's relaxed pose is one of the most important innovations in portraiture. Earlier portraits appear stiff and artificial because they are posed in a formal manner. This is apparent upon close study of the model: on the right side, she has a bird's eye view of the entire painting that does not match what is seen on the left side, where she has her lower perspective view. What lies between them is not visible at first glance, and is part of the mystery surrounding this painting, but suggests elemental forces such as roads and aqueducts.
+
+Leonardo used the technique of *sfumato* in his painting La Gioconda. This technique consists of blurring the outlines of figures and objects, giving them a three-dimensional effect. This creates an unsettling sensation of movement in the painting, which gives it a more realistic appearance and, along with the other elements we have mentioned, the famous halo of mystery that surrounds it. But there is an even more mysterious element that almost everyone agrees on when contemplating the work: her smile.
+
+![](https://www.arturamon.com/wp-content/uploads/2020/07/01-Llavis-Mona-Lisa.jpg)
+
+## The Mona Lisa's smile
+
+The Mona Lisa's enigmatic smile has been interpreted in several ways. One explanation is that it refers to "the two backgrounds" mentioned above: one with eyes looking down and the other looking up, creating a visual struggle for the viewer. Sigmund Freud believed that Leonardo's famous smile was due to memories of his mother from when he was young. This sense of estrangement coincides with another element that many experts reslant: how well-crafted the hands shown are.
+
+Like the smile, the hands are perfectly relaxed and underline the model's majestic composure. The arm resting on the chair, in turn, helps to emphasize how the Mona Lisa's head and torso have a slight twist, causing an effect rarely repeated in art history. Its history as a painting painted in several layers, in addition to this strange sense of mystery experienced by the viewer, provides an explanation as to why the Mona Lisa's eyebrows are not painted like the rest of her features, and that is that they were added later, after the paint had dried.
+
+The Mona Lisa is an oil on wood of 77 x 53 cm, which is currently in the Louvre Museum in Paris. If you want to know other facts about this work, such as its theft and rise to fame, or other technical characteristics, facts about Leonardo da Vinci and, above all, information about the greatest works of art housed in the Louvre Museum in Paris, we recommend ["The Louvre Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/) If you prefer to buy it in bookstore, [**find your nearest bookstore by clicking here.**](https://www.todostuslibros.com/libros/museo-del-louvre-guia-de-arte\_978-84-18943-42-3)
