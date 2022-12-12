@@ -7,8 +7,9 @@ title: The true story of the Mona Lisa
 colors: colors-d
 date: '2022-12-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  La Gioconda is perhaps the most reproduced and exploited work of art. It has
+  had more media exploitation than any other painting, and serves as a primary
+  cultural reference for many people, but do you know its true story?
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
