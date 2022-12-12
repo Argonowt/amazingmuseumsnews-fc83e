@@ -13,7 +13,7 @@ excerpt: >-
   tradition, would eventually lead him to his grave.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/el_cultural_515710641_218729206_1024x576.png
   altText: Post thumbnail image
   caption: ''
 media:
