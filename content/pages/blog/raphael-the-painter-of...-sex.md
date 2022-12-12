@@ -24,12 +24,26 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Raphael, besides being a great painter, had the reputation of being a courteous, charming man with a great sense of humor. However, he also reaped the fame of being a seducer, a condition that, according to historical tradition, would eventually lead him to his grave.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+"Rafael was a very amorous person and fond of women, continuously devoted to their services. His friends observed with respect his fondness for carnal pleasures, for being a very confident person," says Giorgio Vasari in his classic *Lives of the best Italian architects, painters and sculptors*, a book of the time where he attributes the cause of his death to the uncontrolled fieriness of the master.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+## Did Raphael die from an excess of sex?
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Was the great genius of the Renaissance overwhelmed by hypersexuality? According to Vasari, it happened that, "overindulging in his amorous pleasures, it so happened that one of the times he committed more excesses than usual and returned home with a high fever...". Ashamed, Raphael did not dare to confess to the doctors the true cause of his sudden weakness. They concluded that his lack of vitality was due to an illness that required bloodletting and, in a fatal mistake, he ended up in the grave.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Who was the woman with whom Raphael spent his last happy night? His passion would center on Margherita Luti, the Fornarina, daughter of a Sienese baker, famous for her sensual portraits. One of Raphael's last paintings often bears her title and shows naked breasts covered by a translucent veil with a seductive smile; it hangs in the Palazzo Barberini.
+
+Scholars have speculated about its identity for centuries, without obtaining a definitive answer. The work does not appear in the inventory made shortly after his death, although it is likely that this was because he kept it as a private object. There are several signatures that can be seen throughout the painting; one of them reads "Rafael Urbinas", which means that he himself became the owner of the work. This evidence suggests that it was someone close to him, possibly a relative or lover.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5e/La_Fornarina%2C_por_Rafael.jpg)
+
+## Raphael did not die from an excess of sex.
+
+However, a recent scientific study unveils the true cause of Raphael's death: the painter did not die from an excess of sex. The group of experts has shown that the Renaissance genius did not die of syphilis, but contracted pneumonia while receiving these bloodletting treatments.
+
+A study by the University of Milan-Bicocca has determined that Raphael most likely died of pneumonia and a "mistake" during his syphilis treatment, rather than contracting the disease from his debauched lifestyle.
+
+After his death on April 6, 1520, Raphael was buried with full honors in the Roman Pantheon, resting next to a stele dedicated to him by his friend Pietro Bembo: "Here lies Raphael, who while he lived made nature fear to be overcome by him and who, when he died, feared to die with him."
+
+
