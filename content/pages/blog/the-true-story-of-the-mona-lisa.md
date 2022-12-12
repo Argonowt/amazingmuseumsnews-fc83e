@@ -12,7 +12,7 @@ excerpt: >-
   cultural reference for many people, but do you know its true story?
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/_105130365_a7c0d6ec-bc7a-41ec-8748-d009cc950674.jpg
   altText: Post thumbnail image
   caption: ''
 media:
