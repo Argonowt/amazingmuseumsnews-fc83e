@@ -18,7 +18,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/el_cultural_515710641_218729206_1024x576-08b7e3f1.png
+  url: /images/el_cultural_515710641_218729206_1024x576.png
   altText: Post image
 bottomSections: []
 metaDescription: null
