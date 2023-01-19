@@ -31,7 +31,7 @@ The Venus de Milo was found in 1820 on the island of Milo, Greece, by a peasant 
 
 On the missing limbs, the sculpture's arms were originally at the hips, probably holding an object such as a harpoon or shield. Although several theories have been proposed as to how he lost his arms, the true cause is still unknown.
 
-<center> !\[]\(https://farm2.staticflickr.com/1363/532583261\\_08b19e5bbb_b.jpg) </center>
+!\\[]\\(https://farm2.staticflickr.com/1363/532583261\\\\_08b19e5bbb_b.jpg)
 
 The Venus de Milo is known for its beauty and aesthetic perfection. The sculpture features a nude female figure with a narrow waist, round hips and a curved figure. The technique used to create the sculpture is impressive, and, furthermore this beauty and perfection, is one of the reasons for its fame as primitive tools were used to carve the marble. The sculpture is also remarkable for the delicacy of the lines and the fluidity of the figure, which makes it seem alive and real to many people since its discovery.
 
