@@ -39,7 +39,7 @@ The Venus de Milo is also important in the history of art because of its influen
 
 Another curiosity about the Venus de Milo is that it is believed to have been created in the second century BC by the sculptor Praxiteles, although there is no conclusive evidence for this. Although the sculpture is believed to be a representation of Venus, it has also been suggested that it could be a representation of the goddess Athena or the goddess of the hunt, Artemis.
 
-<center>!\[]\(https://cdn.culturagenial.com/es/imagenes/diseno-sin-titulo-14-cke.jpg)</center>
+<center>!\\[]\\(https://cdn.culturagenial.com/es/imagenes/diseno-sin-titulo-14-cke.jpg)</center>
 
 The Venus de Milo has also been the subject of controversy in the past due to its acquisition by France. The sculpture was purchased by the French government in 1820, but some have questioned the legality of the purchase due to the lack of documents supporting its sale. Despite this, the Venus de Milo has remained in the Louvre Museum ever since and is one of Paris' most popular tourist attractions.
 
@@ -49,4 +49,4 @@ The Venus de Milo is one of the masterpieces of ancient Greece and one of the be
 
 If you want to know other facts about the Louvre Museum and get information about the greatest works of art such as the Venus de Milo that houses the main museum of Paris and France, we recommend ["The Louvre Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/) If you prefer to buy it in bookstore, [**find your nearest bookstore by clicking here.**](https://www.todostuslibros.com/libros/museo-del-louvre-guia-de-arte\_978-84-18943-42-3)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YHTncinyS70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YHTncinyS70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
