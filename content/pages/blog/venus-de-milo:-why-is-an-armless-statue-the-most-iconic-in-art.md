@@ -13,7 +13,7 @@ excerpt: >-
   armless statue become this icon of universal culture?
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/98.png
   altText: Post thumbnail image
   caption: ''
 media:
