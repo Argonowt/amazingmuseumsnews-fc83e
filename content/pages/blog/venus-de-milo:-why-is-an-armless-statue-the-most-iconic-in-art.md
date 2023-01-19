@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 The Venus de Milo is a marble sculpture representing Venus, the Roman goddess of love and beauty. It is considered one of the masterpieces of ancient Greece and is one of the most famous symbols in the history of art. But how did an armless statue become this icon of universal culture?
 
