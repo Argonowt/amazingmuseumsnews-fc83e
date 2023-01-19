@@ -31,7 +31,7 @@ The Venus de Milo was found in 1820 on the island of Milo, Greece, by a peasant 
 
 On the missing limbs, the sculpture's arms were originally at the hips, probably holding an object such as a harpoon or shield. Although several theories have been proposed as to how he lost his arms, the true cause is still unknown.
 
-!\\[]\\(https://farm2.staticflickr.com/1363/532583261\\\\_08b19e5bbb_b.jpg)
+![](https://farm2.staticflickr.com/1363/532583261\_08b19e5bbb_b.jpg)
 
 The Venus de Milo is known for its beauty and aesthetic perfection. The sculpture features a nude female figure with a narrow waist, round hips and a curved figure. The technique used to create the sculpture is impressive, and, furthermore this beauty and perfection, is one of the reasons for its fame as primitive tools were used to carve the marble. The sculpture is also remarkable for the delicacy of the lines and the fluidity of the figure, which makes it seem alive and real to many people since its discovery.
 
@@ -39,7 +39,7 @@ The Venus de Milo is also important in the history of art because of its influen
 
 Another curiosity about the Venus de Milo is that it is believed to have been created in the second century BC by the sculptor Praxiteles, although there is no conclusive evidence for this. Although the sculpture is believed to be a representation of Venus, it has also been suggested that it could be a representation of the goddess Athena or the goddess of the hunt, Artemis.
 
-![](https://cdn.culturagenial.com/es/imagenes/diseno-sin-titulo-14-cke.jpg)
+<center>![](https://cdn.culturagenial.com/es/imagenes/diseno-sin-titulo-14-cke.jpg)</center>
 
 The Venus de Milo has also been the subject of controversy in the past due to its acquisition by France. The sculpture was purchased by the French government in 1820, but some have questioned the legality of the purchase due to the lack of documents supporting its sale. Despite this, the Venus de Milo has remained in the Louvre Museum ever since and is one of Paris' most popular tourist attractions.
 
