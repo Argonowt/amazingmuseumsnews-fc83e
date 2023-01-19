@@ -39,7 +39,7 @@ The Venus de Milo is also important in the history of art because of its influen
 
 Another curiosity about the Venus de Milo is that it is believed to have been created in the second century BC by the sculptor Praxiteles, although there is no conclusive evidence for this. Although the sculpture is believed to be a representation of Venus, it has also been suggested that it could be a representation of the goddess Athena or the goddess of the hunt, Artemis.
 
-<center>!\\[]\\(https://cdn.culturagenial.com/es/imagenes/diseno-sin-titulo-14-cke.jpg)</center>
+<center>![](https://cdn.culturagenial.com/es/imagenes/diseno-sin-titulo-14-cke.jpg)</center>
 
 The Venus de Milo has also been the subject of controversy in the past due to its acquisition by France. The sculpture was purchased by the French government in 1820, but some have questioned the legality of the purchase due to the lack of documents supporting its sale. Despite this, the Venus de Milo has remained in the Louvre Museum ever since and is one of Paris' most popular tourist attractions.
 
