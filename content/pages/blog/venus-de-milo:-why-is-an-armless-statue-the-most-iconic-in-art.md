@@ -7,8 +7,10 @@ title: 'Venus de Milo: why is an armless statue the most iconic in art?'
 colors: colors-d
 date: '2023-01-19'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The Venus de Milo is a marble sculpture representing Venus, the Roman goddess
+  of love and beauty. It is considered one of the masterpieces of ancient Greece
+  and is one of the most famous symbols in the history of art. But how did an
+  armless statue become this icon of universal culture?
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
