@@ -7,8 +7,8 @@ title: What was the identity of the seated scribe?
 colors: colors-d
 date: '2023-01-25'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The Louvre's statue of the seated scribe is a large Egyptian sculpture dating
+  from the New Empire, circa 1550 BC, but who was this famous scribe?
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
