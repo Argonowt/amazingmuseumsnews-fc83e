@@ -91,6 +91,7 @@ sections:
     posts:
       - >-
         content/pages/blog/the-prado-art-guide-by-carlos-taranilla-now-available.md
+      - content/pages/blog/postlayout-hf0xcshll.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-two.md
       - content/pages/blog/mazo-a-painter-beyond-velazquez.md
