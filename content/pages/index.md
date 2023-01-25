@@ -94,8 +94,8 @@ sections:
       - >-
         content/pages/blog/venus-de-milo:-why-is-an-armless-statue-the-most-iconic-in-art.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/postlayout-hf0xcshll.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/postlayout-hf0xcshll.md
   - type: QuoteSection
     colors: colors-d
     quote: |
