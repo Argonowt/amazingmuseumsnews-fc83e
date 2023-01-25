@@ -96,7 +96,6 @@ sections:
       - >-
         content/pages/blog/venus-de-milo:-why-is-an-armless-statue-the-most-iconic-in-art.md
       - content/pages/blog/post-two.md
-      - content/pages/blog/mazo-a-painter-beyond-velazquez.md
   - type: QuoteSection
     colors: colors-d
     quote: |
