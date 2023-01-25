@@ -50,4 +50,4 @@ The Louvre's statue of the seated scribe is a valuable piece of Egyptian art, an
 
 Meanwhile, if you want to know other facts about the Louvre Museum and get information about the greatest works of art such as the Venus de Milo housed in the main museum of Paris and France, we recommend ["The Louvre Art Guide" now available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/689jYvt7Jjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHTncinyS70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
