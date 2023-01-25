@@ -95,7 +95,6 @@ sections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-two.md
       - content/pages/blog/mazo-a-painter-beyond-velazquez.md
-      - content/pages/blog/post-one.md
   - type: QuoteSection
     colors: colors-d
     quote: |
