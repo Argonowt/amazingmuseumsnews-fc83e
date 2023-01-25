@@ -11,7 +11,8 @@ excerpt: >-
   from the New Empire, circa 1550 BC, but who was this famous scribe?
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/el-escriba-sentado-estatua-del-reino-antiguo-conservada-en-el-museo-del-louvre-paris_c3109549_1280x1280.jpg
   altText: Post thumbnail image
   caption: ''
 media:
