@@ -12,8 +12,7 @@ excerpt: >-
   during his lifetime. His figure coexists with the black legend of the
   unsuccessful artist who never sold a painting during his lifetime, something
   to which the most knowledgeable in the subject usually reply that he did sell
-  at least one painting in his entire career. Translated with
-  www.DeepL.com/Translator (free version)
+  at least one painting in his entire career. But, is that true?
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
