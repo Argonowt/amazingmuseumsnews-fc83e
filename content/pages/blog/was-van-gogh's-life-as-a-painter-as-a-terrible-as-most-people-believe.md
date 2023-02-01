@@ -7,8 +7,13 @@ title: Was Van Gogh's life as a painter as a terrible as most people believe?
 colors: colors-d
 date: '2023-02-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  It is well known that Vincent Van Gogh, one of the most influential and
+  important artists in history, did not receive the recognition his art deserved
+  during his lifetime. His figure coexists with the black legend of the
+  unsuccessful artist who never sold a painting during his lifetime, something
+  to which the most knowledgeable in the subject usually reply that he did sell
+  at least one painting in his entire career. Translated with
+  www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
