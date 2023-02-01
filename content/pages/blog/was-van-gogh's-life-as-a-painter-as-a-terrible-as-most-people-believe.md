@@ -15,7 +15,7 @@ excerpt: >-
   at least one painting in his entire career. But, is that true?
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/vincent-van-gogh-1646762630.jpg
   altText: Post thumbnail image
   caption: ''
 media:
