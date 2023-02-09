@@ -7,8 +7,9 @@ title: 'John Goffe Rand, the true inventor of Impressionism'
 colors: colors-d
 date: '2023-02-09'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Impressionism, one of the most important artistic movements in history, might
+  not have existed without the invention of a small tin tube with a screw cap.
+  How is this possible? Let's find out.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
