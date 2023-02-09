@@ -28,13 +28,13 @@ Impressionism, one of the most important artistic movements in history, might no
 
 ## Painting and Impressionism
 
-Impressionism is an artistic movement that emerged in France in the 1860s and is characterized by the depiction of light and color in painting. The Impressionists sought to capture the atmosphere and feeling of a specific moment in time, rather than portraying a scene in a detailed and realistic manner. To achieve this, they used techniques such as loose, bright brushstrokes and a palette of bright, brilliant colors that reflected sunlight and the environment.
+Impressionism is an artistic movement that emerged in France in the 1860s and is characterized by the depiction of light and color in painting. The Impressionists sought to capture the atmosphere and feeling of a specific moment in time, rather than portraying a scene in a detailed and realistic manner. To achieve this, they used techniques such as loose, bright brushstrokes and a palette of bright, brilliant colors that reflected sunlight and the environment, and as we will see, the tin tube.
 
 Among the most prominent Impressionist artists were Claude Monet, Pierre-Auguste Renoir, Berthe Morisot, Edgar Degas and Mary Cassatt. These artists depicted everyday scenes, such as parks, cafes, streets and fairs, as well as subjects of outdoor life, such as landscapes, sports and leisure. In addition, Impressionism spread to other media, such as photography and film, and had a lasting impact on the culture and art of the time.
 
 ![](https://loff.it/wp-content/uploads/2015/04/loffit-les-coquelicots-claude-oscar-monet-01.jpg)
 
-*Claude Monet's famous painting 'Poppies' (Musée d'Orsay) is an example of the influence of the metal paint tube on art.
+\*Claude Monet's famous painting 'Poppies' (Musée d'Orsay) is an example of the influence of the metal paint tube on art.
 
 Although Impressionism was initially criticized for its lack of realism and detail, its legacy is immense. The movement has been recognized as one of the earliest and most influential modern art movements and has influenced numerous subsequent artists and styles. In addition, its focus on capturing the atmosphere and feeling of a specific moment in time has been a major influence on contemporary art, leaving a lasting mark on art history and remains a subject of study and admiration today.
 
@@ -51,3 +51,6 @@ In addition to being a farmer, cabinetmaker and inventor, John Rand was a very t
 Without Rand's invention, impressionism and similar artistic movements would not have been possible. The simple invention of a tin tube changed the lives of artists and opened new doors to creativity and freedom in artistic creation. Even Pierre-Auguste Renoir recognized its importance, saying, "Without tube painting, there would be no Cézanne, no Monet, no Pissarro and no Impressionism."
 
 If you want to know other facts about Impressionism, or its most famous works housed in the Musée d'Orsay, known as the museum of Impressionism, we recommend "Musée d'Orsay, Art Guide", which will be available in the coming weeks. Stay tuned to our website and [our social networks](https://www.instagram.com/amazingmuseums/) to get your copy of the book!
+
+![](/images/1658496518-ee36268b.png)
+
