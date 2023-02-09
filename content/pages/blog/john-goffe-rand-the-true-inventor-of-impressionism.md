@@ -18,7 +18,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/john-goffe-rand-paint-tubes_ad5bc23461d94c91868236d36a9a719d_g.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
