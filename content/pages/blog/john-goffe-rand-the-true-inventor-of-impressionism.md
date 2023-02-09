@@ -34,7 +34,7 @@ Among the most prominent Impressionist artists were Claude Monet, Pierre-Auguste
 
 ![](https://loff.it/wp-content/uploads/2015/04/loffit-les-coquelicots-claude-oscar-monet-01.jpg)
 
-\*Claude Monet's famous painting 'Poppies' (Musée d'Orsay) is an example of the influence of the metal paint tube on art.
+*Claude Monet's famous painting 'Poppies' (Musée d'Orsay) is an example of the influence of the metal paint tube on art.*
 
 Although Impressionism was initially criticized for its lack of realism and detail, its legacy is immense. The movement has been recognized as one of the earliest and most influential modern art movements and has influenced numerous subsequent artists and styles. In addition, its focus on capturing the atmosphere and feeling of a specific moment in time has been a major influence on contemporary art, leaving a lasting mark on art history and remains a subject of study and admiration today.
 
@@ -53,4 +53,3 @@ Without Rand's invention, impressionism and similar artistic movements would not
 If you want to know other facts about Impressionism, or its most famous works housed in the Musée d'Orsay, known as the museum of Impressionism, we recommend "Musée d'Orsay, Art Guide", which will be available in the coming weeks. Stay tuned to our website and [our social networks](https://www.instagram.com/amazingmuseums/) to get your copy of the book!
 
 ![](/images/1658496518-ee36268b.png)
-
