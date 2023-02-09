@@ -12,7 +12,8 @@ excerpt: >-
   How is this possible? Let's find out.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/John_Goffe_Rand_-_Self-Portrait_-_1971.271_-_Smithsonian_American_Art_Museum.jpg
   altText: Post thumbnail image
   caption: ''
 media:
