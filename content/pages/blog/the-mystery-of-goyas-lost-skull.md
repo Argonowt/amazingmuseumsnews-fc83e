@@ -7,8 +7,13 @@ title: The mystery of Goya's lost skull
 colors: colors-d
 date: '2023-02-22'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  When Goya's body was exhumed 71 years after his death, it was discovered that
+  his skull had disappeared. The painter had been buried in the Chartreuse
+  cemetery in Bordeaux on April 17, 1828 and in 1899, the Spanish consul decided
+  to repatriate his body. When they opened his grave, they found that his head
+  was not there. The commotion was such that the transfer was suspended and the
+  coffin was closed as if nothing had happened.But this posthumous story does
+  not end there.Translated with www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
   url: /images/RBZJOXYPDAVDNHQK4EDATBZAGM.png
