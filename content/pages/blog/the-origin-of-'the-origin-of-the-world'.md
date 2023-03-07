@@ -7,8 +7,11 @@ title: The origin of 'The Origin of the World'
 colors: colors-d
 date: '2023-03-08'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The mysterious identity of the woman who inspired The Origin of the World, by
+  the painter Gustave Courbet, has been the subject of debate for a long time.
+  However, a century and a half after the painting caused an immense scandal in
+  nineteenth-century Paris, we have the answer and a name thanks to historian
+  Claude Schopp.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
