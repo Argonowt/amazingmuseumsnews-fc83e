@@ -14,7 +14,7 @@ excerpt: >-
   Claude Schopp.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/4531238-0-image-a-13_1537870995500.jpg
   altText: Post thumbnail image
   caption: ''
 media:
