@@ -7,8 +7,10 @@ title: 'Claude Monet: The impressionist who was also a caricaturist'
 colors: colors-d
 date: '2023-03-15'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  When we think of Claude Monet, the first thing that comes to mind are the
+  beautiful landscapes he painted throughout his career as an artist. However,
+  what many do not know is that Monet also excelled in another branch of art:
+  caricature.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
