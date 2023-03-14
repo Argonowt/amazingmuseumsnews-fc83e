@@ -13,7 +13,7 @@ excerpt: >-
   caricature.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Monet-1.jpg
   altText: Post thumbnail image
   caption: ''
 media:
