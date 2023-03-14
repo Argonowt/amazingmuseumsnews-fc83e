@@ -18,7 +18,8 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/impresion-amanecer-pintura-de-claude-monet-1872-museo-marmottan-paris_a71dd514_1200x630.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
