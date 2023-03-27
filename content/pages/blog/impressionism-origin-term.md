@@ -40,9 +40,6 @@ Leroy used the term impression to ironize about the lack of finish and definitio
 
 Thus, the term Impressionism was born as an insult, but became a symbol of a new way of understanding and representing reality. The Impressionists were the pioneers of modern painting, and their influence spread to other later movements such as Post-Impressionism, Fauvism or Expressionism. Today, their works are admired and valued all over the world, and are considered true masterpieces of art.
 
-If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
+If you want to learn more about other Impressionist works, [soon the "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, will be [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
 
-Buy it here: <https://www.amazon.es/dp/8418943483/>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/emzicthcWN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
+![](/images/1658496518-ee36268b.png)
