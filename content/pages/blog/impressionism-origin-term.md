@@ -32,7 +32,7 @@ The exhibition was visited by some 3,500 spectators, but also by several art cri
 
 > "What does this canvas represent? Impression... Impression... Of what? I don't know... But what freedom, what audacity of conception! The wallpaper in embryonic state is even more made than this navy."
 
-![](/images/Monet-Impression-rising-sun.jpg)
+**![](/images/Monet-Impresion-sol-naciente.jpg)
 
 *Impression, rising sun,* Claude Monet (1872).
 
@@ -45,5 +45,4 @@ If you want to learn more about other Impressionist works, [we recommend "Musée
 Buy it here: <https://www.amazon.es/dp/8418943483/>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/emzicthcWN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
 
