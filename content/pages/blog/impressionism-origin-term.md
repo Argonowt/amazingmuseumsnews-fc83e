@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/louis-leroy-3-1280x720.jpg
   altText: Post thumbnail image
   caption: ''
 media:
