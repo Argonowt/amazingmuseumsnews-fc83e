@@ -65,3 +65,9 @@ In conclusion, Holy Week is a celebration with a rich history and tradition, whi
 In short, Holy Week continues to be a source of inspiration and reflection for many, both believers and non-believers alike. The creativity and passion manifested in these works of art are a testament to the human capacity to seek beauty and transcendence in the world around us, and to express our vision of the world through art.
 
 
+If you are interested in the subject we recommend our collection of books *Grand Museums.* In it you will find information on some of the works exhibited here, such as the case of 'El Descendimiento', collected in *El Prado Guía de Arte*, an essential artistic guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum.
+
+Buy it here: <https://www.amazon.es/dp/841894336X/>
+
+
+
