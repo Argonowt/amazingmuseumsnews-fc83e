@@ -7,8 +7,11 @@ title: The history of art and Easter in 5 paintings
 colors: colors-d
 date: '2023-04-10'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Easter is one of the most important celebrations of Christianity,
+  commemorating the passion, death and resurrection of Jesus Christ. Throughout
+  history, many artists have depicted in their works the different episodes of
+  this event, from the triumphal entry of Jesus into Jerusalem to his ascension
+  to heaven.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
