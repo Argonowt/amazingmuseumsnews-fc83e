@@ -7,8 +7,10 @@ title: The greatest theft in the history of art
 colors: colors-d
 date: '2023-04-19'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  ¿Sabías que la Mona Lisa, la famosa pintura de Leonardo da Vinci, fue robada
+  del Museo del Louvre en 1911? En este artículo te contamos la increíble
+  historia de este robo que conmocionó al mundo y que dio lugar a todo tipo de
+  teorías y sospechas.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
