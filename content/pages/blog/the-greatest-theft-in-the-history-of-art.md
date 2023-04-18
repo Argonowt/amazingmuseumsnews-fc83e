@@ -45,6 +45,8 @@ Peruggia waited two years before attempting to sell the painting. In 1913, he co
 
 The theft of the Mona Lisa had great media and cultural repercussions. On the one hand, it increased the fame and value of the painting, which became a universal symbol of art. On the other hand, it inspired numerous literary, cinematographic and artistic works that recreated or parodied the historical event. Some examples are the novels The Thief of the Gioconda by Agatha Christie or The Da Vinci Code by Dan Brown, the films La Gioconda está triste by Fernando Fernán Gómez or La banda Picasso by Fernando Colomo, or the paintings Dora Maar with cat by Picasso or L.H.O.O.Q. by Marcel Duchamp.
 
+We hope you liked this article about the theft of the Mona Lisa and that you have learned something new about this fascinating episode in the history of art. If you want to know more about the Mona Lisa or other masterpieces of the Louvre Museum, we invite you to visit our website or follow us on our social networks, like [Twitter](https://twitter.com/AmazingMuseums), [Facebook](https://www.facebook.com/amazingmuseums) and [Instagram.](https://www.instagram.com/amazingmuseums/)
+
+And, if you want to know other facts about the Louvre Museum and get information about the greatest works of art such as the Mona Lisa housed in the main museum of Paris and France, we recommend ["The Louvre Art Guide" now available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/)
 
 
-We hope you liked this article about the theft of the Mona Lisa and that you have learned something new about this fascinating episode in the history of art. If you want to know more about the Mona Lisa or other masterpieces of the Louvre Museum, we invite you to visit our website or follow us on our social networks.
