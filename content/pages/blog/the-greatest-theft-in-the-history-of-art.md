@@ -41,8 +41,10 @@ Meanwhile, the thief, whose identity was unknown, kept the painting in his room 
 
 Peruggia waited two years before attempting to sell the painting. In 1913, he contacted an antique dealer in Florence named Alfredo Geri and offered him the Mona Lisa for 500,000 lire. Geri agreed to see the painting and met Peruggia at a hotel. There, he was able to verify that it was the original and alerted the police. Peruggia was arrested and confessed his crime. The Mona Lisa was recovered and returned to the Louvre Museum in 1914.
 
+![](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vincenzo-peruggia-1566369850.jpg?crop=1xw:0.5537109375xh;center,top\&resize=1200:*)
+
 The theft of the Mona Lisa had great media and cultural repercussions. On the one hand, it increased the fame and value of the painting, which became a universal symbol of art. On the other hand, it inspired numerous literary, cinematographic and artistic works that recreated or parodied the historical event. Some examples are the novels The Thief of the Gioconda by Agatha Christie or The Da Vinci Code by Dan Brown, the films La Gioconda está triste by Fernando Fernán Gómez or La banda Picasso by Fernando Colomo, or the paintings Dora Maar with cat by Picasso or L.H.O.O.Q. by Marcel Duchamp.
 
-![](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vincenzo-peruggia-1566369850.jpg?crop=1xw:0.5537109375xh;center,top\&resize=1200:*)
+
 
 We hope you liked this article about the theft of the Mona Lisa and that you have learned something new about this fascinating episode in the history of art. If you want to know more about the Mona Lisa or other masterpieces of the Louvre Museum, we invite you to visit our website or follow us on our social networks.
