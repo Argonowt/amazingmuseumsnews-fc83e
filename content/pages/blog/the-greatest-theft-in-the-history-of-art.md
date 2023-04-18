@@ -33,13 +33,11 @@ On August 21, 1911, a Monday morning, the Louvre Museum was closed to the public
 
 The theft was not discovered until the next day, when a visitor noticed that the space where the Mona Lisa should have been was empty. The alarm was immediately raised and a police investigation was launched that would last two years. The Louvre Museum was closed for a week and all staff and possible witnesses were questioned. Among the suspects were the poet Guillaume Apollinaire and the painter Pablo Picasso, who were arrested and later released for lack of evidence.
 
-
+![](/images/131120091957-21-mona-lisa-stolen-restricted.jpg)
 
 ## The identity of the Mona Lisa's thief
 
 Meanwhile, the thief, whose identity was unknown, kept the painting in his room in a Paris hotel. He was Vincenzo Peruggia, an Italian carpenter who had worked at the Louvre Museum and who had participated in the installation of the paintings' protective frames. Peruggia acted alone and for patriotic reasons: he wanted to return the Mona Lisa to Italy, his country of origin, as he believed it had been stolen by Napoleon.
-
-![](/images/131120091957-21-mona-lisa-stolen-restricted.jpg)
 
 Peruggia waited two years before attempting to sell the painting. In 1913, he contacted an antique dealer in Florence named Alfredo Geri and offered him the Mona Lisa for 500,000 lire. Geri agreed to see the painting and met Peruggia at a hotel. There, he was able to verify that it was the original and alerted the police. Peruggia was arrested and confessed his crime. The Mona Lisa was recovered and returned to the Louvre Museum in 1914.
 
