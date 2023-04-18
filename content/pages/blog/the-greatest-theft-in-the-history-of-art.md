@@ -13,7 +13,7 @@ excerpt: >-
   kinds of theories and suspicions.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/1250-b70350cb9579d603a1cae04380583d6e.jpg
   altText: Post thumbnail image
   caption: ''
 media:
