@@ -33,7 +33,6 @@ Michelangelo Merisi, known as Caravaggio, was one of the most important painters
 
 ## Criticism of "The Crucifixion of St. Peter"
 
-
 The work shows Saint Peter crucified upside down, which was considered a particularly humiliating form of punishment at the time. This image provoked great controversy, as some religious people considered it to be disrespectful to the figure of Saint Peter and the church in general. In addition, the painting also contains details that suggest a possible homosexuality on the part of Saint Peter, which has led to a variety of interpretations and has been the subject of debate among critics.
 
 One of the main arguments for this interpretation is based on the position in which Caravaggio depicts Saint Peter crucified, face down rather than face up, which was the traditional position in which the crucifixion was depicted. At the time the work was created, face-down crucifixion was considered a particularly humiliating form of punishment, and some have interpreted this choice as a reference to sexual role reversal, which was also considered taboo at the time.
@@ -48,10 +47,7 @@ The work has a dramatic, realistic style, characteristic of Caravaggio, which is
 
 *Crucifixion of Saint Peter, Caravaggio, 1601*
 
-
-
 ## Who was Caravaggio?
-
 
 Caravaggio's personal life was also marked by scandal and violence. He was accused of murder on several occasions and was in trouble with the law in several Italian cities. Despite this, his work had a great impact on Baroque painting and has been the subject of study and admiration by artists and critics alike.
 
@@ -65,18 +61,13 @@ His technique was based on the use of chiaroscuro, i.e. the contrast between lig
 
 Caravaggio received important commissions from powerful patrons such as Cardinal Francesco Maria del Monte and the banker Vincenzo Giustiniani. However, he also had many problems with his clients due to his delays and temperamental nature.
 
-
-
 ## Caravaggio: excesses, rebellion and crime
-
 
 Caravaggio was one of the most influential and revolutionary painters of the Baroque period, but also one of the most conflictive and violent. His life was marked by excess, rebellion and crime, which earned him numerous enemies and persecutions.
 
 Caravaggio moved to Rome in 1592, where he soon became noted for his realistic and dramatic style, which broke with the conventions of the Renaissance and Mannerism. His works, which depicted religious scenes with models taken from the street, caused admiration but also scandal due to their lack of idealisation and their crudeness.
 
 Caravaggio not only painted with passion, he also lived with it. He was a temperamental, arrogant and quarrelsome man, who frequented taverns and brothels, and engaged in fights and duels. In 1606, he killed a man in a quarrel over a game of tennis and had to flee Rome with a warrant for his arrest hanging over his head.
-
-
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/David_and_Goliath_by_Caravaggio.jpg/800px-David_and_Goliath_by_Caravaggio.jpg)
 
@@ -89,5 +80,9 @@ His death in 1610 in Porto Ercole remains a mystery. Some versions suggest that 
 In short, Caravaggio was a misunderstood and persecuted genius, an artist who captured the light and shadow of the human condition on his canvases, but who also experienced them in his own flesh. His work was admired and copied by many later painters, but it took centuries for his reputation to be vindicated.
 
 If you are interested in the subject, we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including artists such as Caravaggio.
+
+Buy it here: <https://www.amazon.es/dp/841894336X/>
+
+
 
 ![](/images/1659105482.png)
