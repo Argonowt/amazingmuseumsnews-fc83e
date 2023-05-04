@@ -13,7 +13,7 @@ excerpt: >-
   the subject of controversy from his time to the present day. One of
   Caravaggio's most famous and controversial works is "The Crucifixion of Saint
   Peter", which has generated diverse and critical interpretations of both its
-  content and form.Translated with www.DeepL.com/Translator (free version)
+  content and form.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
