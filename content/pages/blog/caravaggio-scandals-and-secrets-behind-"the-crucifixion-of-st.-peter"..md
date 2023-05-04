@@ -21,7 +21,8 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Michelangelo-Merisi-Da-Caravaggio-The-Crucifixion-of-Saint-Peter-detail-4-.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
