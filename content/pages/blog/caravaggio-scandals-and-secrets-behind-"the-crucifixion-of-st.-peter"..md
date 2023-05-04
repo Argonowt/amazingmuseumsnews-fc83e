@@ -7,8 +7,13 @@ title: 'Caravaggio, scandals and secrets behind "The Crucifixion of St. Peter".'
 colors: colors-d
 date: '2023-05-04'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Michelangelo Merisi, known as Caravaggio, was one of the most important
+  painters of the 16th century and one of the foremost exponents of the Italian
+  Baroque. His life was marked by scandal and violence, and his work has been
+  the subject of controversy from his time to the present day. One of
+  Caravaggio's most famous and controversial works is "The Crucifixion of Saint
+  Peter", which has generated diverse and critical interpretations of both its
+  content and form.Translated with www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
