@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Japonisme-style-of-decorative-arts-1.webp
   altText: Post image
 bottomSections: []
 metaDescription: null
