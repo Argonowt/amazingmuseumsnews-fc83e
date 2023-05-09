@@ -50,4 +50,4 @@ In conclusion, the influence of Japanese art on Impressionism was fundamental to
 
 If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles at the Musée d'Orsay, available soon.
 
-
+![](/images/1658496518-ee36268b.png)
