@@ -48,11 +48,6 @@ Another work that reflects the influence of Japanese art on Impressionism is Vin
 
 In conclusion, the influence of Japanese art on Impressionism was fundamental to the development of this artistic movement. The ukiyo-e technique and the representation of nature are just two examples of how Japanese art influenced the Impressionists and how this influence can be seen in the works on display at the Musée d'Orsay.
 
-If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles at the Musée d'Orsay, [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
+If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles at the Musée d'Orsay, available soon.
 
-Buy it here: <https://www.amazon.es/dp/8418943483/>
-
-![](/images/1677159480.png)
-
-*** Translated with www.DeepL.com/Translator (free version) ***
 
