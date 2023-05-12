@@ -19,7 +19,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/2821c12c-20ff-4ac3-8054-4ddb4571070b_21-9-aspect-ratio_default_0.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
