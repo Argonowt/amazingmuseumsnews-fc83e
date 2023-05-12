@@ -14,7 +14,7 @@ excerpt: >-
   museums from over 150 countries.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/el-museo-del-prado-una-historia-en-comun.jpeg
   altText: Post thumbnail image
   caption: ''
 media:
