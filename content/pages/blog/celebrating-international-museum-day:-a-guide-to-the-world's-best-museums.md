@@ -7,8 +7,16 @@ title: 'Celebrating International Museum Day: A Guide to the World''s Best Museu
 colors: colors-d
 date: '2023-05-18'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  International Museum Day is a global event that takes place every year on May
+  18th, with the aim of raising awareness about the role of museums in the
+  development of society. Since 1977, the International Council of Museums
+  (ICOM) has been coordinating this initiative, which involves thousands of
+  museums from over 150 countries. Each year, a different theme is chosen to
+  highlight a specific aspect of museum work. In 2023, the theme is "Museums,
+  Sustainability and Wellbeing", which focuses on how museums can contribute to
+  the 2030 Agenda for Sustainable Development Goals, from supporting climate
+  action and promoting inclusion to combating social isolation and improving
+  mental health.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
