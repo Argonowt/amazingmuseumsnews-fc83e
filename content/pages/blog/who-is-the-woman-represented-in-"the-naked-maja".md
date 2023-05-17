@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Who is the woman represented in "The Naked Maja"?
 colors: colors-d
-date: '2023-05-31'
+date: '2023-05-29'
 excerpt: >-
   Art has always been a medium of expression that has captured the imagination
   and fascination of people throughout history. One of the best known
