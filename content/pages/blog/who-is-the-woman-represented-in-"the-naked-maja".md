@@ -50,7 +50,7 @@ In short, Goya's paintings of "The Naked Maja" and "The Dressed Maja" are two ic
 
 If you are interested in the subject we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors such as Goya and analysis of these and other works.
 
-You can buy it at: <https://www.amazon.es/dp/841894336X/>
+You can buy it at: <https://www.amazon.com/dp/8418943408>
 
-![](/images/1657615099.png)
+![](/images/1659105482.png)
 
