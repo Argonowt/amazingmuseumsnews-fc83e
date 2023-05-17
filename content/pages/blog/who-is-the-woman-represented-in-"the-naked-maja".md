@@ -7,8 +7,11 @@ title: Who is the woman represented in "The Naked Maja"?
 colors: colors-d
 date: '2023-05-31'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Art has always been a medium of expression that has captured the imagination
+  and fascination of people throughout history. One of the best known
+  masterpieces of the famous Spanish painter Francisco de Goya are the paintings
+  of "The Naked Maja" and "The Dressed Maja". These two works have generated
+  admiration, controversy and have left an indelible mark on the art world.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
