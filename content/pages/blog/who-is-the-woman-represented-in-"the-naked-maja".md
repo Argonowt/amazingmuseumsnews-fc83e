@@ -24,6 +24,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 Art has always been a medium of expression that has captured the imagination and fascination of people throughout history. One of the best known masterpieces of the famous Spanish painter Francisco de Goya are the paintings of "The Naked Maja" and "The Dressed Maja". These two works have generated admiration, controversy and have left an indelible mark on the art world.
 
