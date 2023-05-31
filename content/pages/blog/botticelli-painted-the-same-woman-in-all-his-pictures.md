@@ -7,8 +7,11 @@ title: Botticelli painted the same woman in all his pictures
 colors: colors-d
 date: '2023-06-06'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Did you know that many of Botticelli's famous paintings feature the same
+  model? That's right, the Italian Renaissance artist used the same woman as a
+  model for his masterpieces, such as The Birth of Venus or Springtime. Why did
+  he do it? Who was this woman? What did she mean to him? In this article we
+  tell you everything we know about Botticelli's mysterious muse.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
