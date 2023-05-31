@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/1200px-Venus_botticelli_detail.jpg
-  altText: Post image
+  altText: venus botticelli
 bottomSections: []
 metaDescription: null
 socialImage: null
