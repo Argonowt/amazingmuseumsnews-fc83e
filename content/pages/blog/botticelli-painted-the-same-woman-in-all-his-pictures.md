@@ -15,7 +15,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/1200px-Venus_botticelli_detail.jpg
-  altText: Post thumbnail image
+  altText: Venus Bottic
   caption: ''
 media:
   type: ImageBlock
