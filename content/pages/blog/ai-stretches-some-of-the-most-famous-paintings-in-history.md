@@ -28,46 +28,45 @@ Kody Young is the founder of AI Interpreter, a company that offers machine trans
 
 On May 28, 2023, [Kody posted a Twitter thread](https://twitter.com/heykody/status/1662168390352666624), here you can find his best results:
 
-## Van Gogh's Starry Night.
+## Van Gogh's Starry Night
 
-![](/images/FxE1WOnaYAEbl0o-7c5d6d1c.jpg)
+![](/images/FxE1WOnaYAEbl0o-9b0a9971.jpg)
 
 ## Terrace cafe at night, Van Gogh
 
-![](/images/FxE1XKvakAEKICi-9c991e93.jpg)
+![](https://www.grandesmuseos.news/images/FxE1XKvakAEKICi-9c991e93.jpg)
 
 ## Nighthawks, Hopper
 
-![](/images/FxE1YHaakAAEOMX-e1d09633.jpg)
+![](https://www.grandesmuseos.news/images/FxE1YHaakAAEOMX-e1d09633.jpg)
 
 ## Composition with red, blue and yellow, Mondrian
 
-![](/images/FxE1ZWOagAAwtYh-6a5aeb22.jpg)
+![](https://www.grandesmuseos.news/images/FxE1ZWOagAAwtYh-6a5aeb22.jpg)
 
 ## The Bedroom, Van Gogh
 
-![](/images/FxE1Z4uaIAAMMnW-cf58dcfb.jpg)
+![](https://www.grandesmuseos.news/images/FxE1Z4uaIAAMMnW-cf58dcfb.jpg)
 
 ## The Garden of Earthly Delights, Bosch
 
-![](/images/FxE1amlaYAAD27L.jpg)
+![](https://www.grandesmuseos.news/images/FxE1amlaYAAD27L.jpg)
 
 ## The Arnolfini Marriage, Jan van Eyck
 
-![](/images/FxE1bHZaQAA2XMl.png)
+![](https://www.grandesmuseos.news/images/FxE1bHZaQAA2XMl.png)
 
 ## The Birth of Venus, Botticelli
 
-![](/images/FxE1bmjaMAAUjXa.jpg)
+![](https://www.grandesmuseos.news/images/FxE1bmjaMAAUjXa.jpg)
 
 ## The Swing, Fragonard
 
-![](/images/FxE1cQoakAEzpjQ.jpg)
+![](https://www.grandesmuseos.news/images/FxE1cQoakAEzpjQ.jpg)
 
 What is your opinion, can AI really contribute something, or is it merely anecdotal? Some of these works are exhibited in museums such as the Prado Museum or the Louvre Museum. If you are interested in the subject we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors and analysis of these and other works. You can also find our book The Louvre Art Guide.
 
 'The Prado Art Guide' available at: <https://www.amazon.es/dp/841894336X/>
 
-'The Louvre Art Guide' available at: <https://www.amazon.es/dp/8418943424>
+![](/images/1659095223.png)
 
-![](/images/Grandes%20Museos.png)
