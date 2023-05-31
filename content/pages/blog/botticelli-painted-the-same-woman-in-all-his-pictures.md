@@ -14,7 +14,7 @@ excerpt: >-
   tell you everything we know about Botticelli's mysterious muse.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/1200px-Venus_botticelli_detail.jpg
   altText: Post thumbnail image
   caption: ''
 media:
