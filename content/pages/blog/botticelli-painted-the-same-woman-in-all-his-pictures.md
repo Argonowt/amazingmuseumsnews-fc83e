@@ -24,6 +24,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 Did you know that many of Botticelli's famous paintings feature the same model? That's right, the Italian Renaissance artist used the same woman as a model for his masterpieces, such as The Birth of Venus or Springtime. Why did he do it? Who was this woman? What did she mean to him? In this article we tell you everything we know about Botticelli's mysterious muse.
 
