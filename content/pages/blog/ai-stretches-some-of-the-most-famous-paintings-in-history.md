@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/FxE1WOnaYAEbl0o.jpg
-  altText: AI stretched starryigh
+  altText: AI stretched starry night
   caption: ''
 media:
   type: ImageBlock
