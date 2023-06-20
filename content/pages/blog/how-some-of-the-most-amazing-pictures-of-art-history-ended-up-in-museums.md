@@ -16,7 +16,7 @@ excerpt: >-
   these museums were acquired.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Sin título.png
   altText: Post thumbnail image
   caption: ''
 media:
