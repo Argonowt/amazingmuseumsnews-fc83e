@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: How some of the most amazing paintings of art history ended up in museums
 colors: colors-d
-date: '2023-06-20'
+date: '2023-06-21'
 excerpt: >-
   The art world is full of fascinating stories, and the masterpieces on display
   in famous museums such as the Prado Museum in Madrid, the Musée d'Orsay in
