@@ -27,7 +27,6 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-
 The art world is full of fascinating stories, and the masterpieces on display in famous museums such as the Prado Museum in Madrid, the Musée d'Orsay in Paris and the Louvre Museum bear witness to a priceless artistic legacy. However, some of these works of art have made their way to their current homes in truly extraordinary ways. In this article, we will explore the rarest and most surprising ways in which some of the most celebrated works of art in these museums were acquired.
 
 ## How the Meninas came to the Prado Museum
@@ -52,4 +51,6 @@ The works of art exhibited in the Prado Museum, the Musée d'Orsay and the Louvr
 
 Some of these works are exhibited in museums such as the Prado Museum or the Louvre Museum. If you are interested in the subject we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors and analysis of these and other works. You can also find our book The Louvre Art Guide.
 
+'The Prado Art Guide' available at: <https://www.amazon.es/dp/841894336X/>
 
+![](/images/1659095223.png)
