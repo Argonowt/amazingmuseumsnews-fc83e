@@ -7,8 +7,13 @@ title: How some of the most amazing paintings of art history ended up in museums
 colors: colors-d
 date: '2023-06-20'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The art world is full of fascinating stories, and the masterpieces on display
+  in famous museums such as the Prado Museum in Madrid, the Musée d'Orsay in
+  Paris and the Louvre Museum bear witness to a priceless artistic legacy.
+  However, some of these works of art have made their way to their current homes
+  in truly extraordinary ways. In this article, we will explore the rarest and
+  most surprising ways in which some of the most celebrated works of art in
+  these museums were acquired.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
