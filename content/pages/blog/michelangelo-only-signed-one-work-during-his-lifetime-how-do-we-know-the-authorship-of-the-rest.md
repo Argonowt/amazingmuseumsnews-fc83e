@@ -10,7 +10,7 @@ colors: colors-d
 date: '2023-06-28'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/98.webp
   altText: Post thumbnail image
   caption: ''
 media:
