@@ -20,6 +20,12 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+excerpt: >-
+  Pity is a feeling of compassion and empathy that has been depicted throughout
+  history in various artistic forms. One of the most famous depictions of piety
+  is the famous Italian Renaissance sculptor Michelangelo Buonarroti, known
+  simply as Michelangelo. Among all his masterpieces, one in particular stands
+  out: the Pietà, the only work the artist signed.
 ---
 Pity is a feeling of compassion and empathy that has been depicted throughout history in various artistic forms. One of the most famous depictions of piety is the famous Italian Renaissance sculptor Michelangelo Buonarroti, known simply as Michelangelo. Among all his masterpieces, one in particular stands out: the Pietà, the only work the artist signed.
 
