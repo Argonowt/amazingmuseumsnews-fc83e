@@ -49,7 +49,7 @@ The Louvre Museum is known for housing one of the most impressive art collection
 
 The works of art exhibited in the Prado Museum, the Musée d'Orsay and the Louvre Museum are priceless cultural treasures. However, the unusual ways in which some of these works were acquired add an extra dimension to their history. From spontaneous gifts to fortuitous inheritances and direct acquisitions by the artists themselves, these anecdotes demonstrate that art history is as creative as art itself.
 
-Some of these works are exhibited in museums such as the Prado Museum or the Louvre Museum. If you are interested in the subject we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors and analysis of these and other works. You can also find our book The Louvre Art Guide.
+Some of these works are exhibited in museums such as the Prado Museum or the Louvre Museum. If you are interested in the subject we recommend The Prado Art Museum, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors and analysis of these and other works. You can also find our book The Louvre Art Guide.
 
 'The Prado Art Guide' available at: <https://www.amazon.es/dp/841894336X/>
 
