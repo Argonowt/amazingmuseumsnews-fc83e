@@ -65,7 +65,8 @@ Michelangelo's Pieta, with its poignant expressiveness and detailed realism, is 
 
 Michelangelo's Pietà stands out as the only work signed by the artist and represents a turning point in art history, where artists began to be recognized and valued as creative individuals. Although many Renaissance artists did not sign their works, Michelangelo's signature on the Pietà shows his desire to be recognized and leave his mark on art history. His legacy endures to this day, and his influence can be seen in the works of many later artists who also sought to leave their mark on the art world.
 
-If you are interested in art, we recommend our collection of books 'Great Museums'. Among other titles, you can find El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors and analysis of these and other works. You can also find our book The Louvre Art Guide.
+If you are interested in art, we recommend our collection of books 'Great Museums'. Among other titles, you can find El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including authors and analysis of these and other works.
 
+'The Prado Art Guide' available at: <https://www.amazon.es/dp/841894336X/>
 
-
+![](/images/1659095223.png)
