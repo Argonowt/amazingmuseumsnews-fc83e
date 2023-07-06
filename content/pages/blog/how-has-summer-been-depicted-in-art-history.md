@@ -48,8 +48,6 @@ As we can see, summer has been a recurring theme in the world of pictorial art, 
 
 The Musée d'Orsay, where some of the museums in this article are located, is one of the most beautiful and original museums in Paris. It occupies a former railway station and houses a magnificent collection of 19th century art, with a special focus on Impressionism and Post-Impressionism. Among its most famous works are Manet's Luncheon on the Grass and Olympia, Van Gogh's Starry Night and Sunflowers, Renoir's The Dance at the Moulin de la Galette and The Swing, or Courbet's The Origin of the World and The Dream.
 
-If you want to learn more about other Impressionist works, we recommend "Musée d'Orsay Art Guide", our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, soon available on Amazon.
-
-
+If you want to learn more about other Impressionist works, we recommend "The Orsay Museum Art Guide", our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, soon available on Amazon.
 
 ![](/images/1658496518.png)
