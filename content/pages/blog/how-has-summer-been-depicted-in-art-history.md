@@ -7,8 +7,10 @@ title: How has summer been depicted in art history?
 colors: colors-d
 date: '2023-07-06'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Summer is a time of the year that inspires many pictorial artists, both for
+  the light and the color that characterize this season. In this article, we
+  will review some of the most emblematic works that reflect the summer in the
+  world of pictorial art, from impressionism to contemporary art.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
