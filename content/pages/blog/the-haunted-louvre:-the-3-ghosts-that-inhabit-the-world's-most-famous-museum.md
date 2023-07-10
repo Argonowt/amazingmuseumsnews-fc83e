@@ -14,7 +14,7 @@ excerpt: >-
   of the Louvre and why they still haunt it.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Blu-ray_Belphegor_1927_00.jpg
   altText: Post thumbnail image
   caption: ''
 media:
