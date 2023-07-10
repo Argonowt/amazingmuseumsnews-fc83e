@@ -7,8 +7,11 @@ title: 'The haunted Louvre: the 3 ghosts that inhabit the world''s most famous m
 colors: colors-d
 date: '2023-07-12'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Do you like ghost stories? If so, you might be interested in visiting the
+  world's most famous museum: the Louvre. This building, which is nearly 800
+  years old, houses not only works of art, but also some spirits that refuse to
+  leave its rooms. In this article we tell you who are the 3 most famous ghosts
+  of the Louvre and why they still haunt it.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
