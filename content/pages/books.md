@@ -54,6 +54,28 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TextSection
+    colors: colors-d
+    elementId: ''
+    variant: variant-a
+    title: 'New books coming soon:'
+    subtitle: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-0
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: HeroSection
     colors: colors-d
     elementId: ''
@@ -88,28 +110,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-d
-    elementId: ''
-    variant: variant-a
-    title: 'New books coming soon:'
-    subtitle: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: HeroSection
     colors: colors-d
     elementId: ''
