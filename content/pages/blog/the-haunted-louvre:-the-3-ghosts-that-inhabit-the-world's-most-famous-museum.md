@@ -19,7 +19,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Blu-ray_Belphegor_1927_00.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
