@@ -33,7 +33,7 @@ The first is Jean l'Ecorcheur, a butcher who lived in the 16th century and worke
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d2/F%C3%AAte_de_l%27Etre_supr%C3%AAme_1.jpg)
 
-*The Tuileries, renamed the "Jardin National" during the French Revolution: the Festival of the Supreme Being (1794).
+*The Tuileries, renamed the "Jardin National" during the French Revolution: the Festival of the Supreme Being (1794).*
 
 ## Belphegor, the cursed mummy in the Louvre
 
@@ -49,7 +49,7 @@ The third is a Napoleonic soldier who died during the Battle of Waterloo in 1815
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/72/Battle_of_Waterloo_1815.PNG)
 
-*The Battle of Waterloo, oil painting by William Sadler.
+*The Battle of Waterloo, oil painting by William Sadler.*
 
 These are the three most famous ghosts in the Louvre, but they are not the only ones. Some say there are many more spirits inhabiting the museum, some benign and others malevolent. If you want to meet them, you just have to dare to visit the Louvre at night. Are you up for it?
 
@@ -58,4 +58,3 @@ If you would like to find out more about the Louvre Museum and, above all, infor
 [**Already available on Amazon by clicking here. **](https://www.amazon.es/Louvre-Art-Guide-essential-masterpieces/dp/8418943459/)
 
 ![](/images/1689000208-d3aa3593.png)
-
