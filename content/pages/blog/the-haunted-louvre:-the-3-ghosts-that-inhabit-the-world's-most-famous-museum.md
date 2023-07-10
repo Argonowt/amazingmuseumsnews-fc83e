@@ -53,7 +53,7 @@ The third is a Napoleonic soldier who died during the Battle of Waterloo in 1815
 
 These are the three most famous ghosts in the Louvre, but they are not the only ones. Some say there are many more spirits inhabiting the museum, some benign and others malevolent. If you want to meet them, you just have to dare to visit the Louvre at night. Are you up for it?
 
-If you would like to find out more about the Louvre Museum and, above all, information about the greatest works of art housed in the Louvre Museum in Paris, we recommend ["The Louvre Art Guide"](https://www.amazon.es/dp/8418943424/)
+If you would like to find out more about the Louvre Museum and, above all, information about the greatest works of art housed in the Louvre Museum in Paris, we recommend ["The Louvre Art Guide".](https://www.amazon.es/Louvre-Art-Guide-essential-masterpieces/dp/8418943459/)
 
-[**Already available on Amazon by clicking here. **](https://www.amazon.es/dp/8418943424/)
+[**Already available on Amazon by clicking here. **](https://www.amazon.es/Louvre-Art-Guide-essential-masterpieces/dp/8418943459/)
 
