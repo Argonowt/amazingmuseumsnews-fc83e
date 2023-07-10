@@ -57,7 +57,3 @@ If you would like to find out more about the Louvre Museum and, above all, infor
 
 [**Already available on Amazon by clicking here. **](https://www.amazon.es/dp/8418943424/)
 
-If you prefer to buy it in a bookshop, [**Find your nearest bookshop by clicking here. **](https://www.todostuslibros.com/libros/museo-del-louvre-guia-de-arte_978-84-18943-42-3)
-
-![](/images/1669032684.png)
-
