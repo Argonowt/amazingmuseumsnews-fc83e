@@ -42,15 +42,6 @@ sections:
         style: primary
         url: >-
           https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
-      - type: Button
-        label: Buy the e-book
-        altText: ''
-        url: 'https://www.amazingmuseums.com'
-        showIcon: true
-        icon: cart
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/1.png
