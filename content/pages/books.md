@@ -73,7 +73,7 @@ sections:
         label: Read more
         altText: ''
         url: /louvre-art-guide
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
