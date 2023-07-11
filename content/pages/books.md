@@ -70,7 +70,7 @@ sections:
       and decorative arts from all periods and civilizations.
     actions:
       - type: Button
-        label: Learn more
+        label: Read more
         altText: ''
         url: /louvre-art-guide
         showIcon: false
