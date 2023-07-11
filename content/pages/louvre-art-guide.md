@@ -385,7 +385,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: >-
-              https://drive.google.com/file/d/1HnSujlZXQYXyaE9QITUTEVB6n8XJZmBF/view?usp=sharing
+              https://drive.google.com/file/d/1XxfwMV0v3sSD8k-OHUJpotUbkypeLl8I/view?usp=drive_link
             style: secondary
         styles:
           self:
