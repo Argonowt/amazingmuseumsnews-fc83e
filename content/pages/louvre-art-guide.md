@@ -337,7 +337,7 @@ sections:
     items:
       - type: FeaturedItem
         text: >
-          Download the first chapter and start discovering all that this museum
+          Download our spreadsheets and start discovering all that this museum
           has to offer.
         actions:
           - type: Button
