@@ -249,7 +249,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/agas-removebg-preview.png
+          url: /images/amazon-a_82056-removebg-preview-f3e1e5b4.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
