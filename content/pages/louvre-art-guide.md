@@ -391,7 +391,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/1659105482.png
+          url: /images/1689076016-removebg-preview.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
