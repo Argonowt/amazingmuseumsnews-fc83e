@@ -58,10 +58,16 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    text: |
+    text: >
       ### The Louvre Art Guide
 
-      Available soon
+
+      The essential artistic guide to discover and learn the essentials of the
+      greatest works, artists and styles in the Louvre Museum. Discover the
+      immense art collection of the Louvre Museum, from Oriental, Egyptian,
+      Greco-Roman and medieval antiquities to the great works of the
+      Renaissance, Baroque, Neoclassicism and Romanticism. Painting, sculpture
+      and decorative arts from all periods and civilizations.
     actions: []
     media:
       type: ImageBlock
