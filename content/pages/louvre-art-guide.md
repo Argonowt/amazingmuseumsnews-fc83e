@@ -232,8 +232,8 @@ sections:
     variant: variant-b
     title: The Louvre Art Guide
     subtitle: >-
-      The essential art guide to discover and learn the essentials of the
-      greatest works, artists and styles in the Prado Museum.
+      The essential artistic guide to discover and learn the essentials of the
+      greatest works, artists and styles in the Louvre Museum.
     text: >
       Discover one of the greatest art galleries in the world, from its
       beginnings to its transformation into a Museum of Paintings and its latest
