@@ -230,7 +230,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-b
-    title: The Prado Art Guide
+    title: The Louvre Art Guide
     subtitle: >-
       The essential art guide to discover and learn the essentials of the
       greatest works, artists and styles in the Prado Museum.
