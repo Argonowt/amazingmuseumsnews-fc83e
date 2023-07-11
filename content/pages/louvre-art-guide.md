@@ -137,7 +137,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: The Prado - Art Guide
+title: The Louvre - Art Guide
 sections:
   - type: HeroSection
     colors: colors-d
