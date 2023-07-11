@@ -268,7 +268,7 @@ sections:
     elementId: ''
     variant: variant-a
     text: |
-      ![](/images/1659105482.png)
+      ![](/images/1689076016.png)
     styles:
       self:
         height: auto
