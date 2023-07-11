@@ -268,7 +268,7 @@ sections:
     elementId: ''
     variant: variant-a
     text: |
-      ![](/images/1689076016-removebg-preview.png)
+      <center>![](/images/1689076016-removebg-preview.png)</center>
     styles:
       self:
         height: auto
