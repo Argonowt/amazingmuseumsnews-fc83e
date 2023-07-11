@@ -226,7 +226,7 @@ sections:
           elementId: ''
       - type: FeaturedItem
         text: |
-          Buy the book on Amazon or AmazingMuseums.com
+          Buy the book on Amazon.
         actions:
           - type: Button
             label: Buy the book
