@@ -43,7 +43,7 @@ sections:
         url: >-
           https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
       - type: Button
-        label: But the e-book
+        label: Buy the e-book
         altText: ''
         url: >-
           https://www.amazon.es/Prado-Art-Guide-essential-masterpieces-ebook/dp/B0BX4HM6QF/
