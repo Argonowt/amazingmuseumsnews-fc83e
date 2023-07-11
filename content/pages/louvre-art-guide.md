@@ -150,19 +150,19 @@ sections:
 
       *   Size: 14 x 21 cm
 
-      *   Pages: 384
+      *   Pages: 345
 
       *   Format: Paperback with color illustrations
 
       *   Edition: 1st edition
 
-      *   Release date: September 2022
+      *   Release date: November 2022
 
-      *   ISBN: 9788418943218
+      *   ISBN: 9788418943454
 
-      *   ISBN POD: 9788418943225
+      *   ISBN POD: 9788418943461
 
-      *   ISBN ebook: 9788418943232
+      *   ISBN ebook: 9788418943478
 
       *   RRP: 19,95€.
 
