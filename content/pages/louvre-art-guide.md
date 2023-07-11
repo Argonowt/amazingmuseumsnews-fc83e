@@ -364,7 +364,8 @@ sections:
             label: Buy the book
             showIcon: true
             icon: arrowRight
-            url: 'https://www.amazon.es/dp/8418943394/'
+            url: >-
+              https://www.amazon.com/-/es/Carlos-Javier-Taranilla-Varga/dp/8418943459/
             style: secondary
         styles:
           self:
