@@ -173,7 +173,7 @@ sections:
         icon: cart
         style: primary
         url: >-
-          https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
+          https://www.amazon.com/-/es/Carlos-Javier-Taranilla-Varga/dp/8418943459/
     media:
       type: ImageBlock
       url: /images/978-84-1894-342-3.png
