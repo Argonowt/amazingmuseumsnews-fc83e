@@ -289,7 +289,7 @@ sections:
     colors: colors-a
     elementId: ''
     variant: variant-a
-    title: What makes this guide different from other Prado guides?
+    title: What makes this guide different from other Louvre guides?
     text: >+
       *   Learn about the history and holdings of one of the most important
       museums in the world: 96 essential masterpieces arranged by school, style
