@@ -372,8 +372,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: >-
-            /images/png-transparent-arcade-fire-amazon-com-amazon-echo-logo-amazon-text-logo-black-thumbnail.png
+          url: /images/1490889698-amazon_82521.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
