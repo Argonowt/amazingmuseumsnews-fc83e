@@ -176,7 +176,7 @@ sections:
           https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
     media:
       type: ImageBlock
-      url: /images/1.png
+      url: /images/978-84-1894-342-3.png
       altText: Hero image
     backgroundImage: null
     styles:
