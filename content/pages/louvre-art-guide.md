@@ -291,27 +291,25 @@ sections:
     variant: variant-a
     title: What makes this guide different from other Louvre guides?
     text: >+
-      *   Learn about the history and holdings of one of the most important
-      museums in the world: 96 essential masterpieces arranged by school, style
-      and author.
+      *   Learn about the history of one of the most important museums in the
+      world: 120 essential masterpieces arranged by school, style and author. 
 
 
-      *   Clear, complete and rigorous information on masters, works, periods,
-      collections and funds in general that the museum treasures in its
-      headquarters.
+      *   Clear, complete and rigorous information on artists, works, periods
+      and collections in general that the museum treasures in its headquarters. 
 
 
       *   Written in a didactic way both for the non-specialized reader and for
-      students and the general public who wish to learn about the Prado's
-      artistic treasures.
+      students and the general public who wish to learn about the Louvre’s
+      artistic treasures. 
 
 
-      *   The rigor of its exposition and the practical approach it provides,
-      make it a useful work, both to prepare and to remember the visit to the
-      museum.
+      *   The accuracy of its exposition and the practical approach it provides,
+      makes this book a useful work, both to prepare and to remember the visit
+      to the museum. 
 
 
-      *   Glossary of artistic terms necessary to understand the less known
+      *   Glossary of artistic terms necessary to understand the specialized
       concepts of the text and to establish relationships between the different
       stages of the history of art.
 
