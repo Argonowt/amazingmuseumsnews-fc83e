@@ -42,6 +42,16 @@ sections:
         style: primary
         url: >-
           https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://www.amazon.es/Prado-Art-Guide-essential-masterpieces-ebook/dp/B0BX4HM6QF/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1.png
