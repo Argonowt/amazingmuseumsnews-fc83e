@@ -235,16 +235,18 @@ sections:
       The essential artistic guide to discover and learn the essentials of the
       greatest works, artists and styles in the Louvre Museum.
     text: >
-      Discover one of the greatest art galleries in the world, from its
-      beginnings to its transformation into a Museum of Paintings and its latest
-      extensions. Admire and understand the great works of art it houses, as
-      well as the masters who created them: El Greco, Velázquez, Goya,
-      Botticelli, Raphael, the Venetians, Rubens, Rembrandt, Lorraine, Poussin,
-      19th century Spanish painting and the sculptural and decorative works it
-      treasures in its collections. An essential art guide to fully admire the
-      main national art museum in Spain, which houses one of the best
-      collections of European art in the world and the most complete collection
-      of Spanish painting.
+      Discover the immense art collection of the Louvre Museum, from Oriental,
+      Egyptian, Greco-Roman and medieval antiquities to the great works of the
+      Renaissance, Baroque, Neoclassicism and Romanticism. Painting, sculpture
+      and decorative arts from all periods and civilizations. Works by great
+      French masters such as Poussin and David, Flemish painters such as Rubens
+      and Van Dyck, Dutch artists such as Rembrandt, Italian masters such as
+      Leonardo da Vinci, Raphael, Michelangelo, Titian and Tintoretto, and
+      Spanish artists such as El Greco, Zurbarán, Velázquez and Goya. An
+      essential book to delve into the structure of the Louvre palace and its
+      dependencies, learning in detail about 120 essential masterpieces among
+      the more than 400,000 pieces contained in the most important museum in the
+      world.
     styles:
       self:
         height: auto
