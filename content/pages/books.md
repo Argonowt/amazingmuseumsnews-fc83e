@@ -68,7 +68,16 @@ sections:
       Greco-Roman and medieval antiquities to the great works of the
       Renaissance, Baroque, Neoclassicism and Romanticism. Painting, sculpture
       and decorative arts from all periods and civilizations.
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /louvre-art-guide
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1689000208.png
