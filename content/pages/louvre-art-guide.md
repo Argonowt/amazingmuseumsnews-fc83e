@@ -372,7 +372,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/1490889698-amazon_82521.png
+          url: /images/amazon-a_82056-removebg-preview.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
