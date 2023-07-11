@@ -47,7 +47,7 @@ sections:
         altText: ''
         url: >-
           https://www.amazon.es/Prado-Art-Guide-essential-masterpieces-ebook/dp/B0BX4HM6QF/
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
