@@ -372,7 +372,7 @@ sections:
             textAlign: left
         featuredImage:
           type: ImageBlock
-          url: /images/Amazon_icon.svg.png
+          url: /images/amazon.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
