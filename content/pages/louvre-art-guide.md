@@ -357,8 +357,8 @@ sections:
           caption: Caption of the image
           elementId: ''
       - type: FeaturedItem
-        text: |2
-           .
+        text: |
+
 
           Buy the book on Amazon.
         actions:
