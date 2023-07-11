@@ -363,7 +363,7 @@ sections:
           - type: Button
             label: Buy the book
             showIcon: true
-            icon: arrowRight
+            icon: cart
             url: >-
               https://www.amazon.com/-/es/Carlos-Javier-Taranilla-Varga/dp/8418943459/
             style: secondary
