@@ -143,7 +143,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: The Prado Art Guide
+    title: The Louvre Art Guide
     subtitle: Carlos Javier Taranilla de la Varga
     text: |+
       *   Collection: Great museums
