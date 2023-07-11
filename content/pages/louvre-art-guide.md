@@ -146,7 +146,7 @@ sections:
     title: The Louvre Art Guide
     subtitle: Carlos Javier Taranilla de la Varga
     text: |+
-      *   Collection: Great museums
+      *   Collection: Amazing Museums
 
       *   Size: 14 x 21 cm
 
