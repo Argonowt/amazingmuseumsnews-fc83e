@@ -7,8 +7,11 @@ title: The hilarious story of Manet's "Une botte d'asperges"
 colors: colors-d
 date: '2023-07-26'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Edouard Manet was one of the most influential painters of the 19th century.
+  His work is characterized by its boldness, modernity and elegance. Among his
+  many creations, there is one that stands out for its simplicity and symbolism:
+  asparagus. However, this work also stands out for the hilarious story behind
+  it.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
