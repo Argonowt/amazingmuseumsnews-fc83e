@@ -27,6 +27,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 Impressionism is an artistic movement that emerged in France in the second half of the 19th century and was characterized by a new way of representing reality, based on the capture of light and color, as well as the expression of the visual sensation of the moment. The Impressionists broke with academic norms and the traditional subjects of painting, and devoted themselves to depicting modern life, urban and rural landscapes, and everyday scenes, with a loose and vibrant brushstroke. Why is all this considered the starting point for "modern" painting?
 
