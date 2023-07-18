@@ -19,7 +19,8 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/en-1880-manet-recibió-un-encargo-muy-especial-pintar-unos-v0-hp3l7g1ky9191.webp
   altText: Post image
 bottomSections: []
 metaDescription: null
