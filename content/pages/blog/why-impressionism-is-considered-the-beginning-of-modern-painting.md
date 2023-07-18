@@ -54,3 +54,6 @@ The Impressionists shared some aesthetic principles, such as the use of pure and
 Impressionism had a great diffusion and influence in other European and American countries, where several painters followed its postulates or adapted them to their own realities. Some examples are Alfred Sisley in England, Max Liebermann in Germany, James Abbott McNeill Whistler in the United States or Joaquín Sorolla in Spain. Impressionism was also the starting point for other later movements, such as Neo-Impressionism, Post-Impressionism and Fauvism, which took experimentation with color and form even further and laid the foundations for abstract art.
 
 If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, [soon available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
+
+![](/images/1658496518-ee36268b.png)
+
