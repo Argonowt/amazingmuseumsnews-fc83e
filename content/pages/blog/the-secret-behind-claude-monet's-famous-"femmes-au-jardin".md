@@ -39,7 +39,7 @@ Monet uses a palette of light, luminous colors, with loose, quick brushstrokes, 
 
 The painting femmes de jardin is a masterpiece of impressionism, showing Monet's interest in nature and feminine beauty. The painter manages to convey the feeling of a fleeting and ephemeral moment, in which women enjoy a sunny day in the garden.
 
-The secret of the painting "Femmes au jardin".
+## The secret of the painting "Femmes au jardin".
 
 About these women, at first glance, one might think that these are three different women, perhaps friends or family members, who posed for the artist. However, the reality is that the three female figures are the same person: Camille Doncieux, Monet's wife.
 
