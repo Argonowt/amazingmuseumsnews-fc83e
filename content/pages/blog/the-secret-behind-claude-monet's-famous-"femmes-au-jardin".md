@@ -7,8 +7,10 @@ title: The secret behind Claude Monet's famous "Femmes au jardin"
 colors: colors-d
 date: '2023-07-19'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  "Femmes au jardin" is one of the most famous works of the French impressionist
+  painter Claude Monet, painted between 1866 and 1867. In it, you can see three
+  women in different attitudes and clothing, enjoying nature and light in a
+  garden full of flowers and trees, but these three women hide a secret.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
