@@ -23,6 +23,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 "Femmes au jardin" is one of the most famous works of the French impressionist painter Claude Monet, painted between 1866 and 1867. In it, you can see three women in different attitudes and clothing, enjoying nature and light in a garden full of flowers and trees, but these three women hide a secret.
 
