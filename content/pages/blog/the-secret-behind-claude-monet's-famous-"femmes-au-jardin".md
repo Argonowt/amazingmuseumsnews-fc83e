@@ -50,3 +50,7 @@ Why did Monet decide to paint his wife in three different versions? There are se
 Whatever the reason, what is certain is that "Femmes au jardin" is a masterpiece of impressionism, capturing the essence of an ephemeral and sublime moment, in which nature and woman merge into a single beauty.
 
 To conclude this article, it is worth noting that "Femmes au jardin" is not only a sample of Monet's talent and sensitivity, but also a testimony of the love story between him and Camille, who married in 1870 and had two children. Sadly, Camille died in 1879 of tuberculosis, leaving Monet in deep sadness. Despite this, Monet continued to paint until his death in 1926, leaving an incomparable artistic legacy.
+
+If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles at the Musée d'Orsay, available soon.
+
+![](/images/1658496518-ee36268b.png)
