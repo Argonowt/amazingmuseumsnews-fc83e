@@ -17,7 +17,7 @@ excerpt: >-
   for "modern" painting?Translated with www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/olympia-pintor-eduard-manet.jpg
   altText: Post thumbnail image
   caption: ''
 media:
