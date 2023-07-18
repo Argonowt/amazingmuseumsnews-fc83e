@@ -13,7 +13,7 @@ excerpt: >-
   garden full of flowers and trees, but these three women hide a secret.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/femmes-au-jardin-detail1.jpg
   altText: Post thumbnail image
   caption: ''
 media:
