@@ -14,7 +14,7 @@ excerpt: >-
   it.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Edouard_Manet_Bunch_of_Asparagus.jpg
   altText: Post thumbnail image
   caption: ''
 media:
