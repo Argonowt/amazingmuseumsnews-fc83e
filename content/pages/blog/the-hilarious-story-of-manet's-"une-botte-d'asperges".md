@@ -26,7 +26,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Edouard Manet was one of the most influential painters of the 19th century. His work is characterized by its boldness, modernity and elegance. Among his many creations, there is one that stands out for its simplicity and symbolism: asparagus. However, this work also stands out for the hilarious story behind it.
+![](/images/1658496518-ee36268b.png)Edouard Manet was one of the most influential painters of the 19th century. His work is characterized by its boldness, modernity and elegance. Among his many creations, there is one that stands out for its simplicity and symbolism: asparagus. However, this work also stands out for the hilarious story behind it.
 
 In 1880, Manet was commissioned by Charles Ephrussi, a wealthy art collector and editor of the magazine La Gazette des Beaux-Arts. Ephrussi asked him to paint a bunch of asparagus, a luxury product at the time. Manet accepted the challenge and produced a masterpiece of still life. With loose, vibrant brushstrokes, he captured the freshness and texture of the asparagus, placed on a white napkin. The dark background highlights the contrast between light and shadow, creating an effect of volume and depth.
 
@@ -54,8 +54,4 @@ Despite the simplicity of the subject, the painting has great artistic quality a
 
 The two paintings of the asparagus are preserved today in the Musée d'Orsay in Paris. They are testimonies of an exceptional artistic and human relationship, based on mutual admiration and recognition. Manet's asparagus are more than just vegetables: they are symbols of beauty, delicacy and harmony.
 
-If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
-
-Buy it here: <https://www.amazon.es/dp/8418943483/>
-
-![](/images/1677159480.png)
+If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, soon [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
