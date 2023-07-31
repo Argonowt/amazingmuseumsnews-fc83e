@@ -34,7 +34,7 @@ Mariano de Cavia was a journalist and writer who collaborated with the newspaper
 
 <center>![](https\://s2.abcstatics.com/media/cultura/2018/07/13/cavia-kKGI--620x349\@abc.jpg)
 
-*Mariano de Cavia, journalist who spread the false news about the fire*
+*Mariano de Cavia, journalist who spread the false news about the fire* </center>
 
 The news was so detailed and plausible that many readers believed it and went to the museum to check the extent of the disaster. There they found that it was all a lie: the museum was intact, but also neglected and forgotten. The reaction of the people of Madrid to this hypothetical destruction was so astonished that the State was forced to undertake reforms and take better care of the museum. Cavia himself was in charge of denying the news the next day, explaining that it was a joke with pedagogical and cultural purposes.
 
@@ -42,6 +42,6 @@ The false news of the fire at the Prado Museum was a journalistic genius that ma
 
 If you are interested in learning more about the museum, we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including some of the greatest artists of universal painting.
 
-You can buy it at: https\://www\.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
+You can buy it at: <https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408>
 
 ![](/images/1659105482.png)
