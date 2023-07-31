@@ -22,12 +22,22 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+The story of the transfer of the Prado Museum's masterpieces during the Spanish Civil War is one of the most fascinating and dramatic in Spanish culture. In the midst of the conflict, the country's artistic heritage was threatened by the bombing of the Condor Legion, which sought to destroy the symbol of Spanish identity. Faced with this danger, an unprecedented operation was organized to save the paintings of Goya, Velázquez and other great masters.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](https://imagenes.elpais.com/resizer/rvIbW-FVHjjwbMVK3tVIrO9b7Tc=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/WTXHFDQS6VPBKO52LBKAEHJOUM.jpg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+These works, which were part of the cultural heritage of the Republic, were transferred from Madrid to Valencia, where the Prado Museum Delegation was created. From there, they continued their route to Barcelona, where the Museo Nacional de Arte de Cataluña was installed. When the Republican defeat became imminent, it was decided to evacuate the works to France, where they were given political asylum.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The trip was risky, as they had to cross the border under enemy fire. A total of 71 truckloads of masterpieces made it to France and, from there, were transported to Geneva, where they stayed at the Palais des Nations. They remained there until the end of the world war and it was possible to negotiate their return to Spain, where, fortunately, they were all returned.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+The transfer of the works from the Prado was a heroic feat that involved numerous people and institutions, both national and international. It was also an act of resistance and defense of culture against barbarism. Thanks to him, some of the jewels of universal art were preserved for posterity, which we can admire today in the most important museum in Spain.
+
+![](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/06/18/15293405674780.jpg)
+
+The director of the Prado during those years, Pablo Picasso, was the main responsible for the operation. In his pocket he kept a note with the conditions he demanded in exchange for the return of what was usurped: the end of the war, the reestablishment of the Republic and respect for the autonomy of Catalonia.
+
+If you are interested in learning more about the museum and its history, we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, among which are some of the greatest artists of universal painting.
+
+You can buy it at: <https://www.amazon.es/dp/841894336X/>
+
+![](/images/1657615099.png)
