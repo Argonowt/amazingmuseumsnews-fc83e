@@ -61,14 +61,12 @@ The first is the View of the Garden of the Villa Medici in Rome, painted by Vel�
 
 The second is the Bordeaux Milkmaid, painted by Goya in 1827. It is one of the Aragonese master's last oil paintings, which he made during his exile in France. In it, Goya portrays a young peasant girl carrying a jug of milk in her hand. The painter uses a very free and expressive style, which moves away from academic canons and seeks to convey the emotion and personality of the model. The result is a work full of strength and modernity, which inaugurates romanticism and influences the impressionists by its treatment of light, color and form.
 
-<center>![](https\://1.bp.blogspot.com/-1DxXeS4fiLk/T71ET1vKflI/AAAAAAAAAAlR4/TSP3efvhaYg/w1200-h630-p-k-no-nu/540px-Goya_MilkMaid.jpg)</center>
+<center>![](https\://1.bp.blogspot.com/-1DxXeS4fiLk/T71ET1vKflI/AAAAAAAAlR4/TSP3efvhaYg/w1200-h630-p-k-no-nu/540px-Goya_MilkMaid.jpg)</center>
 
 These two works are just two examples of how art is a dynamic and continuous process, drawing on influences from the past and paving the way for the future. That's why visiting the Prado Museum is a unique opportunity to enjoy the beauty and history of art, and to discover the connections between different periods and styles.
 
 If you want to learn more about other Impressionist works, [we recommend "The Prado Museum Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
 
-Buy it here: https\://www\.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
-
-
+Buy it here: <https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408>
 
 ![](/images/1659095223.png)
