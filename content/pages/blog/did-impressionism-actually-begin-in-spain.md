@@ -63,6 +63,10 @@ The second is the Bordeaux Milkmaid, painted by Goya in 1827. It is one of the A
 
 These two works are just two examples of how art is a dynamic and continuous process, drawing on influences from the past and paving the way for the future. That's why visiting the Prado Museum is a unique opportunity to enjoy the beauty and history of art, and to discover the connections between different periods and styles.
 
-If you want to learn more about other Impressionist works, [we recommend "Musée d'Orsay Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
+If you want to learn more about other Impressionist works, [we recommend "The Prado Museum Art Guide"](https://www.amazon.es/dp/8418943483/), our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée d'Orsay, [available on Amazon.](https://www.amazon.es/Museo-Orsay-Gu%C3%ADa-arte-esenciales/dp/8418943483/)
 
-Buy it here: 
+Buy it here: https\://www\.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
+
+
+
+![](/images/1659095223.png)
