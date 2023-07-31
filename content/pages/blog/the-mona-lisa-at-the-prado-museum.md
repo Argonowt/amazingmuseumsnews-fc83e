@@ -16,7 +16,7 @@ excerpt: >-
   the one in the Louvre.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/71790.webp
   altText: Post thumbnail image
   caption: ''
 media:
