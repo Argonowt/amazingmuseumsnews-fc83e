@@ -37,7 +37,7 @@ Among the main representatives of impressionism were Claude Monet, Pierre-August
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg)
 
-*Manet's Luncheon on the Grass.
+*Manet's Luncheon on the Grass.*
 
 Among the most outstanding technical characteristics of Impressionism, the following can be mentioned:
 
