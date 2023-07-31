@@ -7,8 +7,13 @@ title: The day the Prado Museum ran out of paintings
 colors: colors-d
 date: '2023-08-23'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The story of the transfer of the Prado Museum's masterpieces during the
+  Spanish Civil War is one of the most fascinating and dramatic in Spanish
+  culture. In the midst of the conflict, the country's artistic heritage was
+  threatened by the bombing of the Condor Legion, which sought to destroy the
+  symbol of Spanish identity. Faced with this danger, an unprecedented operation
+  was organized to save the paintings of Goya, Velázquez and other great
+  masters.Translated with www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
   url: /images/embalaje-obras-museo-prado-guerra-civil_69-09a4d4ba.webp
