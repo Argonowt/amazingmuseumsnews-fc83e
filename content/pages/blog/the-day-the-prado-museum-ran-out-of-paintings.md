@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/embalaje-obras-museo-prado-guerra-civil_69.webp
   altText: Post image
 bottomSections: []
 metaDescription: null
