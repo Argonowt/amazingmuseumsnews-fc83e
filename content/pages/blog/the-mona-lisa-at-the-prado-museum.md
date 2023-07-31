@@ -7,8 +7,13 @@ title: The Mona Lisa at the Prado Museum
 colors: colors-d
 date: '2023-08-30'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Did you know that there is another version of La Gioconda, very similar to the
+  original, which is preserved in the Prado Museum in Madrid? It is a copy made
+  by one of the students of Leonardo's workshop, probably at the same time the
+  master was painting his work. This copy, known as La Gioconda del Prado, is
+  the oldest and most faithful of those known, and offers a clearer and brighter
+  view of the portrait, as it has not suffered the darkening of the varnishes as
+  the one in the Louvre.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
