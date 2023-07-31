@@ -13,7 +13,7 @@ excerpt: >-
   tell you the story of how a fake fire saved Spain's most important museum.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/incendio-monasterio-el-escorial.webp
   altText: Post thumbnail image
   caption: ''
 media:
