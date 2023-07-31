@@ -27,7 +27,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-La Gioconda or Mona Lisa is one of the most famous and enigmatic paintings in the history of art. Its author, Leonardo da Vinci, was a Renaissance genius who excelled in many fields of knowledge and creation. His portrait of Lisa Gherardini, wife of Francesco del Giocondo, is a masterpiece of the *sfumato* technique, which consists of blurring the contours and creating a soft and mysterious atmosphere.
+![](/images/1659105482.png)La Gioconda or Mona Lisa is one of the most famous and enigmatic paintings in the history of art. Its author, Leonardo da Vinci, was a Renaissance genius who excelled in many fields of knowledge and creation. His portrait of Lisa Gherardini, wife of Francesco del Giocondo, is a masterpiece of the *sfumato* technique, which consists of blurring the contours and creating a soft and mysterious atmosphere.
 
 But did you know that there is another version of La Gioconda, very similar to the original, which is preserved in the Prado Museum in Madrid? It is a copy made by one of the students of Leonardo's workshop, probably at the same time the master was painting his work. This copy, known as La Gioconda del Prado, is the oldest and most faithful of those known, and offers a clearer and brighter view of the portrait, as it has not suffered the darkening of the varnishes as the one in the Louvre.
 
@@ -50,5 +50,3 @@ If you want to know more about La Gioconda del Prado, you can visit the Prado Mu
 And, if you are interested in learning more about the museum and its history, we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, including some of the greatest artists of universal painting.
 
 You can buy it at: <https://www.amazon.es/dp/841894336X/>
-
-![](/images/1657615099.png)
