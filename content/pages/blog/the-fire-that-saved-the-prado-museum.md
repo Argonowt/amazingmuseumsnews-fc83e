@@ -7,8 +7,10 @@ title: The fire that saved the Prado Museum
 colors: colors-d
 date: '2023-08-09'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Did you know that the Prado Museum almost burned down in 1891? No, it is not a
+  real tragedy, but an ingenious journalistic ploy that served to awaken the
+  interest and concern of the people of Madrid for their artistic heritage. We
+  tell you the story of how a fake fire saved Spain's most important museum.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
