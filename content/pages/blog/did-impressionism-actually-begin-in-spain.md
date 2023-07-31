@@ -14,7 +14,8 @@ excerpt: >-
   paintings in history.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNjFmN2VhNDRhNWI2My5qcGciLCJyZXNpemVDcm9wLDYwMCwzMDAsQ1JPUF9CQUxBTkNFIl19.ci8_GvjrGfjQfdwGCATkrdbCfIYQd0l7Lin1ad2Stm0.jpg
   altText: Post thumbnail image
   caption: ''
 media:
