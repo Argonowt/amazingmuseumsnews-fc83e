@@ -43,6 +43,8 @@ The director of the Prado during those years, Pablo Picasso, was the main respon
 
 If you are interested in learning more about the museum and its history, we recommend El Prado Guía de Arte, an essential art guide to discover and learn the essentials of the greatest works, artists and styles in the Prado Museum, among which are some of the greatest artists of universal painting.
 
-You can buy it at: <https://www.amazon.es/dp/841894336X/>
+You can buy it at: https\://www\.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943408
 
-![](/images/1657615099.png)
+
+
+![](/images/1659095223.png)
