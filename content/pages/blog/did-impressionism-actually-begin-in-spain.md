@@ -7,8 +7,11 @@ title: Did Impressionism actually begin in Spain?
 colors: colors-d
 date: '2023-08-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Although many consider that impressionism was a radical break with tradition,
+  the truth is that there were antecedents and precursors that paved the way for
+  this movement. In this article, we are going to analyze two masterpieces
+  housed in the Prado Museum that are considered to be the first impressionist
+  paintings in history.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
