@@ -52,13 +52,11 @@ But the Mona Lisa also hides many secrets and mysteries, which have fueled the i
 
 These and other questions have been the subject of numerous investigations and theories, some more plausible than others. What is certain is that Leonardo da Vinci never quite finished the work, and that he continued to work on it until his death in 1519. It is believed that he painted it between 1503 and 1506, and that it depicts Lisa Gherardini, the wife of a wealthy Florentine silk merchant named Francesco del Giocondo. Hence it is also known as La Gioconda.
 
-
 The technique Leonardo used to paint her was very innovative for the time, and consisted of applying very thin and transparent layers of oil on poplar, creating an effect of depth and luminosity. También usó el sfumato, un método para difuminar los contornos y crear una atmósfera nebulosa. Estos recursos le permitieron crear una obra maestra de la perspectiva y el realismo, que sigue fascinando a millones de personas.
-
 
 If you are one of them too, and would like to send a letter to the Mona Lisa, you can do so by visiting the Louvre or writing to the museum's postal address:
 
-<div style="text-align: center"></div>
+<div style="text-align: center">
 
 *Musée du Louvre*
 
@@ -72,3 +70,8 @@ If you are one of them too, and would like to send a letter to the Mona Lisa, yo
 
 </div>
 
+If you would like to find out more about the Louvre Museum and, above all, information about the greatest works of art housed in the Louvre Museum in Paris, we recommend ["The Louvre Art Guide".](https://www.amazon.es/Louvre-Art-Guide-essential-masterpieces/dp/8418943459/)
+
+[**Already available on Amazon by clicking here. **](https://www.amazon.es/Louvre-Art-Guide-essential-masterpieces/dp/8418943459/)
+
+![](/images/1689000208-d3aa3593.png)
