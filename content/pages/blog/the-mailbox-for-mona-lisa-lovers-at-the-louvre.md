@@ -22,7 +22,7 @@ excerpt: >-
   inclined. Don't miss it!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/1370637_buzon1.jpg
   altText: Post thumbnail image
   caption: ''
 media:
