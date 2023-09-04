@@ -32,6 +32,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-nqo4ss20y.json
 ---
 Did you know that the Mona Lisa has her own mailbox in the Louvre for all the love letters she receives? That's right, Leonardo da Vinci's famous painting has captivated many admirers over the centuries, who have left her offerings of flowers, poems and, yes, love notes. Some have even gone to unusual extremes, such as the artist Luc Maspero, who allegedly committed suicide in 1852 by jumping from a hotel balcony because "For years I have struggled desperately with his smile. I would rather die." Who knew that artistic appreciation could be so obscure?
 
