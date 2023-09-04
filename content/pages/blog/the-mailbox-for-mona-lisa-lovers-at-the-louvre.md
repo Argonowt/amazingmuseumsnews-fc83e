@@ -56,7 +56,7 @@ La técnica que empleó Leonardo para pintarla fue muy innovadora para la época
 
 Si tú también eres uno de ellos, y quieres enviarle una carta a la Mona Lisa, puedes hacerlo visitando el Louvre o escribiendo a la dirección postal del museo:
 
-<div style="text-align: center"></div>
+<div style="text-align: center">
 
 *Musée du Louvre*
 
@@ -66,12 +66,6 @@ Si tú también eres uno de ellos, y quieres enviarle una carta a la Mona Lisa, 
 
 *75058 Paris Cedex 01*
 
-*Francia*</div>
+*France*
 
-O quizás prefieras guardar tu mensaje en tu corazón, y contemplarla en silencio la próxima vez que tengas la oportunidad. Sea como sea, recuerda que la Mona Lisa siempre te estará mirando con su sonrisa inolvidable.
-
-Si deseas conocer otros datos sobre el Museo del Louvre y, sobre todo, información sobre las más grandes obras del arte que alberga el Museo del Louvre de París, te recomendamos ["El Louvre Guía de Arte"](https://www.amazon.es/dp/8418943424/)
-
-[**Ya disponible en Amazon haciendo click aquí. **](https://www.amazon.es/dp/8418943424/)
-
-Si prefieres comprarlo en librería, [**encuentra tu librería más cercana haciendo click aquí.**](https://www.todostuslibros.com/libros/museo-del-louvre-guia-de-arte_978-84-18943-42-3)
+</div>
