@@ -50,13 +50,15 @@ It is not known exactly when this tradition began, but it is believed to date ba
 
 But the Mona Lisa also hides many secrets and mysteries, which have fueled the imagination and curiosity of admirers. For example, who was the woman who posed for Leonardo? What did she want to express with her smile? What hidden symbols are in the painting? Is it a self-portrait of the painter?
 
-Estas y otras preguntas han sido objeto de numerosas investigaciones y teorías, algunas más verosímiles que otras. Lo cierto es que Leonardo da Vinci nunca terminó del todo la obra, y que siguió trabajando en ella hasta su muerte en 1519. Se cree que la pintó entre 1503 y 1506, y que representa a Lisa Gherardini, la esposa de un rico comerciante de seda florentino llamado Francesco del Giocondo. De ahí que también se le conozca como La Gioconda.
+These and other questions have been the subject of numerous investigations and theories, some more plausible than others. What is certain is that Leonardo da Vinci never quite finished the work, and that he continued to work on it until his death in 1519. It is believed that he painted it between 1503 and 1506, and that it depicts Lisa Gherardini, the wife of a wealthy Florentine silk merchant named Francesco del Giocondo. Hence it is also known as La Gioconda.
 
-La técnica que empleó Leonardo para pintarla fue muy innovadora para la época, y consistía en aplicar capas muy finas y transparentes de óleo sobre álamo, creando un efecto de profundidad y luminosidad. También usó el sfumato, un método para difuminar los contornos y crear una atmósfera nebulosa. Estos recursos le permitieron crear una obra maestra de la perspectiva y el realismo, que sigue fascinando a millones de personas.
 
-Si tú también eres uno de ellos, y quieres enviarle una carta a la Mona Lisa, puedes hacerlo visitando el Louvre o escribiendo a la dirección postal del museo:
+The technique Leonardo used to paint her was very innovative for the time, and consisted of applying very thin and transparent layers of oil on poplar, creating an effect of depth and luminosity. También usó el sfumato, un método para difuminar los contornos y crear una atmósfera nebulosa. Estos recursos le permitieron crear una obra maestra de la perspectiva y el realismo, que sigue fascinando a millones de personas.
 
-<div style="text-align: center">
+
+If you are one of them too, and would like to send a letter to the Mona Lisa, you can do so by visiting the Louvre or writing to the museum's postal address:
+
+<div style="text-align: center"></div>
 
 *Musée du Louvre*
 
@@ -69,3 +71,4 @@ Si tú también eres uno de ellos, y quieres enviarle una carta a la Mona Lisa, 
 *France*
 
 </div>
+
