@@ -7,8 +7,19 @@ title: The mailbox for Mona Lisa lovers at the Louvre
 colors: colors-d
 date: '2023-09-06'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Did you know that the Mona Lisa has her own mailbox in the Louvre for all the
+  love letters she receives? That's right, Leonardo da Vinci's famous painting
+  has captivated many admirers over the centuries, who have left her offerings
+  of flowers, poems and, yes, love notes. Some have even gone to unusual
+  extremes, such as the artist Luc Maspero, who allegedly committed suicide in
+  1852 by jumping from a hotel balcony because "For years I have struggled
+  desperately with his smile. I would rather die." Who knew that artistic
+  appreciation could be so obscure?In this article we will tell you more about
+  the fascination that the Mona Lisa has generated, the reasons why she has
+  become a cultural icon and some of the secrets hidden in her enigmatic
+  expression. We'll also show you some of the most curious love letters the lady
+  of the Louvre has received and how you can send her yours if you're so
+  inclined. Don't miss it!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
