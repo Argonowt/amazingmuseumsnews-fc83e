@@ -12,8 +12,7 @@ excerpt: >-
   artists. Yes, you read that right. Many artists have lent their talent and
   creativity to create unique and original labels that adorn the bottles of some
   of the best wines in the world. In this article we tell you everything you
-  need to know about this fascinating world of art and wine.Translated with
-  www.DeepL.com/Translator (free version)
+  need to know about this fascinating world of art and wine.
 featuredImage:
   type: ImageBlock
   url: /images/418395b73e6057d060fb992645546dcd.jpg
