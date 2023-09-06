@@ -7,8 +7,15 @@ title: What is Fauvism and where can you see Fauvist works?
 colors: colors-d
 date: '2023-09-20'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Fauvism was an avant-garde pictorial movement that emerged in France in the
+  early twentieth century, between 1905 and 1907. Its main characteristic was
+  the use of pure and arbitrary color, without concern for the naturalistic
+  representation of reality. Fauvist artists sought to express their emotions
+  and instincts through plastic language, with loose and spontaneous strokes,
+  without perspective or modeling. The term Fauvism comes from the French word
+  fauve, which means beast, and was coined by the critic Louis Vauxcelles when
+  he saw the works of this group at the 1905 Salon d'Automne.Translated with
+  www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
