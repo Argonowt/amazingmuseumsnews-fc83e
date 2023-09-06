@@ -7,8 +7,13 @@ title: The greatest artists in history who made... wine labels?
 colors: colors-d
 date: '2023-09-27'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Do you like art and wine? If so, you might be interested to know that there is
+  a way to combine these two passions: collecting wine labels designed by famous
+  artists. Yes, you read that right. Many artists have lent their talent and
+  creativity to create unique and original labels that adorn the bottles of some
+  of the best wines in the world. In this article we tell you everything you
+  need to know about this fascinating world of art and wine.Translated with
+  www.DeepL.com/Translator (free version)
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
