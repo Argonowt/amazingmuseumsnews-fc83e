@@ -7,8 +7,12 @@ title: Did Vermeer use a camera to paint his masterpieces?
 colors: colors-d
 date: '2023-09-13'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Did Vermeer use a camera obscura to paint his masterpieces? This is the
+  question that many art historians have asked themselves when observing the
+  precision and realism of the Dutch master's paintings, especially those
+  depicting domestic scenes with characters in their daily activities. In this
+  article we will analyze two of his most famous works: The Lacemaker and The
+  Astronomer, which are currently in the Louvre Museum in Paris.
 featuredImage:
   type: ImageBlock
   url: /images/La-Camara-Oscura.webp
