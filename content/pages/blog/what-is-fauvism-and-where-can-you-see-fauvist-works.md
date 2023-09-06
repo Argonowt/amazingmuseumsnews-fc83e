@@ -47,6 +47,10 @@ If you want to learn more about other Impressionist works, we recommend "Musée 
 Buy it here: <https://www.amazon.es/dp/8418943483/>
 
 Sources:
-Fauvism: what is it, characteristics, artists and works - Cool Culture <https://www.culturagenial.com/es/fauvismo/>
-Fauvism - What was it, characteristics, background, artists and more <https://enciclopediadehistoria.com/fauvismo/>
-Musée d'Orsay: Painting <https://www.musee-orsay.fr/es/colecciones/obras-comentadas/pintura.html>
+
+*   Fauvism: what is it, characteristics, artists and works - Cool Culture <https://www.culturagenial.com/es/fauvismo/>
+
+*   Fauvism - What was it, characteristics, background, artists and more <https://enciclopediadehistoria.com/fauvismo/>
+
+*   Musée d'Orsay: Painting <https://www.musee-orsay.fr/es/colecciones/obras-comentadas/pintura.html>
+
