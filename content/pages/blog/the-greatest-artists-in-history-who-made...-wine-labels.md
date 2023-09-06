@@ -34,7 +34,7 @@ Since then, Baron Philippe de Rothschild continued the tradition of commissionin
 
 ![](https://onlinelicor.es/wp-content/uploads/Pablo-Picasso-Record-Guinness-profesional_TINIMA20111028_1033_19.jpg)
 
-*Pablo Picasso was one of the illustrious artists whose work has been used on wine labels.
+*Pablo Picasso was one of the illustrious artists whose work has been used on wine labels.*
 
 But Château Mouton Rothschild is not alone in using art to dress its bottles. Other wine producers have also collaborated with renowned artists to create original and attractive labels. For example, Château Lafite Rothschild, another early Bordeaux crus, has collaborated with artists such as Henry Moore, Balthus and Gu Gan. Château Pichon Longueville Comtesse de Lalande has commissioned its labels from artists such as Arman, Corneille or Zao Wou-Ki. And Château Beychevelle has relied on artists such as Antoni Tàpies, Valerio Adami or Nalini Malani.
 
@@ -42,6 +42,6 @@ These artistic wine labels are not only a way of expressing the personality and 
 
 ![](https://images.ctfassets.net/iv9w9q8xwqpv/201807romitorio-crop.jpg/84a2ec6ec0383c90df068b22d88b43fd/Romitorio-Crop.jpg?fm=jpg&w=1024)
 
-*Some of the hand labels of great artists in the history of art.
+*Some of the hand labels of great artists in the history of art.*
 
 If you are curious and want to know more about this subject, we recommend that you visit the website of the Mouton Rothschild Wine Museum (<https://www.musee-mouton.com/>), where you can see all the labels created by artists from 1924 to the present day. You can also consult the book "Mouton Rothschild: The Paintings for the Labels" (<https://www.amazon.com/Mouton-Rothschild-Paintings-Labels/dp/208030121X>), which collects the images and stories behind each of them. And if you have the opportunity, don't hesitate to try some of these exceptional wines that combine art and flavor in every sip.
