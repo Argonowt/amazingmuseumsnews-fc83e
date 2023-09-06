@@ -23,7 +23,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/487488@2x-e852c3bb.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
