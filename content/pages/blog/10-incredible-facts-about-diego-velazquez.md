@@ -36,7 +36,7 @@ At the age of 11, Velázquez entered as an apprentice in the workshop of the pai
 
 ![](https://2.bp.blogspot.com/-sEUe9MRSs_k/Vq49HOj40tI/AAAAAAAAC4k/KpelsQaCQgo/w1200-h630-p-k-no-nu/Retrato%2Bde%2BFrancisco%2BPacheco%2Bpor%2BDiego%2BVel%25C3%25A1zquez%2B%2528Museo%2Bdel%2BPrado%2529.jpg)
 
-*Portrait of Francisco Pacheco, master of Velázquez.
+*Portrait of Francisco Pacheco, master of Velázquez.*
 
 **3. He had several lovers and an illegitimate son**
 
@@ -52,7 +52,7 @@ Velázquez made two trips to Italy, in 1629 and 1649, which were fundamental for
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ae/Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg)
 
-*The Forge of Vulcan, strongly inspired by Velázquez's travels to Italy.
+*The Forge of Vulcan, strongly inspired by Velázquez's travels to Italy.*
 
 **6. He painted marginalized people with respect and dignity**
 
@@ -62,9 +62,8 @@ In addition to official portraits, Velázquez was also interested in painting th
 
 Velázquez had a close relationship with King Philip IV, who appreciated and protected him. In 1658, the king awarded him the habit of the Order of Santiago, one of the most prestigious in Spain. This is a distinction that was awarded to knights who had demonstrated their valor and nobility. Velázquez added the Order of Santiago to his self-portrait in the painting "Las Meninas", as a symbol of his honor and status.
 
-
 ![](https://img2.rtve.es/i/?w=1600&i=1630997276806.jpg)
-
+*Velázquez with the Cross of Santiago in the painting of Las Meninas.*
 
 **8. He died of a fever after painting the king**
 
@@ -79,7 +78,5 @@ In addition to being a painter, Velázquez was a royal official who was in charg
 Velázquez's work has been admired and studied by many later artists, who have seen him as a master of realism, color, light, and composition. Among the painters who have been inspired by Velázquez are Goya, Manet, Picasso, Dalí, and Bacon. Some have made versions or reinterpretations of his most famous paintings, such as Las Meninas or Las hilanderas. Others have incorporated elements or features of his style into their own works.
 
 We hope you enjoyed this article and that it has helped you to get to know Diego Velázquez, one of the most brilliant and influential painters in the history of art. If you would like to know more about Velázquez and his work, technical characteristics, information about Renaissance artists, and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend The Prado Art Guide, which is now available on Amazon.
-
-
 
 ![](/images/1.png)
