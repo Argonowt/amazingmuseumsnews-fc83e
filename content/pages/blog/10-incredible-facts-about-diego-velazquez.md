@@ -58,17 +58,12 @@ Velázquez had a close relationship with King Philip IV, who appreciated and pro
 
 Velázquez died in Madrid on August 6, 1660, at the age of 61, from a fever he contracted after painting the king at the celebration of the Treaty of the Pyrenees. This treaty ended the war between Spain and France and meant the marriage of the daughter of Philip IV, María Teresa, to King Louis XIV.
 
-## 9. He was sued and convicted of embezzlement after his death
+** 9. He was sued and convicted of embezzlement after his death **
 
 In addition to being a painter, Velázquez was a royal official who was in charge of managing the works of art that were purchased or commissioned for the palace. However, it seems that he did not keep good records and that he spent more than he should have. After his death, he was sued for embezzlement and sentenced to pay a fine of 16,000 ducats. His son-in-law Juan Bautista Martínez del Mazo, who was also a painter and had inherited his position, had to pay the debt.
 
-## 10. He was a reference for many later artists
+** 10. He was a reference for many later artists **
 
 Velázquez's work has been admired and studied by many later artists, who have seen him as a master of realism, color, light, and composition. Among the painters who have been inspired by Velázquez are Goya, Manet, Picasso, Dalí, and Bacon. Some have made versions or reinterpretations of his most famous paintings, such as Las Meninas or Las hilanderas. Others have incorporated elements or features of his style into their own works.
 
 We hope you enjoyed this article and that it has helped you to get to know Diego Velázquez, one of the most brilliant and influential painters in the history of art. If you would like to know more about Velázquez and his work, technical characteristics, information about Renaissance artists, and, above all, information about the greatest works of art housed in the Louvre Museum in Paris, we recommend "El Louvre Guía de Arte" (The Louvre Art Guide), which is now available on Amazon.
-
-
-
-
-
