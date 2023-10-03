@@ -79,4 +79,4 @@ Velázquez's work has been admired and studied by many later artists, who have s
 
 We hope you enjoyed this article and that it has helped you to get to know Diego Velázquez, one of the most brilliant and influential painters in the history of art. If you would like to know more about Velázquez and his work, technical characteristics, information about Renaissance artists, and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend The Prado Art Guide, which is now available on Amazon.
 
-![](/images/1.png)![](/images/1659095223.png)
+![](/images/1659095223.png)
