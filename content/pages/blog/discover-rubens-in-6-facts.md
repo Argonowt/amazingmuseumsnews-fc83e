@@ -51,3 +51,15 @@ Rubens married in 1609 Isabella Brant, daughter of a prominent lawyer from Antwe
 ## 6. He died at the age of 62 from heart failure.
 
 Rubens died on 30 May 1640 at his home in Antwerp, surrounded by his family. His health had deteriorated by gout, a disease that prevented him from painting normally. His body was buried in the church of Santiago, where he had designed his own chapel. Her tomb is adorned with a painting of her that depicts the Virgin and the Child with the saints George, Michael and Catalina.
+
+If you want to know more about Rubens' paintings, technical characteristics, facts about Renaissance artists and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend ["The Prado Art Guide" now available on Amazon by clicking here](https://www.amazon.es/dp/8418943424/).
+
+
+
+SOURCES:
+
+* [Peter Paul Rubens - 615 works of art - painting - WikiArt.org](https://www.wikiart.org/es/peter-paul-rubens)
+* [Peter Paul Rubens - Wikipedia, the free encyclopedia](https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens)
+* [Peter Paul Rubens: the life and work of the influential Baroque painter](https://mymodernmet.com/es/pedro-pablo-rubens-pintura/)
+* [The Judgement of Paris - Collection - Museo Nacional del Prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-juicio-de-paris/918bc2de-00a9-480d-87ba-96ac25f22bf4)
+* [The 4 most important WORKS of RUBENS - with IMAGES!!! - unPROFESOR](https://www.unprofesor.com/ciencias-sociales/rubens-obras-importantes-4781.html)
