@@ -21,7 +21,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Rubens_Vía_Láctea-b81cadfb.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
