@@ -78,6 +78,4 @@ These differences show us how the process of restoration and transfer altered th
 
 The Black Paintings are unique works in the history of art, showing Goya's personal and dramatic vision of the reality that surrounded him. Its transfer to the canvas meant a radical change in its form of presentation and preservation, which has affected its perception and valuation by the public and critics.
 
-We hope this article has helped you to get to know black paintings and Goya, one of the most brilliant and influential painters in the history of art. If you want to know more information about Goya and his work, technical features, data about Renaissance artists and, above all, information about the greatest works of art that houses the Prado Museum in Madrid, we recommend ["El Prado Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/) If you prefer to buy it at a bookstore, [**find your nearest bookstore by clicking here.**](https://www.todostuslibros.com/books/museo-del-louvre-guia-de-arte_978-84-18943-42-3)
-
-![](/images/1657295044.png)
+We hope this article has helped you to get to know black paintings and Goya, one of the most brilliant and influential painters in the history of art. If you want to know more information about Goya and his work, technical features, data about Renaissance artists and, above all, information about the greatest works of art that houses the Prado Museum in Madrid, we recommend ["El Prado Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/).
