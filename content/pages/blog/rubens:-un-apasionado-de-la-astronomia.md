@@ -35,7 +35,7 @@ In this article, we will look at two examples of how Rubens embodied in his canv
 
 This work, which is in the Museo del Prado in Madrid, represents the myth of the origin of the Milky Way according to Roman mythology. According to Higginium's account in his Poeticon Astronomicon, the god Jupiter placed one of his bastard sons, Hercules or Mercury, in the breast of his wife Juno while she slept, so that she could drink from his milk and become immortal. When Juno woke up and realized the deception, he threw the child away from her and her milk poured out into the sky, forming the Milky Way.
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/20/Rubens_V%C3%ADa_L%C%A1ctea.jpg)
+![](/images/Rubens_V%C3%ADa_L%C3%A1ctea-b81cadfb.jpg)
 
 Rubens recreates this moment with great mastery and beauty, but also introduces in the starry sky some celestial bodies that were observed by Galileo and that until then had passed unnoticed. Thus, we can see Saturn with its rings and moons, Jupiter with its moons or Venus with its phases. In this way, Rubens pays tribute to the Italian astronomer and his revolutionary telescope, which allowed him to discover these celestial phenomena.
 
@@ -52,4 +52,3 @@ These are just two examples of how Rubens reflected in his work his relationship
 If you want to know more information about Rubens and his work, technical features, data about Renaissance artists and, above all, information about the greatest works of art that houses the Prado Museum in Madrid, we recommend ["The Prado Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/)
 
 ![](/images/1659105482.png)
-
