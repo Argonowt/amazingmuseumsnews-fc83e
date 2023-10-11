@@ -7,8 +7,12 @@ title: Discover Rubens in 6 facts
 colors: colors-d
 date: '2023-10-03'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Pedro Pablo Rubens was a flamenco painter of the 17th century, considered one
+  of the highest exponents of the Baroque. His work covers a wide variety of
+  themes, from religious to mythological, through portraits, landscapes and
+  hunting scenes. His style is characterized by dynamism, color and sensuality,
+  with a clear influence of Italian Renaissance painting, especially of Tiziano.
+  Here are six interesting facts about his life and work
 featuredImage:
   type: ImageBlock
   url: /images/Peter_Paul_Rubens_apertura.jpg
