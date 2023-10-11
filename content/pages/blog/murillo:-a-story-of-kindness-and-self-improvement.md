@@ -7,8 +7,10 @@ title: 'Murillo: a story of kindness and self-improvement'
 colors: colors-d
 date: '2023-10-19'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Murillo was one of the most outstanding painters of the 17th century in Spain.
+  His work spans from religious topics to everyday scenes of Seville life,
+  through portraits and landscapes. Its style is characterized by the use of
+  vivid colors, the delicacy of the shapes and the expressiveness of the faces.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
