@@ -56,10 +56,13 @@ If you want to know more about Rubens' paintings, technical characteristics, fac
 
 
 
+![](/images/1659095223.png)
+
 SOURCES:
 
-* [Peter Paul Rubens - 615 works of art - painting - WikiArt.org](https://www.wikiart.org/es/peter-paul-rubens)
-* [Peter Paul Rubens - Wikipedia, the free encyclopedia](https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens)
-* [Peter Paul Rubens: the life and work of the influential Baroque painter](https://mymodernmet.com/es/pedro-pablo-rubens-pintura/)
-* [The Judgement of Paris - Collection - Museo Nacional del Prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-juicio-de-paris/918bc2de-00a9-480d-87ba-96ac25f22bf4)
-* [The 4 most important WORKS of RUBENS - with IMAGES!!! - unPROFESOR](https://www.unprofesor.com/ciencias-sociales/rubens-obras-importantes-4781.html)
+*   [Peter Paul Rubens - 615 works of art - painting - WikiArt.org](https://www.wikiart.org/es/peter-paul-rubens)
+*   [Peter Paul Rubens - Wikipedia, the free encyclopedia](https://es.wikipedia.org/wiki/Pedro_Pablo_Rubens)
+*   [Peter Paul Rubens: the life and work of the influential Baroque painter](https://mymodernmet.com/es/pedro-pablo-rubens-pintura/)
+*   [The Judgement of Paris - Collection - Museo Nacional del Prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-juicio-de-paris/918bc2de-00a9-480d-87ba-96ac25f22bf4)
+*   [The 4 most important WORKS of RUBENS - with IMAGES!!! - unPROFESOR](https://www.unprofesor.com/ciencias-sociales/rubens-obras-importantes-4781.html)
+
