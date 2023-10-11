@@ -32,7 +32,7 @@ Goya painted these works directly on the walls of his country house, called La Q
 
 The Black Paintings were not conceived as a unitary set, but as a personal and intimate decoration for the two floors of the house. Goya left no document on the meaning or title of these works, which have been the subject of multiple interpretations. Some of the most well-known are Saturn eating his son, Duelo a garrotazos, El aquelarre or El perro semihundido.
 
-![](https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzII1NiJ9.eyJpbSI6WyJcL2FydHdvcmtCL2ltYWdlRmlsZVwvZ295YS1lbC1hcXVlbGFycmUtbXVzZW8tbGEtemFyby1nYWxkaWFuby1tYWRyaWQtMTc5Ny05OC5qcGciLcJyZXNempVDcm9WLDYwMCwMzDAQ1JPUF9QQBTkN/FI19.lQXJHxw3VX-9EIY2ws0C2Ca5E_GX7saF4p_U.jpg)
+<center>![](https\://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZ295YS1lbC1hcXVlbGFycmUtbXVzZW8tbGEtemFyby1nYWxkaWFuby1tYWRyaWQtMTc5Ny05OC5qcGciLCJyZXNpemVDcm9wLDYwMCwzMDAsQ1JPUF9CQUxBTkN/FIl19.QkXJHx3wqVX-9XEhIYny2ws0C2CaE5E_GX7saTp4f_U.jpg)</center>
 
 *Detail of El aquelarre, by Francisco de Goya.*
 
