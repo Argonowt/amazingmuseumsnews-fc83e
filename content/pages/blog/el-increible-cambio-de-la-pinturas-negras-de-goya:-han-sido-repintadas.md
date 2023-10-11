@@ -13,7 +13,7 @@ excerpt: >-
   strappo and how it has affected the work that we know today.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/1366_521.jpg
   altText: Post thumbnail image
   caption: ''
 media:
