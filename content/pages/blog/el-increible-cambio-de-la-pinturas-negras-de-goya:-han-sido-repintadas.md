@@ -7,8 +7,10 @@ title: 'The incredible change in Goya''s Black Paintings: they have been repaint
 colors: colors-d
 date: '2023-10-11'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Did you know that the famous Black Paintings of Goya were not painted on
+  canvas, but on the walls of a country house? In this article we tell you how
+  the work of Goya de la Quinta del Sordo went from the wall to the canvas, the
+  strappo and how it has affected the work that we know today.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
