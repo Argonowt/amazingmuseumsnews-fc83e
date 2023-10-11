@@ -56,7 +56,7 @@ Thanks to photographs taken by the Frenchman Jean Laurent in 1873, before the st
 
 Laurent faced a difficult task, as he had to move all the equipment needed to take photographs with the wet colodium system, which required pre- and post-exposure chemical preparation. In addition, he had to illuminate the rooms with a new electrical system, as the natural light was insufficient to capture the details of the paintings.
 
-![](https://cdn.zendalibros.com/wp-content/uploads/negative-chicks.jpg)
+![](https://cdn.zendalibros.com/wp-content/uploads/negativo-garrotazos.jpg)
 
 *The famous painting 'Duelo a Garrotazos' in its original version did not show men buried.*
 
