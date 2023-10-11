@@ -13,7 +13,7 @@ excerpt: >-
   vivid colors, the delicacy of the shapes and the expressiveness of the faces.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/autoretratoMurillo-499x281.jpg
   altText: Post thumbnail image
   caption: ''
 media:
