@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: 10 incredible facts about Diego Velázquez
 colors: colors-d
-date: '2023-10-03'
+date: '2023-10-02'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
