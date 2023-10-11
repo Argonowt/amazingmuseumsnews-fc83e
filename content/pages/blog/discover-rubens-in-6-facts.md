@@ -22,12 +22,47 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Pedro Pablo Rubens was a flamenco painter of the 17th century, considered one of the highest exponents of the Baroque. His work covers a wide variety of themes, from religious to mythological, through portraits, landscapes and hunting scenes. His style is characterized by dynamism, color and sensuality, with a clear influence of Italian Renaissance painting, especially of Tiziano. Here are six interesting facts about his life and work:
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+## 1.He was born in Germany, but he studied and worked mainly in Antwerp.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Rubens was born in 1577 in Siegen, a German town where his father had fled for religious reasons. However, after his father's death in 1587, his mother returned with her children to Antwerp, where Rubens received a humanist education and began to art. There he was an apprentice of several local teachers, including Tobias Verhaecht, Adam van Noort and Otto van Veen. In 1600 he travelled to Italy, where he stayed eight years in the service of the Duke of Mantua and studied the works of the great Italian masters. On his return to Antwerp in 1608, he was appointed chamber painter of the Archdukes Albert and Elizabeth Clara Eugenia, governors of the Spanish Netherlands. Since then, his reputation and clientele have spread throughout Europe.
+
+
+He was a successful diplomat and businessman.
+
+
+In addition to being a painter, Rubens was a cult man and polyglot, who spoke at least six languages: Flemish, French, Italian, Latin, Spanish and English. This allowed him to carry out diplomatic missions for the Archdukes and for King Philip IV of Spain, with whom heined a close relationship. Among his diplomatic achievements is the signing of the Treaty of Antwerp in 1630, which ended the war between Spain and England. On the other hand, Rubens was a skilled art dealer, who knew how to take advantage of the international market and sell his works at high prices. He was also a collector and possessed a large number of paintings, sculptures, books and antiques.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/81/Pieter_Paul_Rubens_-_Portrait_of_King_Philip_IV_%28Hermitage%29.jpg)
+
+
+## 3. He led a prolific workshop with numerous collaborators.
+
+
+The enormous demand for his works forced him to create a large workshop in which several disciples and assistants worked. Among them are Jacob Jordaens, Gaspar de Crayer and Anton van Dyck, who became their main collaborator and then their rival. The method of work consisted of Rubens making the small-scale sketches or models, which were then expanded and executed by his assistants under his supervision. Finally, he intervened to give the final retouches and to sign the work. Thus he was able to produce about 1500 paintings, in addition to drawings, engravings, tapestries and designs for other media.
+
+
+##4. He was the creator of "Rubenism", a style that exalts female beauty.
+
+
+One of the most recognizable features of Rubens' painting is the representation of women with voluptuous, fleshly and sensual bodies, which contrast with the classical canons of ideal beauty. These women are known as "rubenesques" or "rubenians" and are the symbol of "rubenism", a term used to describe the taste for the lush and opulent in art. Some examples of this style are the Three Graces (1635), The Trial of Paris (1639) or The Kidnapping of the Daughters of Leucipe. (1618).
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Three_Graces%2C_by_Peter_Paul_Rubens%3C_from_Prado_in_Google_Earth.jpg/1200px-The_Two_Grases%2
+
+
+## 5. He married twice to women much younger than himself.
+
+
+Rubens married in 1609 Isabella Brant, daughter of a prominent lawyer from Antwerp. She had three children: Clara Serena, Alberto and Isabel Elena. Isabella died in 1626 from the plague. Four years later, Rubens married Helena Fourment, the niece of his first wife and 37 years younger than him. She had five other children: Clara Juana, Francisco, Isabel Albertina, Pedro Pablo and Constancia Albertina. Helena was the muse and model of many of her works, such as The Straw Hat (1625), The Garden of Love (1633) or The Three Graces. (1635).
+
+
+##6. He died at the age of 62 from heart failure.
+
+
+Rubens died on 30 May 1640 at his home in Antwerp, surrounded by his family. His health had deteriorated by gout, a disease that prevented him from painting normally. His body was buried in the church of Santiago, where he had designed his own chapel. Her tomb is adorned with a painting of her that depicts the Virgin and the Child with the saints George, Michael and Catalina.
+
