@@ -22,9 +22,9 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-**Diego Velázquez is one of the most important painters in the history of Spanish and world art. His work reflects the reality of his time with incomparable mastery and originality. Velázquez was the court painter of Philip IV, but he was also an artist who knew how to capture the beauty and dignity of the most humble people. His influence extends to our days and many artists have admired and taken him as a reference.**
+Diego Velázquez is one of the most important painters in the history of Spanish and world art. His work reflects the reality of his time with incomparable mastery and originality. Velázquez was the court painter of Philip IV, but he was also an artist who knew how to capture the beauty and dignity of the most humble people. His influence extends to our days and many artists have admired and taken him as a reference.
 
-**In this article, we present some curiosities about the life and work of Diego Velázquez that you may not have known. From his early start in the art world to his trips to Italy, discover some of the most interesting details about one of the great geniuses of painting.**
+In this article, we present some curiosities about the life and work of Diego Velázquez that you may not have known. From his early start in the art world to his trips to Italy, discover some of the most interesting details about one of the great geniuses of painting.
 
 **1. He was baptized the same day he was born**
 
