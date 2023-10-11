@@ -58,7 +58,7 @@ Laurent faced a difficult task, as he had to move all the equipment needed to ta
 
 ![](https://cdn.zendalibros.com/wp-content/uploads/negative-chicks.jpg)
 
-*The famous painting Duelo a Garrotazos in its original version did not show men buried.*
+*The famous painting 'Duelo a Garrotazos' in its original version did not show men buried.*
 
 Thanks to these photographs, we can appreciate the differences between the original and current versions of the Black Paintings, which have been preserved in the Prado Museum since 1881. Some of these differences are:
 
@@ -74,7 +74,7 @@ These differences show us how the process of restoration and transfer altered th
 
 ![](https://cdn.zendalibros.com/wp-content/uploads/dog-semihundido-j-laurent.jpg)
 
-*The famous Semihundido dog originally observed two birds flying over it.*
+*The famous Perro Semihundido originally had two birds flying.*
 
 The Black Paintings are unique works in the history of art, showing Goya's personal and dramatic vision of the reality that surrounded him. Its transfer to the canvas meant a radical change in its form of presentation and preservation, which has affected its perception and valuation by the public and critics.
 
