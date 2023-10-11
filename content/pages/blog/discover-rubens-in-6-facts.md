@@ -22,7 +22,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Pedro Pablo Rubens was a flamenco painter of the 17th century, considered one of the highest exponents of the Baroque. His work covers a wide variety of themes, from religious to mythological, through portraits, landscapes and hunting scenes. His style is characterized by dynamism, color and sensuality, with a clear influence of Italian Renaissance painting, especially of Tiziano. Here are six interesting facts about his life and work:
+Peter Paul Rubens was a flamenco painter of the 17th century, considered one of the highest exponents of the Baroque. His work covers a wide variety of themes, from religious to mythological, through portraits, landscapes and hunting scenes. His style is characterized by dynamism, color and sensuality, with a clear influence of Italian Renaissance painting, especially of Tiziano. Here are six interesting facts about his life and work:
 
 ## 1.He was born in Germany, but he studied and worked mainly in Antwerp.
 
@@ -53,8 +53,6 @@ Rubens married in 1609 Isabella Brant, daughter of a prominent lawyer from Antwe
 Rubens died on 30 May 1640 at his home in Antwerp, surrounded by his family. His health had deteriorated by gout, a disease that prevented him from painting normally. His body was buried in the church of Santiago, where he had designed his own chapel. Her tomb is adorned with a painting of her that depicts the Virgin and the Child with the saints George, Michael and Catalina.
 
 If you want to know more about Rubens' paintings, technical characteristics, facts about Renaissance artists and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend ["The Prado Art Guide" now available on Amazon by clicking here](https://www.amazon.es/dp/8418943424/).
-
-
 
 ![](/images/1659095223.png)
 
