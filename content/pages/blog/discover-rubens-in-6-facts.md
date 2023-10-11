@@ -22,7 +22,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Peter Paul Rubens was a flamenco painter of the 17th century, considered one of the highest exponents of the Baroque. His work covers a wide variety of themes, from religious to mythological, through portraits, landscapes and hunting scenes. His style is characterized by dynamism, color and sensuality, with a clear influence of Italian Renaissance painting, especially of Tiziano. Here are six interesting facts about his life and work:
+Peter Paul Rubens was a painter of the 17th century, considered one of the highest exponents of the Baroque. His work covers a wide variety of themes, from religious to mythological, through portraits, landscapes and hunting scenes. His style is characterized by dynamism, color and sensuality, with a clear influence of Italian Renaissance painting, especially of Tiziano. Here are six interesting facts about his life and work:
 
 ## 1.He was born in Germany, but he studied and worked mainly in Antwerp.
 
