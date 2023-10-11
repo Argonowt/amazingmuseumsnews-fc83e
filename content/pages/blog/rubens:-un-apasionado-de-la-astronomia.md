@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Rubens: un apasionado de la astronomía'
+title: 'Rubens: an astronomy enthusiast'
 colors: colors-d
 date: '2023-11-06'
 excerpt: >-
