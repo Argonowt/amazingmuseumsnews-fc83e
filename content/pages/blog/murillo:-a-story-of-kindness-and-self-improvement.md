@@ -18,7 +18,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/autoretratoMurillo-499x281.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
