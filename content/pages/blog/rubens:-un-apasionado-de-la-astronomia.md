@@ -7,8 +7,13 @@ title: 'Rubens: un apasionado de la astronomía'
 colors: colors-d
 date: '2023-11-06'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Pedro Pablo Rubens was one of the most important and prolific painters of the
+  17th century, whose work covers various topics such as mythology, history,
+  naturalism or religion. But besides being a great artist, Rubens was also a
+  cult man and interested in science, especially astronomy. In some of his
+  works, references and homage can be appreciated to the astronomical
+  discoveries of his time, such as those made by Galileo Galilei with his
+  telescope.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
