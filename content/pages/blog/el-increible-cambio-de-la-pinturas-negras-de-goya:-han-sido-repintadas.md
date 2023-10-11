@@ -72,7 +72,7 @@ Thanks to these photographs, we can appreciate the differences between the origi
 
 These differences show us how the process of restoration and transfer altered the appearance and meaning of the Black Paintings, but also reveal the documentary and historical value of the photographs of Jean Laurent, which allow us to approach the original vision of Goya and admire his artistic genius.
 
-![](https://cdn.zendalibros.com/wp-content/uploads/dog-semihundido-j-laurent.jpg)
+![](https://cdn.zendalibros.com/wp-content/uploads/perro-semihundido-j-laurent.jpg)
 
 *The famous Perro Semihundido originally had two birds flying.*
 
