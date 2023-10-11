@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'El increíble cambio de la Pinturas Negras de Goya: han sido repintadas'
+title: 'The incredible change in Goya''s Black Paintings: they have been repainted'
 colors: colors-d
 date: '2023-10-11'
 excerpt: >-
