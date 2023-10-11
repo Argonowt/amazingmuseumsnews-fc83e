@@ -47,3 +47,6 @@ In the 1660s, Murillo changed his style and oriented himself towards a more brig
 Murillo was also an excellent portraitist, able to capture the personality and character of his models. Among his most famous portraits are those of his patron Nicolas Omazur, the bishop Ambrosio Ignacio Spínola and the sculptor Pedro Roldán.
 
 Murillo died in 1682, after falling while painting a painting. His artistic legacy was enormous and had many followers and admirers, both in Spain and in the rest of Europe. His work is preserved in museums such as the Prado, the Louvre, the National Gallery or the Hermitage. If you want to know more information about Murillo and his work, technical features, data about Renaissance artists and, above all, information about the greatest works of art that houses the Prado Museum in Madrid, we recommend ["The Prado Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/dp/8418943424/)
+
+![](/images/1659105482.png)
+
