@@ -7,8 +7,12 @@ title: 10 incredible facts about Diego Velázquez
 colors: colors-d
 date: '2023-10-26'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Diego Velázquez is one of the most important painters in the history of
+  Spanish and world art. His work reflects the reality of his time with
+  incomparable mastery and originality. Velázquez was the court painter of
+  Philip IV, but he was also an artist who knew how to capture the beauty and
+  dignity of the most humble people. His influence extends to our days and many
+  artists have admired and taken him as a reference.
 featuredImage:
   type: ImageBlock
   url: /images/0_R93Jbuq-bglt_OKv.jpg
