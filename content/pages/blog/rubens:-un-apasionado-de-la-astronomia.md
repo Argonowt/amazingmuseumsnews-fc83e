@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: 'Rubens: un apasionado de la astronomía'
 colors: colors-d
-date: '2023-10-06'
+date: '2023-11-06'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
