@@ -14,7 +14,7 @@ excerpt: >-
   academic conventions and anticipated the birth of Cubism.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/15335.webp
   altText: Post thumbnail image
   caption: ''
 media:
