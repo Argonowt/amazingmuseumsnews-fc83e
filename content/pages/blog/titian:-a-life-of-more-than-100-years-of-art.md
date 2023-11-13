@@ -32,7 +32,6 @@ The Prado Museum has the largest and best collection of works by Titian outside 
 
 *Charles V on horseback in Mühlberg, Prado Museum.*
 
-
 His religious works also stand out, such as the Last Supper, the Dolorosa or the Penitent Magdalene, which show his ability to express the emotion and spirituality of the characters. Likewise, the Prado houses some of his most complex and original compositions, such as the Religión socorrida por España, the Gloria or the Entierro de Cristo.
 
 But undoubtedly, the most outstanding and unique set that can be seen in the Prado are the "poems" that Titian made for Philip II between 1551 and 1562. These are six paintings based on classical sources, such as Ovid or Boccaccio, depicting mythological episodes with a high erotic and symbolic content. The works are: Danae receiving the golden rain, Venus and Adonis, Perseus and Andromeda, Diana and Actaeon, Diana and Callisto and the Rape of Europa.
@@ -47,4 +46,8 @@ The Prado managed to bring together for the first time since the 16th century th
 
 Titian was an exceptional artist who masterfully captured reality and fantasy, the human and the divine, the sensual and the tragic. His work is a testimony to his long life dedicated to art and his ability to renew himself and adapt to the tastes and demands of his time. The Prado Museum offers a unique opportunity to know and enjoy this great master of the Renaissance, who continues to fascinate and excite art lovers.
 
-If you want to know more about Rubens and his work, technical characteristics, data on Renaissance artists and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend "El Prado Art Guide" already available on Amazon by clicking here.
+If you want to know more about Rubens and his work, technical characteristics, data on Renaissance artists and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend "The Prado Art Guide" already available on Amazon by clicking here.
+
+
+
+![](/images/1659105482.png)
