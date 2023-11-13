@@ -22,12 +22,24 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+In this article we are going to talk about one of the most important painters of the Italian Renaissance: Jacopo Robusti, better known as Tintoretto. His work is characterized by the use of light, color and movement, as well as by his influence on later artists such as Rubens or Velázquez. However, his life was marked by curious events, so join us to discover the life and work of this painting genius.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+## 1 His nickname is due to his father.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Tintoretto's father was a dyer, that is, an artisan who dyed fabrics. Therefore, his son was given the nickname Tintoretto, which means "little dyer" in Italian.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## 2 He was a disciple of Titian.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Tintoretto deeply admired Titian, the master of the Venetian school. According to legend, he sneaked into his workshop to copy his works and learn his techniques. However, Titian did not appreciate his talent and expelled him from his studio.
+
+## 3 He was a tireless worker.
+
+Tintoretto had a great passion for painting and devoted all his time to perfecting his art. It is said that he slept only four hours a day and had a motto in his studio: "The drawing of Michelangelo and the color of Titian."
+
+![](/images/El%20rapto%20de%20Helena.jpg)
+*The Rape of Helen, Prado Museum*
+
+## 4 He painted more than 700 paintings.
+
+Tintoretto's artistic production was enormous and covered diverse subjects: religious, mythological, historical, portraits, etc. Among his most famous works are "The Washing of the Feet" and "The Marriage at Cana".
+
