@@ -22,12 +22,10 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Cézanne was born in 1839 in Aix-en-Provence, and moved to Paris in 1861 to study art. There he met Camille Pissarro, with whom he developed a close friendship and artistic collaboration. Together they explored the possibilities of color, light and form, and created works that broke with academic conventions and anticipated the birth of Cubism.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Paul Cézanne was a perfectionist when it came to his art. The French Impressionist painter was so stressed by his work that he was often known to tear canvases and destroy them. When painting outdoors, some of these paintings would end up being thrown into the bushes by the frustrated artist. He was once seen trying to retrieve a painting from a large tree after he had calmed down.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+The Musée d'Orsay, which, along with the Louvre, is one of the most famous and visited museums in Paris, houses an impressive collection of Impressionist and Post-Impressionist works. Among them, the paintings of Paul Cézanne, one of the most influential and innovative artists of his time, stand out.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+At the Musée d'Orsay you can admire some of Cézanne's best works, covering different genres and stages of his career. Among them are The Card Players (between 1890 and 1895): a series of five paintings depicting everyday scenes of peasants playing cards in a tavern. Cézanne simplified shapes and colors, and created a balanced and harmonious composition.
