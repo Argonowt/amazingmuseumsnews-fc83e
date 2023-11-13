@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/el_cultural_431717607_218812768_1706x960-8edb51ef.webp
   altText: Post thumbnail image
   caption: ''
 media:
