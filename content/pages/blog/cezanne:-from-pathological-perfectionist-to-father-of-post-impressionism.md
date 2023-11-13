@@ -43,3 +43,7 @@ Another work that shows the painter's obsession with perfection was Apples and O
 
 ![](https://2.bp.blogspot.com/-f6buPkQejdo/U-vZ5q86a2I/AAAAAAAAByM/-C5sy4li8Gg/w1200-h630-p-k-no-nu/Imagen2.jpg)
 
+Cézanne dedicated his life to his art, but was never satisfied with its results. His relentless pursuit of perfection led him to create masterpieces, but also to suffer great anguish. His legacy is that of an incomparable genius, but also of a man tormented by his own demons.
+
+
+If you want to learn more about other works by Cezanne, we recommend "Musée d'Orsay Art Guide", our book about the museum that houses the largest amount of Impressionist work in the world, as well as a must-have art guide to discover and learn the essentials of the great works, artists and styles of the Musée de l'Orsay, soon available on Amazon.
