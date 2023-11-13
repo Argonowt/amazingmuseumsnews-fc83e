@@ -7,8 +7,12 @@ title: 'Titian: a life of more than 100 years of art'
 colors: colors-d
 date: '2023-11-17'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Titian Vecellio was one of the most important painters of the Italian
+  Renaissance and the greatest exponent of the Venetian school. Born into a
+  wealthy family in Pieve di Cadore, near Venice, around 1490, Titian began his
+  artistic training in the workshop of the Bellini brothers and later
+  collaborated with Giorgione, with whom he developed a style characterized by
+  the use of color and light.
 featuredImage:
   type: ImageBlock
   url: /images/napoli_capodimonte_03_tiziano_jpg_1200_630_cover_85.jpg
