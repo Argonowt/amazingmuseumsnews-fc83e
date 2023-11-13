@@ -46,8 +46,6 @@ The Prado managed to bring together for the first time since the 16th century th
 
 Titian was an exceptional artist who masterfully captured reality and fantasy, the human and the divine, the sensual and the tragic. His work is a testimony to his long life dedicated to art and his ability to renew himself and adapt to the tastes and demands of his time. The Prado Museum offers a unique opportunity to know and enjoy this great master of the Renaissance, who continues to fascinate and excite art lovers.
 
-If you want to know more about Rubens and his work, technical characteristics, data on Renaissance artists and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend "The Prado Art Guide" already available on Amazon by clicking here.
-
-
+If you want to know more about Rubens and his work, technical characteristics, data on Renaissance artists and, above all, information about the greatest works of art housed in the Prado Museum in Madrid, we recommend "The Prado Art Guide" [already available on Amazon by clicking here.](https://www.amazon.es/Museo-del-Prado-maestras-esenciales/dp/8418943378)
 
 ![](/images/1659105482.png)
