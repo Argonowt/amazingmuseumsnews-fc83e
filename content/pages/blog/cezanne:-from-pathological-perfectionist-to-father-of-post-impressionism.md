@@ -7,8 +7,11 @@ title: 'Cézanne: from pathological perfectionist to father of post-impressionis
 colors: colors-d
 date: '2023-12-11'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Cézanne was born in 1839 in Aix-en-Provence, and moved to Paris in 1861 to
+  study art. There he met Camille Pissarro, with whom he developed a close
+  friendship and artistic collaboration. Together they explored the
+  possibilities of color, light and form, and created works that broke with
+  academic conventions and anticipated the birth of Cubism.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
