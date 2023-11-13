@@ -22,7 +22,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/el_cultural_431717607_218812768_1706x960.webp
   altText: Post image
 bottomSections: []
 metaDescription: null
