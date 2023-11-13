@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/napoli_capodimonte_03_tiziano_jpg_1200_630_cover_85.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
