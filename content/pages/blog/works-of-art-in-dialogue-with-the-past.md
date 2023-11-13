@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Works of art in dialogue with the past
 colors: colors-d
-date: '2023-11-27'
+date: '2023-12-27'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
