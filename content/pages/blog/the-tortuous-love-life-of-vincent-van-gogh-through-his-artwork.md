@@ -7,8 +7,14 @@ title: The tortuous love life of Vincent Van Gogh through his artwork
 colors: colors-d
 date: '2023-11-24'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Vincent Van Gogh's love life was as stormy as his artistic life. The two great
+  passions of the painter ended up being sources of frustration that have marked
+  his whole life. In 1881 he fell in love with his cousin, eight years older
+  than him and who had just been widowed. Her name was Kee Stricker and she was
+  the widow of a first cousin of Vincent. The painter proposed to her, but she
+  flatly refused, telling him that she would rather throw herself into the fire
+  than marry him. Vincent, in desperation, tried to burn his hand in a lamp to
+  show his love, but his father stopped him in time.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
