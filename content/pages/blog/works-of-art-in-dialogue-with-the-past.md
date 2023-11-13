@@ -38,8 +38,6 @@ Manet transforms the Venus of Urbino into a modern prostitute who defies the soc
 
 [Venus de Urbino](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tizian_102.jpg/1200px-Tizian_102.jpg) (1538) by Titian. Galería Uffizi, Florencia.
 
-
-
 ## Las Meninas by Pablo Picasso
 
 Another example of artistic reinterpretation is the series of 58 works that Pablo Picasso dedicated to Las Meninas, the famous painting by Diego Velázquez painted in 1656. It is a Spanish Baroque masterpiece depicting an everyday scene at the court of King Philip IV, with the Infanta Margarita as the protagonist and Velázquez himself as the self-portrait.
@@ -78,16 +76,6 @@ One of his recurring themes was the actress Marilyn Monroe, to whom he dedicated
 
 [Advertising photography](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Marilyn_Monroe_in_Niagara.png/1200px-Marilyn_Monroe_in_Niagara.png) (1953) by Niagara. 20th Century Fox.## Marilyn Monroe by Andy Warhol
 
-Finally, we cannot fail to mention one of the most representative works of pop art, the artistic movement that emerged in the 50s and 60s and is characterized by using images and objects of popular culture and mass consumption. One of its greatest exponents was the American artist Andy Warhol, who used the silkscreen technique to create works based on photographs and media icons.
-
-One of his recurring themes was the actress Marilyn Monroe, to whom he dedicated several series of works after her death in 1962. Warhol took as a reference a publicity photograph from the film Niagara (1953) and reproduced it in different colors and combinations. With his work, Warhol not only pays homage to the Hollywood star, but also reflects on fame, death and the trivialization of the image.
-
-![](/images/R.jpg)
-
-[Marilyn Monroe](https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Marilyn_Monroe_by_Andy_Warhol_%281963%29.jpg/1200px-Marilyn_Monroe_by_Andy_Warhol_%281963%29.jpg) (1962) by Andy Warhol. Tate Modern, London.
-
-[Advertising photography](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Marilyn_Monroe_in_Niagara.png/1200px-Marilyn_Monroe_in_Niagara.png) (1953) by Niagara. 20th Century Fox.
-
 These are just a few examples of works of art that pay homage to or version previous works of art, but there are many more. Art is a living language that is constantly renewed thanks to the dialogue between artists and their referents.
 
-We invite you to discover other works that surprise you by their similarities or differences with others you already know in our collection of books Great Museums. With these books you can discover artists along with their work, technical characteristics, data and, above all, information about the greatest works of art housed in the world's major museums. If, for example, you want to know the Prado Museum in Madrid, we recommend ["El Prado Art Guide" already available on Amazon by clicking here](https://www.amazon.es/dp/8418943424/) If you prefer to buy it in a bookstore, [**find your nearest bookstore by clicking here](https://www.todostuslibros.com/libros/museo-del-louvre-guia-de-arte_978-84-18943-42-3)
+We invite you to discover other works that surprise you by their similarities or differences with others you already know in our collection of books Great Museums. With these books you can discover artists along with their work, technical characteristics, data and, above all, information about the greatest works of art housed in the world's major museums. If, for example, you want to know the Prado Museum in Madrid, we recommend ["El Prado Art Guide" already available on Amazon by clicking here](https://www.amazon.es/dp/8418943424/) If you prefer to buy it in a bookstore, [\*\*find your nearest bookstore by clicking here](https://www.todostuslibros.com/libros/museo-del-louvre-guia-de-arte_978-84-18943-42-3)
