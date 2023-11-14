@@ -65,3 +65,6 @@ Chiaroscuro is the technique of creating contrasts between light and shadow to e
 Tintoretto's work anticipated some features of the Baroque, such as the use of color, light and movement to create theatrical and emotional effects. His style influenced painters such as Rubens, Velázquez, Rembrandt and El Greco.
 
 If you want to know more about Tintoretto and his work, technical characteristics, data on Renaissance artists and, above all, information on the greatest works of art housed in the Prado Museum in Madrid, we recommend ["The Prado Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943394)
+
+![](/images/1659105482.png)
+
