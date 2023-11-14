@@ -36,10 +36,32 @@ Tintoretto deeply admired Titian, the master of the Venetian school. According t
 
 Tintoretto had a great passion for painting and devoted all his time to perfecting his art. It is said that he slept only four hours a day and had a motto in his studio: "The drawing of Michelangelo and the color of Titian."
 
-![](/images/El%20rapto%20de%20Helena.jpg)
-*The Rape of Helen, Prado Museum*
+![](https://www.grandesmuseos.news/images/El%20rapto%20de%20Helena.jpg)
+
+*The Rape of Helen, Prado Museum.*
 
 ## 4 He painted more than 700 paintings.
 
 Tintoretto's artistic production was enormous and covered diverse subjects: religious, mythological, historical, portraits, etc. Among his most famous works are "The Washing of the Feet" and "The Marriage at Cana".
 
+## 5 He was an innovator in the use of perspective.
+
+Tintoretto was one of the first painters to use aerial perspective, that is, the technique of creating a sense of depth and distance by changing the tone and sharpness of objects according to their distance. He also employed foreshortened perspective, which consists of depicting figures at extreme angles to create a dramatic effect.
+
+## 6 He created scenes full of dynamism and emotion.
+
+Tintoretto moved away from the classical ideal of beauty and harmony and sought to capture reality in all its intensity and complexity. His paintings show scenes full of action, movement and expressiveness, where figures are intertwined and illuminated with strong contrasts.
+
+![](https://www.grandesmuseos.news/images/Mois%C3%A9s%20salvado%20de%20las%20aguas.jpg)
+
+*Moses Saved from the Waters, Prado Museum.*
+
+## 7 He was a master of chiaroscuro.
+
+Chiaroscuro is the technique of creating contrasts between light and shadow to emphasize the volume and relief of forms. Tintoretto was an expert in this technique and used it to create dramatic and mysterious atmospheres in his works.
+
+## 8 It had a great influence on later art.
+
+Tintoretto's work anticipated some features of the Baroque, such as the use of color, light and movement to create theatrical and emotional effects. His style influenced painters such as Rubens, Velázquez, Rembrandt and El Greco.
+
+If you want to know more about Tintoretto and his work, technical characteristics, data on Renaissance artists and, above all, information on the greatest works of art housed in the Prado Museum in Madrid, we recommend ["The Prado Art Guide" already available on Amazon by clicking here.](https://www.amazon.es/Prado-Art-Guide-essential-masterpieces/dp/8418943394)
